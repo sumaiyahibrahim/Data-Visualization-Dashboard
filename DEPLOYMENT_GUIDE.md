@@ -16,10 +16,20 @@ Complete guide to deploy your professional data visualization dashboard to vario
 ### **Step 1: Initialize Git Repository**
 ```bash
 cd "c:\Users\PC\OneDrive\Desktop\data viz"
+# Run the setup script
+init_git.bat
+
+# Or manually:
 git init
 git add .
-git commit -m "Initial commit: DataViz Pro Dashboard"
+git commit -m "Initial commit: DataViz Pro Dashboard with Git integration"
 ```
+
+**✨ NEW: Git Integration Features**
+- **Dynamic "Last Updated"**: Shows actual Git commit timestamp
+- **Real-time Updates**: Automatically refreshes every 30 seconds
+- **GitHub Webhook**: Auto-updates when code is pushed
+- **Commit Hash Display**: Hover over timestamp to see commit hash
 
 ### **Step 2: Create GitHub Repository**
 1. Go to [GitHub.com](https://github.com)

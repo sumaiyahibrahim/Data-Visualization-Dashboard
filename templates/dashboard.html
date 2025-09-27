@@ -314,10 +314,12 @@
                         </button>
                     </div>
                     <div class="flex items-center space-x-2 text-sm text-slate-500">
-                        <i class="fas fa-info-circle"></i>
+                        <i class="fas fa-code-branch"></i>
                         <span>Last Updated:</span>
-                        <span class="font-medium text-slate-700" id="lastUpdated">1:26:53 PM</span>
-                        <div class="w-2 h-2 bg-green-500 rounded-full"></div>
+                        <span class="font-medium text-slate-700" id="lastUpdated" title="Git commit: {{ commit_info.hash }}">
+                            {{ commit_info.time }} - {{ commit_info.date }}
+                        </span>
+                        <div class="w-2 h-2 {{ 'bg-green-500' if commit_info.is_git_repo else 'bg-yellow-500' }} rounded-full animate-pulse-slow"></div>
                     </div>
                 </div>
                 
@@ -501,103 +503,130 @@
     </div>
     
     <!-- Help Guide Modal -->
-    <div id="helpGuideModal" class="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50 hidden p-4">
-        <div class="bg-white rounded-2xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden border border-slate-200">
+    <div id="helpGuideModal" class="fixed inset-0 bg-black/70 backdrop-blur-sm flex items-center justify-center z-50 hidden p-4">
+        <div class="bg-white rounded-3xl shadow-2xl max-w-3xl w-full max-h-[85vh] overflow-hidden relative">
             <!-- Modal Header -->
-            <div class="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-6">
-                <div class="flex items-center justify-between">
-                    <div class="flex items-center space-x-3">
-                        <div class="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center">
-                            <i class="fas fa-graduation-cap text-white text-xl"></i>
+            <div class="bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-700 text-white p-8 relative overflow-hidden">
+                <div class="absolute inset-0 bg-gradient-to-r from-white/10 to-transparent"></div>
+                <div class="relative z-10">
+                    <div class="flex items-center justify-between mb-2">
+                        <div class="flex items-center space-x-4">
+                            <div class="w-14 h-14 bg-white/20 backdrop-blur-sm rounded-2xl flex items-center justify-center">
+                                <i class="fas fa-rocket text-2xl"></i>
+                            </div>
+                            <div>
+                                <h2 class="text-3xl font-bold">Quick Start</h2>
+                                <p class="text-white/90 text-lg">Master DataViz Pro in 4 simple steps</p>
+                            </div>
                         </div>
-                        <div>
-                            <h2 class="text-2xl font-bold">DataViz Pro Quick Guide</h2>
-                            <p class="text-blue-100">Master the platform in minutes</p>
-                        </div>
+                        <button id="closeHelpGuide" class="w-10 h-10 bg-white/10 hover:bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center transition-all duration-200 hover:scale-110">
+                            <i class="fas fa-times text-lg"></i>
+                        </button>
                     </div>
-                    <button id="closeHelpGuide" class="text-white/80 hover:text-white transition-colors p-2 rounded-lg hover:bg-white/10">
-                        <i class="fas fa-times text-xl"></i>
-                    </button>
                 </div>
             </div>
             
             <!-- Modal Content -->
-            <div class="flex max-h-[calc(90vh-120px)]">
-                <!-- Sidebar Navigation -->
-                <div class="w-64 bg-slate-50 border-r border-slate-200 p-4 overflow-y-auto">
-                    <nav class="space-y-2">
-                        <a href="#getting-started" class="guide-nav-link active flex items-center px-3 py-2 text-sm font-medium text-blue-600 bg-blue-50 rounded-lg">
-                            <i class="fas fa-rocket mr-2"></i>
-                            Getting Started
-                        </a>
-                        <a href="#data-management" class="guide-nav-link flex items-center px-3 py-2 text-sm font-medium text-slate-700 hover:text-blue-600 hover:bg-slate-100 rounded-lg">
-                            <i class="fas fa-database mr-2"></i>
-                            Data Management
-                        </a>
-                        <a href="#filtering-tips" class="guide-nav-link flex items-center px-3 py-2 text-sm font-medium text-slate-700 hover:text-blue-600 hover:bg-slate-100 rounded-lg">
-                            <i class="fas fa-filter mr-2"></i>
-                            Smart Filtering
-                        </a>
-                        <a href="#visualization-guide" class="guide-nav-link flex items-center px-3 py-2 text-sm font-medium text-slate-700 hover:text-blue-600 hover:bg-slate-100 rounded-lg">
-                            <i class="fas fa-chart-line mr-2"></i>
-                            Visualizations
-                        </a>
-                        <a href="#export-tips" class="guide-nav-link flex items-center px-3 py-2 text-sm font-medium text-slate-700 hover:text-blue-600 hover:bg-slate-100 rounded-lg">
-                            <i class="fas fa-download mr-2"></i>
-                            Export & Reports
-                        </a>
-                        <a href="#pro-tips" class="guide-nav-link flex items-center px-3 py-2 text-sm font-medium text-slate-700 hover:text-blue-600 hover:bg-slate-100 rounded-lg">
-                            <i class="fas fa-lightbulb mr-2"></i>
-                            Pro Tips
-                        </a>
-                    </nav>
-                </div>
-                
-                <!-- Main Content -->
-                <div class="flex-1 overflow-y-auto p-6">
-                    <!-- Getting Started Section -->
-                    <section id="getting-started" class="guide-section mb-8">
-                        <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6 border border-blue-200 mb-6">
-                            <h3 class="text-xl font-bold text-slate-900 mb-4 flex items-center">
-                                <i class="fas fa-rocket text-blue-600 mr-3"></i>
-                                Quick Start Guide
-                            </h3>
-                            <div class="grid md:grid-cols-2 gap-6">
-                                <div class="space-y-4">
-                                    <div class="flex items-start space-x-3">
-                                        <div class="w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0">1</div>
-                                        <div>
-                                            <h4 class="font-semibold text-slate-800">Select Your Dataset</h4>
-                                            <p class="text-sm text-slate-600">Choose from pre-loaded datasets or upload your own CSV/Excel files</p>
-                                        </div>
-                                    </div>
-                                    <div class="flex items-start space-x-3">
-                                        <div class="w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0">2</div>
-                                        <div>
-                                            <h4 class="font-semibold text-slate-800">Apply Smart Filters</h4>
-                                            <p class="text-sm text-slate-600">Use date ranges and category filters to focus on specific data segments</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="space-y-4">
-                                    <div class="flex items-start space-x-3">
-                                        <div class="w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0">3</div>
-                                        <div>
-                                            <h4 class="font-semibold text-slate-800">Analyze Visualizations</h4>
-                                            <p class="text-sm text-slate-600">Interactive charts update automatically based on your filters</p>
-                                        </div>
-                                    </div>
-                                    <div class="flex items-start space-x-3">
-                                        <div class="w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0">4</div>
-                                        <div>
-                                            <h4 class="font-semibold text-slate-800">Export Data</h4>
-                                            <p class="text-sm text-slate-600">Download filtered data and charts for further analysis</p>
-                                        </div>
-                                    </div>
-                                </div>
+            <div class="p-8 overflow-y-auto max-h-[calc(85vh-140px)]">
+                <!-- Quick Start Steps -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+                    <div class="group">
+                        <div class="flex items-start space-x-4 p-6 bg-gradient-to-br from-blue-50 to-blue-100/50 rounded-2xl border border-blue-200/50 hover:shadow-lg transition-all duration-300">
+                            <div class="w-12 h-12 bg-blue-600 text-white rounded-xl flex items-center justify-center text-xl font-bold flex-shrink-0 group-hover:scale-110 transition-transform duration-300">1</div>
+                            <div>
+                                <h3 class="text-xl font-bold text-slate-800 mb-2">Select Dataset</h3>
+                                <p class="text-slate-600 leading-relaxed">Choose from built-in datasets or upload your own CSV files with dynamic filter detection</p>
                             </div>
                         </div>
-                    </section>
+                    </div>
+                    
+                    <div class="group">
+                        <div class="flex items-start space-x-4 p-6 bg-gradient-to-br from-emerald-50 to-emerald-100/50 rounded-2xl border border-emerald-200/50 hover:shadow-lg transition-all duration-300">
+                            <div class="w-12 h-12 bg-emerald-600 text-white rounded-xl flex items-center justify-center text-xl font-bold flex-shrink-0 group-hover:scale-110 transition-transform duration-300">2</div>
+                            <div>
+                                <h3 class="text-xl font-bold text-slate-800 mb-2">Apply Filters</h3>
+                                <p class="text-slate-600 leading-relaxed">Use smart filters that automatically adapt to your data structure and content</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="group">
+                        <div class="flex items-start space-x-4 p-6 bg-gradient-to-br from-purple-50 to-purple-100/50 rounded-2xl border border-purple-200/50 hover:shadow-lg transition-all duration-300">
+                            <div class="w-12 h-12 bg-purple-600 text-white rounded-xl flex items-center justify-center text-xl font-bold flex-shrink-0 group-hover:scale-110 transition-transform duration-300">3</div>
+                            <div>
+                                <h3 class="text-xl font-bold text-slate-800 mb-2">Analyze Charts</h3>
+                                <p class="text-slate-600 leading-relaxed">Interactive visualizations update in real-time as you apply different filters</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="group">
+                        <div class="flex items-start space-x-4 p-6 bg-gradient-to-br from-orange-50 to-orange-100/50 rounded-2xl border border-orange-200/50 hover:shadow-lg transition-all duration-300">
+                            <div class="w-12 h-12 bg-orange-600 text-white rounded-xl flex items-center justify-center text-xl font-bold flex-shrink-0 group-hover:scale-110 transition-transform duration-300">4</div>
+                            <div>
+                                <h3 class="text-xl font-bold text-slate-800 mb-2">Export Data</h3>
+                                <p class="text-slate-600 leading-relaxed">Download filtered datasets and charts for presentations or further analysis</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Key Features -->
+                <div class="border-t border-slate-200 pt-8">
+                    <h3 class="text-2xl font-bold text-slate-800 mb-6 text-center">Key Features</h3>
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                        <div class="text-center p-4 bg-slate-50 rounded-xl hover:bg-slate-100 transition-colors duration-200">
+                            <div class="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center mx-auto mb-3">
+                                <i class="fas fa-magic text-blue-600 text-xl"></i>
+                            </div>
+                            <h4 class="font-semibold text-slate-800 text-sm">Smart Filters</h4>
+                            <p class="text-xs text-slate-600 mt-1">Auto-detect filter types</p>
+                        </div>
+                        
+                        <div class="text-center p-4 bg-slate-50 rounded-xl hover:bg-slate-100 transition-colors duration-200">
+                            <div class="w-12 h-12 bg-emerald-100 rounded-xl flex items-center justify-center mx-auto mb-3">
+                                <i class="fas fa-chart-line text-emerald-600 text-xl"></i>
+                            </div>
+                            <h4 class="font-semibold text-slate-800 text-sm">Live Charts</h4>
+                            <p class="text-xs text-slate-600 mt-1">Real-time updates</p>
+                        </div>
+                        
+                        <div class="text-center p-4 bg-slate-50 rounded-xl hover:bg-slate-100 transition-colors duration-200">
+                            <div class="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center mx-auto mb-3">
+                                <i class="fas fa-upload text-purple-600 text-xl"></i>
+                            </div>
+                            <h4 class="font-semibold text-slate-800 text-sm">Easy Upload</h4>
+                            <p class="text-xs text-slate-600 mt-1">Drag & drop CSV files</p>
+                        </div>
+                        
+                        <div class="text-center p-4 bg-slate-50 rounded-xl hover:bg-slate-100 transition-colors duration-200">
+                            <div class="w-12 h-12 bg-orange-100 rounded-xl flex items-center justify-center mx-auto mb-3">
+                                <i class="fas fa-download text-orange-600 text-xl"></i>
+                            </div>
+                            <h4 class="font-semibold text-slate-800 text-sm">Export Ready</h4>
+                            <p class="text-xs text-slate-600 mt-1">Multiple formats</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Pro Tips -->
+                <div class="border-t border-slate-200 pt-8 mt-8">
+                    <h3 class="text-xl font-bold text-slate-800 mb-4 flex items-center justify-center">
+                        <i class="fas fa-lightbulb text-yellow-500 mr-2"></i>
+                        Pro Tips
+                    </h3>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div class="bg-gradient-to-r from-yellow-50 to-yellow-100/50 border border-yellow-200 rounded-xl p-4">
+                            <p class="text-sm text-yellow-800"><strong>Quick Selection:</strong> Use Ctrl+Click for multiple filter options</p>
+                        </div>
+                        <div class="bg-gradient-to-r from-blue-50 to-blue-100/50 border border-blue-200 rounded-xl p-4">
+                            <p class="text-sm text-blue-800"><strong>Performance:</strong> Apply date filters first for large datasets</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
                     
                     <!-- Data Management Section -->
                     <section id="data-management" class="guide-section mb-8">

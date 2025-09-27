@@ -19,6 +19,7 @@ class DashboardApp {
         this.setupEventListeners();
         this.loadInitialData();
         this.updateLastUpdated();
+        this.startCommitInfoUpdater();
     }
     
     setupEventListeners() {
@@ -1172,6 +1173,41 @@ class DashboardApp {
             minute: '2-digit'
         });
         document.getElementById('lastUpdated').textContent = formatted;
+    }
+    
+    startCommitInfoUpdater() {
+        // Update commit info every 30 seconds
+        setInterval(() => {
+            this.updateCommitInfo();
+        }, 30000);
+        
+        // Initial update
+        this.updateCommitInfo();
+    }
+    
+    async updateCommitInfo() {
+        try {
+            const response = await fetch('/api/commit-info');
+            const commitInfo = await response.json();
+            
+            if (response.ok) {
+                const lastUpdatedElement = document.getElementById('lastUpdated');
+                const statusDot = lastUpdatedElement.parentElement.querySelector('.rounded-full');
+                
+                // Update the display
+                lastUpdatedElement.textContent = `${commitInfo.time} - ${commitInfo.date}`;
+                lastUpdatedElement.title = `Git commit: ${commitInfo.hash}`;
+                
+                // Update status indicator
+                if (commitInfo.is_git_repo) {
+                    statusDot.className = 'w-2 h-2 bg-green-500 rounded-full animate-pulse-slow';
+                } else {
+                    statusDot.className = 'w-2 h-2 bg-yellow-500 rounded-full animate-pulse-slow';
+                }
+            }
+        } catch (error) {
+            console.error('Error updating commit info:', error);
+        }
     }
     
     formatNumber(num) {

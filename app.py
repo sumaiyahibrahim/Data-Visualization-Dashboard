@@ -5,17 +5,10 @@ A scalable, modern data visualization platform with Tailwind CSS
 
 from flask import Flask, render_template, request, jsonify, send_file, flash, redirect, url_for
 from flask_cors import CORS
-from werkzeug.utils import secure_filename
-import pandas as pd
-import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
-import plotly.utils
-import plotly
-import json
-from datetime import datetime, timedelta
-import io
 import os
+import json
+import subprocess
+from datetime import datetime
 from data_manager import DataManager
 from chart_generator import ChartGenerator
 
@@ -23,15 +16,49 @@ from chart_generator import ChartGenerator
 app = Flask(__name__)
 CORS(app)
 app.config['SECRET_KEY'] = 'dataviz-pro-2024-secure-key'
-app.config['UPLOAD_FOLDER'] = 'data/uploads'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max file size
 
 # Allowed file extensions
 ALLOWED_EXTENSIONS = {'csv', 'xlsx', 'xls', 'json'}
 
-# Initialize data manager and chart generator
+# Initialize managers
 data_manager = DataManager()
 chart_generator = ChartGenerator()
+
+def get_last_commit_info():
+    """Get the last Git commit information"""
+    try:
+        # Get last commit hash and date
+        commit_hash = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'], 
+                                            stderr=subprocess.DEVNULL).decode('utf-8').strip()
+        
+        commit_date = subprocess.check_output(['git', 'log', '-1', '--format=%ci'], 
+                                            stderr=subprocess.DEVNULL).decode('utf-8').strip()
+        
+        # Parse the commit date
+        commit_datetime = datetime.strptime(commit_date[:19], '%Y-%m-%d %H:%M:%S')
+        
+        # Format for display
+        formatted_time = commit_datetime.strftime('%I:%M:%S %p')
+        formatted_date = commit_datetime.strftime('%b %d, %Y')
+        
+        return {
+            'hash': commit_hash,
+            'time': formatted_time,
+            'date': formatted_date,
+            'full_datetime': commit_datetime.isoformat(),
+            'is_git_repo': True
+        }
+    except (subprocess.CalledProcessError, FileNotFoundError, Exception):
+        # Fallback to current time if not a git repo or git not available
+        now = datetime.now()
+        return {
+            'hash': 'dev',
+            'time': now.strftime('%I:%M:%S %p'),
+            'date': now.strftime('%b %d, %Y'),
+            'full_datetime': now.isoformat(),
+            'is_git_repo': False
+        }
 
 def allowed_file(filename):
     """Check if file extension is allowed"""
@@ -43,14 +70,21 @@ def dashboard():
     # Get available datasets
     datasets = data_manager.get_available_datasets()
     
-    # Get initial data for default dataset
-    default_dataset = 'sales'
-    initial_data = data_manager.get_dataset_summary(default_dataset)
+    # Get initial data for the first dataset
+    initial_data = None
+    if datasets:
+        try:
+            initial_data = data_manager.get_dataset_summary(datasets[0]['id'])
+        except Exception as e:
+            print(f"Error loading initial data: {e}")
+    
+    # Get last commit info for the "Last Updated" display
+    commit_info = get_last_commit_info()
     
     return render_template('dashboard.html', 
-                         datasets=datasets,
+                         datasets=datasets, 
                          initial_data=initial_data,
-                         current_dataset=default_dataset)
+                         commit_info=commit_info)
 
 @app.route('/api/datasets')
 def get_datasets():
@@ -75,6 +109,26 @@ def get_filter_options(dataset_name):
         return jsonify(filter_options)
     except Exception as e:
         return jsonify({'error': str(e)}), 400
+
+@app.route('/api/commit-info')
+def get_commit_info():
+    """API endpoint to get the latest commit information"""
+    commit_info = get_last_commit_info()
+    return jsonify(commit_info)
+
+@app.route('/webhook/github', methods=['POST'])
+def github_webhook():
+    """GitHub webhook endpoint to update on push"""
+    try:
+        # Verify it's a push event
+        if request.headers.get('X-GitHub-Event') == 'push':
+            # Pull latest changes (in production, you'd want more security here)
+            subprocess.run(['git', 'pull'], cwd=os.getcwd(), check=True)
+            return jsonify({'status': 'success', 'message': 'Repository updated'}), 200
+        else:
+            return jsonify({'status': 'ignored', 'message': 'Not a push event'}), 200
+    except Exception as e:
+        return jsonify({'status': 'error', 'message': str(e)}), 500
 
 @app.route('/api/data/<dataset_name>')
 def get_dataset_data(dataset_name):
