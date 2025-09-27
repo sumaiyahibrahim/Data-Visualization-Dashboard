@@ -1,0 +1,2001 @@
+date,region,product,sales_rep,units_sold,unit_price,revenue,profit_margin,customer_satisfaction
+2023-01-31,Latin America,Smart Watches,Grace Lee,23,215.6,4958.84,0.181,3.6
+2020-03-28,Middle East & Africa,Headphones,Henry Taylor,23,178.19,4098.48,0.316,3.8
+2023-04-30,Latin America,Smart Watches,Alice Johnson,17,243.19,4134.31,0.208,4.4
+2024-09-01,Latin America,Headphones,Henry Taylor,16,157.1,2513.65,0.226,5.0
+2024-03-08,Asia Pacific,Smart Watches,Carol Davis,22,201.33,4429.18,0.338,4.3
+2022-02-15,Europe,Smart Watches,Bob Smith,22,212.2,4668.48,0.249,3.6
+2020-07-24,North America,Headphones,Bob Smith,26,151.2,3931.31,0.259,3.8
+2021-12-03,Europe,Smartphones,David Wilson,31,501.24,15538.38,0.189,3.6
+2020-10-22,Middle East & Africa,Smart TVs,Eva Brown,17,659.89,11218.15,0.206,4.3
+2022-11-30,Middle East & Africa,Gaming Consoles,Eva Brown,36,320.88,11551.81,0.313,4.6
+2024-08-25,Asia Pacific,Laptops,Carol Davis,12,677.08,8124.94,0.323,4.4
+2022-07-18,North America,Smart TVs,Grace Lee,20,764.29,15285.79,0.278,4.8
+2022-08-18,Asia Pacific,Smart Watches,Grace Lee,23,256.13,5890.94,0.304,4.2
+2021-01-27,Europe,Smartphones,David Wilson,13,632.74,8225.6,0.213,4.3
+2024-10-23,Middle East & Africa,Gaming Consoles,Grace Lee,19,356.61,6775.55,0.165,3.9
+2023-01-14,Latin America,Smartphones,Bob Smith,24,689.15,16539.61,0.311,3.8
+2024-12-26,Asia Pacific,Smart TVs,Bob Smith,21,813.91,17092.15,0.204,4.5
+2021-09-24,Latin America,Smart Watches,Alice Johnson,17,253.41,4307.95,0.247,4.5
+2023-06-11,Latin America,Smart TVs,Grace Lee,18,716.27,12892.83,0.231,3.6
+2021-03-17,Latin America,Headphones,Frank Miller,23,128.89,2964.36,0.35,3.9
+2020-01-02,Europe,Headphones,Frank Miller,22,151.86,3340.83,0.24,4.3
+2020-09-03,Latin America,Gaming Consoles,Carol Davis,18,448.5,8073.04,0.244,5.0
+2022-09-08,Asia Pacific,Gaming Consoles,Henry Taylor,24,401.31,9631.48,0.289,4.8
+2022-02-02,Asia Pacific,Headphones,Carol Davis,23,140.92,3241.16,0.169,4.9
+2024-07-21,Europe,Smart TVs,Alice Johnson,26,618.54,16082.04,0.258,4.5
+2020-09-19,Latin America,Smart TVs,Bob Smith,32,807.14,25828.42,0.188,3.9
+2024-08-09,Asia Pacific,Headphones,Henry Taylor,19,171.06,3250.06,0.337,4.7
+2020-04-13,Latin America,Cameras,Carol Davis,18,594.73,10705.19,0.207,4.0
+2024-09-25,Asia Pacific,Smart TVs,Eva Brown,16,626.43,10022.88,0.215,4.6
+2023-11-16,Asia Pacific,Laptops,Henry Taylor,31,757.67,23487.74,0.203,3.9
+2020-02-07,Middle East & Africa,Tablets,Frank Miller,27,282.01,7614.25,0.279,4.5
+2024-02-13,Middle East & Africa,Headphones,Eva Brown,20,166.11,3322.26,0.159,5.0
+2020-06-06,Middle East & Africa,Cameras,Eva Brown,31,590.61,18309.05,0.216,4.3
+2021-08-29,Asia Pacific,Headphones,Alice Johnson,12,131.45,1577.46,0.204,4.2
+2020-01-18,North America,Smartphones,Grace Lee,12,641.07,7692.89,0.222,3.9
+2021-05-04,Europe,Smartphones,Alice Johnson,25,650.14,16253.47,0.261,3.9
+2021-06-21,Asia Pacific,Smartphones,Alice Johnson,25,481.24,12031.11,0.276,3.8
+2024-12-04,Latin America,Tablets,Grace Lee,28,279.38,7822.59,0.181,5.0
+2020-05-29,Europe,Smartphones,Frank Miller,16,552.78,8844.54,0.257,4.0
+2020-09-20,Middle East & Africa,Headphones,David Wilson,32,170.52,5456.68,0.189,4.1
+2022-05-16,Latin America,Smart TVs,Eva Brown,19,630.24,11974.58,0.187,3.6
+2023-02-24,North America,Headphones,Eva Brown,19,125.63,2387.02,0.187,4.9
+2022-06-15,Middle East & Africa,Gaming Consoles,Henry Taylor,25,387.14,9678.4,0.2,4.0
+2022-09-23,North America,Smart Watches,Frank Miller,13,231.14,3004.84,0.346,3.8
+2022-06-30,Europe,Smartphones,Henry Taylor,28,591.52,16562.61,0.28,3.6
+2024-11-16,Middle East & Africa,Headphones,Bob Smith,25,176.01,4400.15,0.25,4.3
+2021-05-30,Europe,Laptops,David Wilson,21,845.85,17762.9,0.242,4.3
+2024-06-24,Latin America,Tablets,Alice Johnson,18,252.09,4537.68,0.154,3.6
+2020-02-04,North America,Smartphones,Henry Taylor,18,561.75,10111.5,0.202,4.2
+2022-04-05,Middle East & Africa,Smartphones,Eva Brown,29,580.31,16828.9,0.344,4.3
+2021-04-01,Asia Pacific,Laptops,Carol Davis,19,888.45,16880.59,0.218,4.9
+2020-02-06,Latin America,Laptops,Grace Lee,23,673.0,15478.99,0.331,4.3
+2021-12-29,Middle East & Africa,Tablets,Carol Davis,27,348.65,9413.44,0.168,4.0
+2021-12-18,Latin America,Tablets,Bob Smith,33,275.19,9081.11,0.216,4.5
+2024-02-16,Middle East & Africa,Gaming Consoles,Henry Taylor,24,399.11,9578.57,0.162,4.3
+2023-03-02,Asia Pacific,Gaming Consoles,Eva Brown,18,342.88,6171.82,0.302,4.4
+2023-06-30,Middle East & Africa,Smart TVs,Bob Smith,22,601.05,13223.09,0.253,3.8
+2024-07-29,Middle East & Africa,Laptops,Frank Miller,21,888.69,18662.43,0.262,4.1
+2024-04-03,Asia Pacific,Smart Watches,Eva Brown,19,274.1,5207.85,0.303,4.7
+2022-10-21,Asia Pacific,Smart Watches,David Wilson,32,228.57,7314.28,0.324,3.8
+2020-05-13,Europe,Headphones,Eva Brown,33,173.47,5724.46,0.256,5.0
+2023-06-06,Latin America,Tablets,Carol Davis,26,294.54,7658.17,0.276,4.4
+2021-10-17,North America,Tablets,David Wilson,31,287.34,8907.62,0.171,4.0
+2023-02-19,Latin America,Headphones,Bob Smith,18,135.96,2447.21,0.222,3.9
+2021-05-16,North America,Laptops,Alice Johnson,19,726.71,13807.42,0.177,3.6
+2021-01-24,Europe,Tablets,Henry Taylor,21,249.93,5248.53,0.325,4.3
+2022-10-25,North America,Cameras,Alice Johnson,18,478.6,8614.76,0.316,4.4
+2024-06-21,North America,Tablets,Grace Lee,20,343.77,6875.33,0.313,5.0
+2022-02-09,Middle East & Africa,Gaming Consoles,Eva Brown,23,380.46,8750.49,0.198,3.8
+2020-01-01,Asia Pacific,Smart Watches,Eva Brown,16,275.7,4411.2,0.159,3.9
+2024-04-23,Europe,Smartphones,Bob Smith,20,553.87,11077.33,0.313,5.0
+2022-09-16,Asia Pacific,Laptops,Alice Johnson,14,881.64,12343.01,0.274,4.6
+2021-03-10,Latin America,Smartphones,Frank Miller,21,613.16,12876.27,0.168,4.6
+2020-09-05,North America,Smart TVs,Grace Lee,19,801.46,15227.77,0.34,3.7
+2020-07-02,North America,Smartphones,Alice Johnson,20,715.21,14304.16,0.249,4.0
+2024-11-05,Asia Pacific,Smart TVs,Carol Davis,18,595.85,10725.35,0.18,3.7
+2024-03-23,Latin America,Smart TVs,David Wilson,18,692.71,12468.77,0.284,3.8
+2021-09-25,Asia Pacific,Tablets,Eva Brown,15,261.24,3918.62,0.168,3.7
+2020-08-20,Latin America,Smartphones,Frank Miller,18,645.69,11622.51,0.158,4.7
+2023-02-18,Asia Pacific,Gaming Consoles,Henry Taylor,11,448.99,4938.91,0.3,3.8
+2021-12-19,Europe,Headphones,Grace Lee,30,123.74,3712.21,0.18,3.7
+2022-10-23,Asia Pacific,Gaming Consoles,David Wilson,13,405.22,5267.84,0.198,3.9
+2021-04-29,Latin America,Smartphones,Grace Lee,17,558.6,9496.19,0.174,4.8
+2023-05-20,North America,Headphones,Bob Smith,24,125.22,3005.17,0.257,4.4
+2024-12-04,North America,Headphones,Carol Davis,27,173.98,4697.43,0.272,3.9
+2020-11-10,Middle East & Africa,Cameras,Eva Brown,42,445.07,18692.8,0.223,4.2
+2023-10-05,Asia Pacific,Cameras,Frank Miller,24,568.46,13643.11,0.16,3.5
+2020-08-16,Latin America,Smart TVs,Grace Lee,27,816.87,22055.51,0.151,5.0
+2024-06-17,Asia Pacific,Cameras,Alice Johnson,27,495.32,13373.75,0.318,3.8
+2023-12-04,Latin America,Tablets,David Wilson,30,253.78,7613.41,0.272,3.9
+2020-05-18,Latin America,Smart Watches,Carol Davis,21,245.43,5153.96,0.26,4.3
+2022-06-16,Middle East & Africa,Smart TVs,Bob Smith,15,560.76,8411.39,0.173,4.2
+2024-04-22,Asia Pacific,Cameras,Grace Lee,28,593.01,16604.15,0.175,4.6
+2023-03-06,Europe,Headphones,Carol Davis,21,128.39,2696.11,0.309,3.8
+2022-03-08,Asia Pacific,Smart Watches,Eva Brown,25,252.31,6307.66,0.222,4.8
+2020-03-29,Europe,Smart TVs,Henry Taylor,19,689.55,13101.46,0.21,4.6
+2020-05-22,North America,Laptops,Alice Johnson,27,813.94,21976.3,0.331,4.4
+2020-07-16,Asia Pacific,Gaming Consoles,Carol Davis,21,447.04,9387.92,0.274,4.3
+2023-06-08,Asia Pacific,Headphones,Eva Brown,18,134.91,2428.37,0.299,3.6
+2021-08-20,Europe,Smartphones,Eva Brown,26,677.1,17604.65,0.172,4.8
+2020-08-03,Latin America,Smart TVs,Grace Lee,24,624.19,14980.57,0.294,4.6
+2020-04-04,Asia Pacific,Tablets,David Wilson,20,281.48,5629.67,0.186,4.9
+2021-07-03,Europe,Cameras,Carol Davis,18,501.18,9021.2,0.272,3.5
+2022-04-07,Asia Pacific,Headphones,David Wilson,21,175.35,3682.35,0.291,3.7
+2021-08-26,Europe,Laptops,Frank Miller,12,908.94,10907.29,0.332,3.7
+2024-06-24,Middle East & Africa,Smartphones,Frank Miller,21,534.57,11226.07,0.272,4.1
+2023-08-25,North America,Smartphones,David Wilson,24,507.42,12178.18,0.233,4.8
+2021-01-20,Europe,Tablets,Bob Smith,28,243.94,6830.36,0.333,3.9
+2020-01-25,Latin America,Cameras,Eva Brown,27,516.12,13935.18,0.276,3.5
+2024-02-01,North America,Gaming Consoles,Alice Johnson,31,386.34,11976.54,0.167,5.0
+2021-07-14,North America,Smart TVs,Eva Brown,22,783.94,17246.66,0.22,4.2
+2023-08-21,Middle East & Africa,Smart Watches,Frank Miller,25,229.4,5735.11,0.293,4.3
+2021-05-16,Latin America,Laptops,Bob Smith,20,672.95,13459.08,0.217,3.6
+2024-07-24,Europe,Smartphones,Carol Davis,26,486.09,12638.41,0.181,4.6
+2023-10-04,North America,Laptops,Grace Lee,16,801.76,12828.2,0.269,4.0
+2023-06-06,Asia Pacific,Tablets,Alice Johnson,25,336.64,8415.94,0.348,4.4
+2022-03-24,Asia Pacific,Smart TVs,David Wilson,29,673.79,19539.91,0.215,3.6
+2020-11-25,North America,Gaming Consoles,Eva Brown,31,462.83,14347.65,0.313,4.0
+2022-01-15,Europe,Tablets,Grace Lee,18,283.53,5103.56,0.322,3.8
+2024-03-09,Latin America,Smart TVs,Alice Johnson,26,810.47,21072.34,0.31,4.1
+2023-02-12,North America,Cameras,Alice Johnson,20,451.58,9031.55,0.178,4.8
+2020-01-04,Europe,Smartphones,Eva Brown,15,484.41,7266.21,0.333,3.7
+2023-10-11,North America,Cameras,Bob Smith,21,565.95,11884.92,0.191,3.5
+2020-01-27,North America,Gaming Consoles,Frank Miller,23,421.3,9689.8,0.249,4.4
+2023-11-25,Europe,Smart Watches,David Wilson,36,235.39,8473.94,0.342,3.8
+2021-11-23,Latin America,Tablets,Bob Smith,18,292.46,5264.34,0.333,4.6
+2022-01-13,Asia Pacific,Cameras,Bob Smith,19,427.0,8113.0,0.247,3.9
+2022-01-20,Latin America,Tablets,Carol Davis,30,314.8,9444.0,0.245,4.0
+2020-10-22,North America,Laptops,Alice Johnson,23,787.1,18103.26,0.165,3.6
+2020-04-17,Latin America,Tablets,Frank Miller,17,355.45,6042.68,0.308,4.5
+2024-02-29,Latin America,Cameras,Henry Taylor,26,561.31,14594.12,0.282,4.5
+2021-12-10,North America,Smartphones,Alice Johnson,33,492.38,16248.64,0.284,3.6
+2022-11-05,North America,Gaming Consoles,Bob Smith,31,325.43,10088.37,0.289,3.9
+2021-11-18,Europe,Tablets,Grace Lee,36,246.59,8877.09,0.241,4.3
+2021-09-06,North America,Cameras,Grace Lee,18,496.21,8931.82,0.327,4.3
+2022-09-12,Latin America,Gaming Consoles,Grace Lee,24,425.86,10220.76,0.298,4.3
+2021-05-07,Europe,Headphones,Frank Miller,19,179.42,3408.99,0.15,3.8
+2023-07-21,Asia Pacific,Tablets,Grace Lee,15,297.57,4463.61,0.266,3.9
+2021-01-11,Europe,Cameras,Alice Johnson,18,546.45,9836.18,0.151,4.2
+2021-01-10,Europe,Headphones,Bob Smith,16,121.07,1937.16,0.348,4.1
+2022-03-27,North America,Smart TVs,David Wilson,24,676.92,16246.14,0.326,4.9
+2020-01-11,Middle East & Africa,Smartphones,Alice Johnson,23,576.38,13256.72,0.318,3.8
+2023-06-20,Middle East & Africa,Cameras,Bob Smith,12,407.35,4888.16,0.341,4.7
+2024-03-20,Middle East & Africa,Cameras,Grace Lee,16,519.45,8311.28,0.255,3.9
+2021-02-22,Europe,Smartphones,Frank Miller,19,659.49,12530.29,0.157,4.8
+2023-10-12,Europe,Tablets,Alice Johnson,18,297.2,5349.62,0.159,4.8
+2020-06-18,North America,Gaming Consoles,Henry Taylor,33,365.02,12045.74,0.201,3.5
+2023-06-28,Middle East & Africa,Smart TVs,Bob Smith,31,813.82,25228.54,0.264,4.5
+2020-02-09,Asia Pacific,Smart Watches,Eva Brown,23,286.82,6596.77,0.199,3.7
+2022-03-26,North America,Smart Watches,Carol Davis,13,218.92,2845.99,0.326,4.9
+2022-01-30,Asia Pacific,Gaming Consoles,Grace Lee,24,350.9,8421.63,0.167,4.0
+2023-06-10,North America,Smart TVs,Grace Lee,21,789.23,16573.83,0.176,3.9
+2024-01-18,Europe,Laptops,Henry Taylor,25,697.44,17435.98,0.301,4.7
+2022-07-04,Latin America,Smartphones,David Wilson,20,496.16,9923.28,0.266,4.0
+2021-04-18,Asia Pacific,Smartphones,Bob Smith,19,622.66,11830.45,0.227,3.6
+2022-11-22,Asia Pacific,Tablets,Bob Smith,30,252.26,7567.9,0.321,4.3
+2022-03-07,Middle East & Africa,Tablets,David Wilson,25,267.61,6690.16,0.176,4.8
+2023-11-06,Latin America,Smart TVs,David Wilson,36,647.35,23304.48,0.214,4.6
+2023-03-31,Middle East & Africa,Tablets,Henry Taylor,26,307.53,7995.78,0.244,4.3
+2022-12-19,North America,Laptops,Eva Brown,37,840.39,31094.45,0.176,3.5
+2021-01-12,Asia Pacific,Headphones,Frank Miller,19,155.9,2962.09,0.271,3.9
+2021-06-04,North America,Headphones,Grace Lee,26,155.42,4040.81,0.237,5.0
+2021-12-21,Middle East & Africa,Smartphones,Frank Miller,27,624.0,16848.13,0.208,4.5
+2022-03-11,Latin America,Cameras,Alice Johnson,13,597.33,7765.32,0.178,4.2
+2023-01-14,Latin America,Headphones,Alice Johnson,21,139.59,2931.34,0.254,3.6
+2021-08-11,Latin America,Smartphones,Frank Miller,16,677.15,10834.33,0.158,4.5
+2020-11-12,Asia Pacific,Tablets,Frank Miller,31,313.55,9720.15,0.21,4.9
+2024-09-09,Latin America,Cameras,David Wilson,18,416.02,7488.41,0.329,4.3
+2023-08-30,Europe,Gaming Consoles,Carol Davis,9,390.18,3511.59,0.295,4.4
+2024-03-27,Middle East & Africa,Laptops,Eva Brown,21,790.46,16599.63,0.299,4.8
+2020-11-04,Asia Pacific,Headphones,Bob Smith,27,149.6,4039.11,0.166,4.1
+2021-03-20,Middle East & Africa,Cameras,Grace Lee,16,434.84,6957.42,0.342,4.1
+2020-01-24,Latin America,Smart Watches,David Wilson,23,250.48,5761.14,0.259,4.3
+2024-06-28,Latin America,Smartphones,Eva Brown,22,623.45,13715.98,0.309,4.5
+2022-01-24,Asia Pacific,Smartphones,Frank Miller,18,591.8,10652.31,0.317,3.9
+2022-03-04,Latin America,Smart TVs,Frank Miller,15,831.99,12479.86,0.186,4.8
+2022-10-01,North America,Cameras,Frank Miller,26,502.96,13077.05,0.222,4.4
+2022-04-17,North America,Tablets,Alice Johnson,33,318.81,10520.68,0.215,4.7
+2024-08-26,Middle East & Africa,Gaming Consoles,Grace Lee,19,391.8,7444.28,0.284,3.7
+2020-05-12,Latin America,Smart TVs,Carol Davis,30,660.59,19817.71,0.226,4.4
+2021-11-17,Middle East & Africa,Headphones,Eva Brown,36,146.78,5284.16,0.323,4.3
+2023-06-28,Middle East & Africa,Headphones,Bob Smith,19,158.4,3009.6,0.195,3.8
+2022-12-18,Middle East & Africa,Laptops,Alice Johnson,31,767.16,23782.0,0.246,4.5
+2020-05-05,Europe,Laptops,Bob Smith,16,749.65,11994.39,0.256,3.7
+2024-07-19,Middle East & Africa,Headphones,Henry Taylor,34,129.74,4411.26,0.188,4.6
+2021-10-30,Middle East & Africa,Gaming Consoles,Frank Miller,16,476.58,7625.3,0.225,3.5
+2023-03-14,Europe,Smart TVs,Grace Lee,21,820.67,17233.98,0.288,4.5
+2023-03-16,Middle East & Africa,Smart TVs,Eva Brown,21,604.6,12696.61,0.271,4.0
+2023-03-30,North America,Laptops,Henry Taylor,24,732.38,17577.11,0.172,4.5
+2023-01-30,Latin America,Cameras,Carol Davis,24,559.56,13429.51,0.237,4.7
+2023-09-29,North America,Smart Watches,Grace Lee,22,256.34,5639.57,0.226,4.3
+2023-12-11,North America,Smart TVs,Alice Johnson,28,724.38,20282.56,0.184,4.5
+2022-08-19,North America,Tablets,Eva Brown,26,297.5,7735.05,0.155,4.0
+2020-01-12,Middle East & Africa,Smartphones,Henry Taylor,21,625.9,13143.84,0.303,4.7
+2021-05-12,Latin America,Tablets,Carol Davis,27,351.24,9483.59,0.162,4.9
+2021-04-14,Asia Pacific,Smartphones,Frank Miller,20,548.37,10967.39,0.211,4.7
+2020-10-17,Europe,Headphones,Frank Miller,23,144.81,3330.7,0.174,3.8
+2023-10-06,Latin America,Smartphones,Grace Lee,20,505.65,10113.01,0.263,3.9
+2020-02-05,Latin America,Headphones,Frank Miller,24,122.6,2942.51,0.277,4.9
+2022-06-05,Middle East & Africa,Cameras,David Wilson,19,522.2,9921.73,0.232,4.8
+2021-08-06,North America,Smartphones,Carol Davis,24,677.43,16258.26,0.235,4.5
+2020-05-25,Asia Pacific,Headphones,Bob Smith,19,130.08,2471.54,0.297,4.8
+2021-09-22,Middle East & Africa,Laptops,Frank Miller,21,714.22,14998.68,0.228,4.4
+2023-07-01,North America,Smartphones,Henry Taylor,16,577.04,9232.58,0.236,4.6
+2024-11-11,Asia Pacific,Gaming Consoles,Henry Taylor,21,435.89,9153.78,0.266,3.9
+2022-10-02,Latin America,Smart TVs,Eva Brown,27,650.54,17564.69,0.195,4.0
+2021-12-08,Middle East & Africa,Laptops,David Wilson,18,714.79,12866.18,0.258,4.8
+2024-05-04,Asia Pacific,Cameras,David Wilson,18,533.9,9610.15,0.349,4.5
+2023-05-17,Asia Pacific,Smartphones,Grace Lee,19,614.95,11684.07,0.342,3.8
+2020-10-13,North America,Gaming Consoles,Henry Taylor,19,451.49,8578.29,0.15,4.0
+2024-07-29,Latin America,Tablets,Henry Taylor,21,356.9,7494.89,0.154,4.6
+2023-06-25,Latin America,Laptops,Alice Johnson,26,722.26,18778.63,0.308,4.8
+2022-10-09,Latin America,Cameras,David Wilson,23,460.63,10594.39,0.203,4.0
+2020-12-06,Europe,Tablets,Alice Johnson,31,287.64,8916.77,0.239,4.4
+2020-11-06,Asia Pacific,Cameras,Carol Davis,31,478.21,14824.47,0.25,4.1
+2021-11-08,Europe,Smart Watches,Carol Davis,33,272.14,8980.69,0.178,3.8
+2024-03-29,North America,Gaming Consoles,Eva Brown,21,370.2,7774.13,0.271,3.7
+2020-12-01,Middle East & Africa,Headphones,Carol Davis,33,148.69,4906.9,0.251,3.8
+2023-04-11,Latin America,Headphones,Henry Taylor,14,176.19,2466.62,0.325,3.9
+2021-03-22,Middle East & Africa,Tablets,Frank Miller,21,286.38,6013.88,0.263,3.8
+2020-12-10,Europe,Cameras,Carol Davis,36,459.47,16540.96,0.236,3.8
+2020-05-28,North America,Headphones,Frank Miller,17,161.5,2745.45,0.274,4.4
+2024-04-24,North America,Smart Watches,Grace Lee,16,265.57,4249.16,0.32,4.6
+2024-02-17,Latin America,Gaming Consoles,Frank Miller,22,404.08,8889.78,0.246,3.8
+2021-08-20,Middle East & Africa,Cameras,Grace Lee,19,403.84,7672.93,0.202,4.6
+2023-12-17,Middle East & Africa,Laptops,Eva Brown,46,675.12,31055.32,0.26,4.2
+2020-11-03,Middle East & Africa,Smartphones,Frank Miller,22,656.97,14453.25,0.245,4.1
+2023-12-30,Middle East & Africa,Cameras,Bob Smith,25,487.52,12188.02,0.201,4.8
+2020-08-19,Middle East & Africa,Headphones,Carol Davis,20,147.01,2940.15,0.195,4.8
+2022-05-05,Middle East & Africa,Tablets,Eva Brown,23,321.63,7397.43,0.158,3.6
+2020-02-12,North America,Smart Watches,Carol Davis,12,295.65,3547.8,0.298,4.0
+2020-12-31,Latin America,Tablets,David Wilson,36,262.22,9440.04,0.185,3.6
+2020-12-15,Europe,Cameras,Grace Lee,25,524.93,13123.32,0.226,3.8
+2024-05-03,Latin America,Cameras,David Wilson,24,506.06,12145.45,0.158,5.0
+2020-05-28,Latin America,Headphones,Carol Davis,21,168.71,3542.83,0.281,3.7
+2022-02-21,North America,Smart TVs,Bob Smith,16,680.98,10895.7,0.238,4.4
+2022-02-28,Latin America,Cameras,David Wilson,14,577.38,8083.39,0.279,3.9
+2024-04-16,North America,Headphones,Alice Johnson,21,133.26,2798.54,0.346,4.6
+2020-08-25,Latin America,Smart TVs,Carol Davis,17,635.41,10802.02,0.258,4.6
+2022-02-08,Middle East & Africa,Smart Watches,Grace Lee,20,234.24,4684.77,0.233,4.6
+2023-10-08,Asia Pacific,Gaming Consoles,Frank Miller,21,459.73,9654.36,0.277,4.6
+2023-02-08,Europe,Smartphones,Henry Taylor,26,526.55,13690.27,0.326,4.5
+2021-04-17,Europe,Smart Watches,Henry Taylor,25,268.79,6719.71,0.225,4.3
+2022-07-20,Europe,Smartphones,Bob Smith,21,515.73,10830.4,0.211,4.8
+2023-01-29,Europe,Headphones,Grace Lee,19,173.17,3290.26,0.269,4.1
+2024-02-01,Middle East & Africa,Smartphones,Frank Miller,15,573.04,8595.62,0.23,4.8
+2023-05-29,Asia Pacific,Smart TVs,Eva Brown,21,716.98,15056.68,0.271,4.5
+2021-08-16,Asia Pacific,Gaming Consoles,David Wilson,25,332.33,8308.23,0.162,4.0
+2021-06-25,Europe,Cameras,Eva Brown,28,488.04,13665.11,0.179,4.0
+2023-04-21,North America,Smartphones,Grace Lee,16,656.56,10504.95,0.35,4.9
+2020-06-09,North America,Cameras,David Wilson,24,537.18,12892.37,0.348,4.6
+2020-05-16,Europe,Smart TVs,Eva Brown,15,653.66,9804.95,0.155,3.5
+2020-09-10,Middle East & Africa,Cameras,Alice Johnson,28,411.23,11514.36,0.321,3.8
+2021-08-03,Middle East & Africa,Smart TVs,Eva Brown,20,822.46,16449.18,0.291,4.4
+2021-09-29,Europe,Tablets,Alice Johnson,24,246.87,5924.97,0.195,3.7
+2024-05-11,Latin America,Smart TVs,Alice Johnson,31,575.98,17855.23,0.206,3.9
+2020-06-11,Latin America,Cameras,Henry Taylor,22,453.63,9979.81,0.181,4.8
+2024-06-30,Latin America,Smartphones,Bob Smith,25,555.65,13891.14,0.304,3.6
+2023-11-23,Europe,Smart TVs,Henry Taylor,31,807.0,25016.94,0.229,4.7
+2022-06-14,North America,Smart Watches,Bob Smith,27,233.83,6313.31,0.212,4.9
+2021-03-20,North America,Laptops,Bob Smith,23,668.43,15373.86,0.287,4.3
+2024-08-14,Middle East & Africa,Smart Watches,Bob Smith,19,279.17,5304.23,0.26,4.4
+2024-02-26,Europe,Laptops,Bob Smith,25,787.93,19698.36,0.232,4.5
+2023-01-14,Latin America,Smart TVs,Grace Lee,20,688.59,13771.74,0.16,4.7
+2022-08-17,Middle East & Africa,Headphones,Bob Smith,18,151.16,2720.94,0.191,4.8
+2024-10-15,Latin America,Headphones,Frank Miller,16,179.1,2865.59,0.304,3.5
+2024-11-18,Asia Pacific,Smart TVs,David Wilson,30,589.53,17685.98,0.281,4.7
+2023-04-16,Asia Pacific,Tablets,Eva Brown,32,302.8,9689.59,0.207,4.7
+2020-06-12,Middle East & Africa,Smart Watches,Henry Taylor,28,291.51,8162.25,0.257,3.7
+2021-04-12,Latin America,Smartphones,Grace Lee,21,695.32,14601.82,0.184,4.3
+2020-08-07,North America,Gaming Consoles,Henry Taylor,18,451.26,8122.69,0.213,4.7
+2020-12-31,Asia Pacific,Smart TVs,Alice Johnson,36,830.8,29908.64,0.234,5.0
+2024-04-05,Middle East & Africa,Smartphones,David Wilson,22,644.85,14186.63,0.169,3.5
+2022-07-18,Europe,Cameras,Frank Miller,27,571.64,15434.16,0.314,4.3
+2020-07-29,Latin America,Headphones,Alice Johnson,24,147.56,3541.34,0.222,4.2
+2023-02-28,Latin America,Headphones,Frank Miller,15,169.56,2543.38,0.17,3.9
+2024-09-11,Europe,Laptops,Carol Davis,19,848.37,16118.98,0.274,4.0
+2022-04-16,Latin America,Tablets,Frank Miller,14,279.01,3906.17,0.287,3.6
+2021-03-29,North America,Headphones,David Wilson,12,171.98,2063.8,0.193,4.0
+2021-06-16,Asia Pacific,Laptops,Eva Brown,22,929.15,20441.4,0.197,4.7
+2024-11-22,Middle East & Africa,Gaming Consoles,Bob Smith,33,320.03,10560.99,0.184,4.1
+2021-07-11,Latin America,Smart Watches,Henry Taylor,16,280.24,4483.77,0.246,3.5
+2021-02-27,Europe,Cameras,Grace Lee,14,594.56,8323.77,0.315,4.5
+2020-10-10,Latin America,Smart Watches,Grace Lee,22,262.82,5782.12,0.257,4.5
+2022-10-08,Middle East & Africa,Smart Watches,David Wilson,13,201.24,2616.13,0.244,4.0
+2023-05-11,Middle East & Africa,Tablets,Alice Johnson,17,245.78,4178.21,0.331,4.8
+2024-07-18,North America,Smart TVs,Grace Lee,26,794.68,20661.75,0.207,4.1
+2022-02-17,Europe,Smart Watches,Grace Lee,22,222.02,4884.5,0.248,4.6
+2023-05-09,Middle East & Africa,Laptops,David Wilson,26,945.86,24592.46,0.155,4.5
+2023-12-18,Latin America,Cameras,David Wilson,28,468.16,13108.57,0.183,3.8
+2021-06-16,Asia Pacific,Cameras,David Wilson,28,535.29,14987.99,0.176,3.9
+2020-03-16,Middle East & Africa,Tablets,Frank Miller,17,296.75,5044.71,0.347,3.9
+2023-07-09,North America,Smartphones,Alice Johnson,32,592.71,18966.85,0.24,4.2
+2022-05-16,Asia Pacific,Smart TVs,Eva Brown,20,710.36,14207.24,0.321,3.6
+2023-03-05,Asia Pacific,Headphones,David Wilson,17,146.31,2487.31,0.194,4.1
+2021-01-16,North America,Laptops,Henry Taylor,13,676.43,8793.57,0.219,4.3
+2022-11-30,Middle East & Africa,Smart TVs,Carol Davis,42,669.16,28104.9,0.296,4.8
+2022-08-14,Middle East & Africa,Smart Watches,David Wilson,22,271.84,5980.54,0.341,4.6
+2023-03-22,Asia Pacific,Cameras,Grace Lee,16,560.07,8961.14,0.283,3.6
+2024-11-09,Latin America,Smart TVs,David Wilson,40,649.9,25996.11,0.3,4.1
+2024-12-25,North America,Smartphones,Bob Smith,39,600.52,23420.16,0.178,3.7
+2024-04-23,Latin America,Tablets,David Wilson,22,303.6,6679.18,0.316,5.0
+2020-09-14,North America,Laptops,Frank Miller,20,667.01,13340.11,0.23,4.9
+2021-07-27,North America,Gaming Consoles,Grace Lee,22,330.78,7277.19,0.227,4.8
+2021-02-23,Asia Pacific,Smart Watches,Grace Lee,20,259.03,5180.57,0.195,4.1
+2020-07-13,Latin America,Headphones,Grace Lee,28,173.38,4854.62,0.152,4.1
+2023-02-15,Latin America,Headphones,Alice Johnson,20,129.94,2598.75,0.279,3.6
+2022-04-12,North America,Gaming Consoles,David Wilson,18,380.63,6851.26,0.151,4.1
+2024-02-07,Asia Pacific,Laptops,Alice Johnson,22,756.67,16646.74,0.194,5.0
+2022-04-12,Latin America,Laptops,Eva Brown,34,952.78,32394.68,0.256,3.7
+2024-08-16,Asia Pacific,Cameras,Frank Miller,28,479.09,13414.43,0.213,3.7
+2020-09-01,Europe,Smart Watches,Bob Smith,17,260.29,4425.0,0.315,5.0
+2020-03-17,Asia Pacific,Gaming Consoles,Frank Miller,18,374.46,6740.31,0.258,3.7
+2020-10-31,Middle East & Africa,Smartphones,Eva Brown,19,542.24,10302.57,0.189,3.6
+2022-07-30,Latin America,Smart Watches,David Wilson,30,216.52,6495.73,0.267,5.0
+2022-06-27,Europe,Tablets,David Wilson,31,308.33,9558.08,0.274,3.8
+2021-06-03,Latin America,Smart Watches,Alice Johnson,16,259.91,4158.59,0.221,4.2
+2020-09-02,Middle East & Africa,Cameras,Carol Davis,21,536.15,11259.17,0.243,3.6
+2024-05-24,North America,Tablets,Carol Davis,20,330.55,6611.09,0.248,4.0
+2023-06-05,Asia Pacific,Laptops,Frank Miller,28,803.61,22501.03,0.248,4.4
+2024-09-10,Middle East & Africa,Cameras,Carol Davis,19,552.91,10505.21,0.265,4.9
+2022-12-07,North America,Smart TVs,David Wilson,25,647.33,16183.29,0.201,3.5
+2022-07-31,Middle East & Africa,Gaming Consoles,Grace Lee,27,430.81,11631.74,0.177,3.9
+2023-05-12,Europe,Laptops,Henry Taylor,23,893.89,20559.38,0.348,3.8
+2022-03-04,North America,Smart TVs,Grace Lee,18,579.33,10427.91,0.151,4.9
+2020-07-06,North America,Gaming Consoles,Alice Johnson,30,334.18,10025.3,0.248,3.6
+2023-11-08,Latin America,Cameras,Grace Lee,16,422.2,6755.19,0.312,4.9
+2023-08-06,Middle East & Africa,Smart Watches,Carol Davis,20,207.69,4153.72,0.25,4.7
+2024-08-06,Latin America,Smartphones,Bob Smith,23,530.67,12205.34,0.323,4.1
+2023-05-23,Asia Pacific,Cameras,Eva Brown,21,509.8,10705.72,0.194,3.6
+2023-11-27,Middle East & Africa,Tablets,Alice Johnson,36,326.37,11749.5,0.323,4.2
+2024-02-16,Latin America,Headphones,Henry Taylor,20,134.08,2681.58,0.211,3.9
+2022-11-19,Latin America,Smart Watches,Carol Davis,36,249.67,8988.1,0.207,3.7
+2020-12-19,Asia Pacific,Laptops,David Wilson,28,700.49,19613.79,0.307,4.6
+2024-10-15,North America,Gaming Consoles,Henry Taylor,25,359.49,8987.3,0.298,4.0
+2024-08-01,North America,Laptops,Carol Davis,17,740.27,12584.61,0.308,4.8
+2020-05-20,Asia Pacific,Laptops,Frank Miller,13,798.02,10374.27,0.228,4.4
+2021-09-23,Europe,Gaming Consoles,Grace Lee,15,340.74,5111.04,0.285,4.9
+2024-10-02,Middle East & Africa,Headphones,Carol Davis,13,143.11,1860.39,0.323,4.2
+2024-02-28,Europe,Smart TVs,Frank Miller,24,800.51,19212.19,0.187,4.3
+2023-01-28,Europe,Smart TVs,Alice Johnson,22,806.44,17741.77,0.193,4.5
+2023-04-11,Middle East & Africa,Smartphones,Alice Johnson,14,657.26,9201.69,0.213,4.5
+2023-03-18,Latin America,Smart TVs,Frank Miller,16,640.47,10247.59,0.224,3.6
+2020-04-27,Europe,Smart Watches,David Wilson,13,224.19,2914.46,0.332,4.8
+2022-05-17,Europe,Tablets,Alice Johnson,23,348.73,8020.74,0.203,4.6
+2021-02-12,Latin America,Smartphones,David Wilson,19,589.18,11194.43,0.203,3.8
+2024-06-15,Europe,Headphones,Carol Davis,25,142.95,3573.87,0.224,3.8
+2023-11-15,Middle East & Africa,Laptops,Alice Johnson,34,845.4,28743.44,0.264,4.4
+2021-01-07,Latin America,Smart Watches,Grace Lee,26,254.7,6622.1,0.316,4.4
+2024-03-07,Middle East & Africa,Cameras,Carol Davis,17,445.65,7576.0,0.199,4.2
+2023-01-07,Latin America,Gaming Consoles,David Wilson,29,478.61,13879.76,0.259,4.9
+2021-06-23,North America,Laptops,Carol Davis,27,926.74,25022.09,0.319,4.0
+2023-09-24,Asia Pacific,Smart Watches,Eva Brown,20,216.39,4327.76,0.279,4.7
+2024-09-06,Latin America,Cameras,Henry Taylor,23,412.13,9478.89,0.288,4.5
+2020-01-05,Latin America,Headphones,Alice Johnson,19,177.48,3372.04,0.256,3.9
+2024-05-15,Europe,Smart Watches,Frank Miller,12,280.7,3368.36,0.242,4.3
+2023-05-31,Asia Pacific,Cameras,Frank Miller,19,410.0,7789.92,0.319,5.0
+2020-11-28,Europe,Tablets,Grace Lee,25,311.23,7780.68,0.165,4.4
+2020-06-02,Latin America,Headphones,Carol Davis,27,161.9,4371.26,0.229,4.9
+2022-07-18,Middle East & Africa,Smartphones,Henry Taylor,28,535.69,14999.31,0.242,4.7
+2024-06-07,Europe,Cameras,Eva Brown,24,401.81,9643.38,0.221,4.9
+2023-07-02,Asia Pacific,Smart Watches,Henry Taylor,28,251.47,7041.11,0.312,3.9
+2023-03-24,North America,Smart Watches,Carol Davis,27,290.14,7833.73,0.181,5.0
+2021-06-29,Asia Pacific,Laptops,Henry Taylor,24,843.34,20240.21,0.168,3.5
+2024-06-22,North America,Gaming Consoles,Carol Davis,20,478.79,9575.82,0.227,4.4
+2023-01-10,Latin America,Laptops,Bob Smith,35,908.74,31805.94,0.3,3.8
+2023-05-01,North America,Cameras,Bob Smith,22,486.28,10698.07,0.294,4.3
+2021-10-22,Asia Pacific,Headphones,Bob Smith,25,145.81,3645.15,0.331,4.8
+2024-07-26,Middle East & Africa,Cameras,David Wilson,25,451.06,11276.55,0.209,4.4
+2024-04-30,Latin America,Cameras,Alice Johnson,18,575.9,10366.19,0.242,3.6
+2023-07-30,Middle East & Africa,Headphones,Bob Smith,28,169.49,4745.64,0.253,4.2
+2023-04-19,Latin America,Gaming Consoles,Eva Brown,8,442.49,3539.9,0.15,4.1
+2021-07-19,Middle East & Africa,Laptops,Bob Smith,19,643.23,12221.35,0.237,4.8
+2020-12-07,Latin America,Headphones,David Wilson,24,164.51,3948.33,0.32,4.1
+2020-11-01,Middle East & Africa,Laptops,Henry Taylor,37,758.7,28071.94,0.33,4.7
+2024-04-23,Middle East & Africa,Cameras,Eva Brown,14,482.89,6760.52,0.301,3.5
+2020-06-10,North America,Laptops,Carol Davis,26,755.75,19649.43,0.34,4.4
+2024-07-16,Middle East & Africa,Smart Watches,Frank Miller,28,217.21,6081.85,0.344,4.2
+2023-05-02,Asia Pacific,Cameras,Alice Johnson,14,570.09,7981.32,0.219,3.5
+2021-11-11,Middle East & Africa,Laptops,Eva Brown,24,690.34,16568.27,0.174,4.6
+2020-06-23,Middle East & Africa,Gaming Consoles,Henry Taylor,24,346.09,8306.06,0.307,4.6
+2021-01-03,Asia Pacific,Tablets,David Wilson,14,313.91,4394.73,0.319,3.6
+2021-12-28,Asia Pacific,Smart Watches,Carol Davis,34,254.07,8638.5,0.236,4.0
+2023-09-21,Middle East & Africa,Smart TVs,Henry Taylor,22,788.6,17349.09,0.25,3.6
+2023-05-14,Asia Pacific,Smartphones,Henry Taylor,16,524.86,8397.75,0.154,4.1
+2023-07-30,Latin America,Laptops,Frank Miller,21,769.45,16158.42,0.164,4.7
+2023-09-03,Europe,Smart TVs,Alice Johnson,22,575.84,12668.57,0.225,4.9
+2023-03-10,Latin America,Cameras,Grace Lee,22,483.67,10640.67,0.3,3.7
+2022-11-18,Europe,Gaming Consoles,Bob Smith,40,392.02,15680.75,0.345,3.7
+2024-05-12,Middle East & Africa,Headphones,Frank Miller,21,154.93,3253.55,0.191,4.3
+2024-05-25,Asia Pacific,Tablets,Bob Smith,20,315.68,6313.68,0.26,4.5
+2020-06-02,Asia Pacific,Gaming Consoles,Grace Lee,14,431.33,6038.59,0.242,3.6
+2023-12-08,Middle East & Africa,Smartphones,Frank Miller,48,642.25,30827.82,0.291,4.4
+2022-01-14,Asia Pacific,Headphones,Carol Davis,21,176.8,3712.88,0.171,3.7
+2023-01-07,Asia Pacific,Cameras,Carol Davis,26,517.52,13455.45,0.29,4.5
+2020-10-10,North America,Laptops,Eva Brown,21,784.08,16465.71,0.342,4.1
+2023-06-14,Europe,Smart TVs,Henry Taylor,19,699.45,13289.57,0.299,4.0
+2024-11-14,Asia Pacific,Smart Watches,Grace Lee,37,243.84,9022.02,0.349,3.8
+2020-02-12,North America,Laptops,Bob Smith,23,849.28,19533.4,0.314,3.6
+2023-12-30,North America,Laptops,Frank Miller,25,660.01,16500.21,0.242,4.6
+2023-08-30,North America,Tablets,Henry Taylor,21,314.01,6594.29,0.299,4.6
+2024-11-08,Asia Pacific,Cameras,Bob Smith,28,559.94,15678.43,0.217,4.8
+2022-05-14,Middle East & Africa,Laptops,Bob Smith,24,841.68,20200.3,0.2,4.6
+2021-11-10,Latin America,Smartphones,David Wilson,28,668.42,18715.86,0.27,3.8
+2023-05-22,Middle East & Africa,Tablets,Frank Miller,17,241.38,4103.44,0.232,4.9
+2023-09-26,Middle East & Africa,Smart Watches,Alice Johnson,15,288.17,4322.54,0.313,4.5
+2022-03-13,Latin America,Smart Watches,Alice Johnson,17,251.5,4275.51,0.257,4.0
+2023-09-04,Europe,Headphones,Henry Taylor,24,174.83,4195.86,0.341,4.0
+2023-04-15,Europe,Smartphones,Grace Lee,16,696.85,11149.66,0.166,4.7
+2022-11-28,North America,Cameras,Eva Brown,33,571.75,18867.84,0.3,4.2
+2021-12-26,North America,Smart Watches,Grace Lee,33,269.39,8890.03,0.196,3.7
+2023-11-25,Middle East & Africa,Smartphones,Eva Brown,34,518.73,17636.72,0.167,3.5
+2020-08-22,Europe,Tablets,Frank Miller,14,309.86,4338.0,0.174,3.8
+2022-10-31,Asia Pacific,Cameras,Grace Lee,23,597.25,13736.73,0.233,4.6
+2024-02-13,Asia Pacific,Tablets,Bob Smith,19,264.44,5024.36,0.216,4.3
+2022-07-18,Middle East & Africa,Smart TVs,Grace Lee,16,592.82,9485.07,0.217,3.7
+2023-07-29,North America,Gaming Consoles,Eva Brown,21,352.69,7406.5,0.252,4.1
+2024-11-11,North America,Tablets,Alice Johnson,33,346.27,11427.05,0.194,4.6
+2023-03-13,North America,Cameras,David Wilson,23,493.01,11339.25,0.325,3.8
+2023-10-19,Asia Pacific,Cameras,Alice Johnson,20,564.12,11282.4,0.231,4.2
+2020-05-18,Middle East & Africa,Cameras,Frank Miller,22,456.18,10035.88,0.192,3.6
+2021-06-01,Latin America,Gaming Consoles,Alice Johnson,27,407.29,10996.93,0.346,4.2
+2020-11-28,Middle East & Africa,Cameras,Grace Lee,18,521.68,9390.27,0.291,4.1
+2024-05-14,Latin America,Tablets,Bob Smith,18,285.51,5139.13,0.316,4.8
+2022-06-23,Latin America,Gaming Consoles,David Wilson,15,327.79,4916.78,0.266,4.1
+2020-11-09,Middle East & Africa,Smart TVs,Eva Brown,27,772.38,20854.27,0.153,3.8
+2020-02-13,Middle East & Africa,Tablets,Grace Lee,22,286.89,6311.59,0.182,3.9
+2022-09-17,Asia Pacific,Smart Watches,Henry Taylor,20,230.69,4613.81,0.233,4.6
+2021-06-11,Asia Pacific,Laptops,Henry Taylor,25,917.96,22949.12,0.295,4.6
+2023-09-21,North America,Smartphones,Bob Smith,14,588.19,8234.61,0.342,4.1
+2020-03-02,North America,Gaming Consoles,Carol Davis,29,371.92,10785.73,0.204,3.8
+2023-11-02,Middle East & Africa,Tablets,David Wilson,37,333.21,12328.95,0.314,4.2
+2022-06-05,Latin America,Smartphones,Eva Brown,27,532.14,14367.66,0.243,3.9
+2022-06-11,Middle East & Africa,Smart TVs,Carol Davis,30,800.27,24008.21,0.307,4.1
+2020-12-31,Asia Pacific,Smart TVs,Henry Taylor,34,746.7,25387.67,0.169,4.6
+2023-04-20,Middle East & Africa,Smart TVs,Frank Miller,18,785.87,14145.59,0.322,5.0
+2024-08-25,Middle East & Africa,Smart Watches,Alice Johnson,25,201.37,5034.25,0.166,4.0
+2021-08-20,Europe,Laptops,Henry Taylor,17,803.72,13663.3,0.151,4.9
+2021-12-09,Middle East & Africa,Smart Watches,Bob Smith,27,263.83,7123.47,0.297,4.5
+2021-07-26,Asia Pacific,Laptops,David Wilson,25,761.32,19033.02,0.224,4.4
+2023-04-29,Asia Pacific,Smart Watches,Carol Davis,19,286.1,5435.99,0.242,4.9
+2022-11-03,Asia Pacific,Smart TVs,Carol Davis,37,801.82,29667.33,0.172,4.9
+2022-07-28,Middle East & Africa,Gaming Consoles,Alice Johnson,14,439.65,6155.06,0.312,4.1
+2021-09-07,Latin America,Cameras,Frank Miller,21,589.75,12384.73,0.162,4.5
+2021-01-09,Asia Pacific,Tablets,Grace Lee,31,298.62,9257.2,0.23,3.7
+2022-03-15,North America,Cameras,Bob Smith,28,518.57,14519.91,0.221,3.6
+2022-10-28,Middle East & Africa,Smart TVs,Bob Smith,12,806.67,9680.07,0.327,4.5
+2021-06-02,Middle East & Africa,Tablets,Grace Lee,26,336.01,8736.23,0.327,3.7
+2020-06-27,Latin America,Smart Watches,Bob Smith,27,261.9,7071.28,0.338,4.7
+2020-12-31,Latin America,Headphones,Grace Lee,28,160.16,4484.44,0.328,4.0
+2021-05-08,Asia Pacific,Smartphones,Bob Smith,19,593.99,11285.78,0.161,4.9
+2022-07-16,Latin America,Gaming Consoles,Eva Brown,18,321.39,5785.07,0.181,3.8
+2020-07-10,Middle East & Africa,Cameras,Henry Taylor,16,471.06,7537.02,0.285,3.6
+2020-04-10,Europe,Cameras,David Wilson,14,572.93,8021.04,0.181,3.6
+2024-07-23,Asia Pacific,Headphones,Frank Miller,28,154.84,4335.57,0.251,3.7
+2023-10-10,Latin America,Smart TVs,David Wilson,20,688.68,13773.67,0.211,4.7
+2020-04-15,Middle East & Africa,Smart TVs,Bob Smith,19,720.8,13695.21,0.283,4.7
+2023-11-23,Europe,Gaming Consoles,Grace Lee,30,478.31,14349.37,0.328,4.1
+2024-10-20,Middle East & Africa,Smartphones,Eva Brown,23,595.96,13707.16,0.318,4.0
+2020-08-14,Europe,Smart TVs,Grace Lee,23,703.88,16189.2,0.331,4.8
+2023-06-06,Asia Pacific,Smart Watches,Alice Johnson,24,240.28,5766.66,0.344,4.9
+2022-04-24,Asia Pacific,Cameras,Grace Lee,21,455.73,9570.3,0.194,3.8
+2022-01-07,Middle East & Africa,Cameras,Henry Taylor,21,557.13,11699.7,0.201,4.9
+2024-11-26,Asia Pacific,Headphones,Alice Johnson,34,140.26,4768.8,0.348,3.5
+2020-10-13,Middle East & Africa,Smartphones,David Wilson,16,480.16,7682.51,0.324,4.7
+2020-10-02,Latin America,Smart Watches,Alice Johnson,15,235.12,3526.83,0.169,4.2
+2024-10-20,Middle East & Africa,Gaming Consoles,Frank Miller,21,445.73,9360.33,0.268,3.5
+2020-06-04,North America,Smart Watches,Henry Taylor,25,251.29,6282.31,0.291,4.9
+2021-05-12,Middle East & Africa,Cameras,Frank Miller,20,552.58,11051.57,0.159,4.5
+2024-01-30,Latin America,Gaming Consoles,Alice Johnson,20,339.74,6794.88,0.275,3.9
+2020-11-03,North America,Cameras,Grace Lee,22,489.81,10775.77,0.197,3.6
+2024-02-13,Middle East & Africa,Cameras,Alice Johnson,21,434.7,9128.68,0.226,4.7
+2024-09-21,Asia Pacific,Tablets,Grace Lee,14,268.43,3758.05,0.285,4.3
+2023-12-01,Europe,Cameras,Eva Brown,34,417.51,14195.33,0.207,4.1
+2022-05-05,North America,Smart Watches,Carol Davis,17,263.71,4483.06,0.269,4.5
+2020-07-02,Latin America,Smartphones,Frank Miller,27,547.59,14784.87,0.343,3.5
+2023-08-04,North America,Laptops,David Wilson,17,665.26,11309.43,0.239,3.9
+2020-07-28,North America,Gaming Consoles,David Wilson,18,468.58,8434.46,0.162,3.6
+2022-06-30,Latin America,Gaming Consoles,Henry Taylor,21,466.12,9788.46,0.188,3.5
+2021-09-21,Europe,Laptops,Bob Smith,22,696.7,15327.44,0.209,3.7
+2023-07-30,North America,Gaming Consoles,Carol Davis,19,385.79,7330.04,0.23,4.8
+2022-05-01,Latin America,Gaming Consoles,David Wilson,17,363.46,6178.84,0.188,3.8
+2023-11-02,Middle East & Africa,Laptops,David Wilson,37,875.18,32381.52,0.256,3.9
+2023-03-12,Europe,Smartphones,Frank Miller,21,519.46,10908.6,0.173,4.3
+2021-09-16,Asia Pacific,Smart TVs,David Wilson,23,820.84,18879.21,0.314,4.3
+2024-08-13,Asia Pacific,Smart TVs,Bob Smith,12,778.4,9340.76,0.17,3.6
+2021-07-02,Asia Pacific,Smart Watches,Frank Miller,19,259.48,4930.21,0.298,3.5
+2020-01-30,Asia Pacific,Headphones,David Wilson,13,154.08,2003.02,0.209,4.9
+2024-01-01,Latin America,Smartphones,Frank Miller,19,492.08,9349.59,0.161,4.5
+2024-01-02,Middle East & Africa,Gaming Consoles,Alice Johnson,16,377.47,6039.57,0.315,4.7
+2021-11-08,Asia Pacific,Smart Watches,Henry Taylor,27,232.82,6286.08,0.192,3.6
+2022-04-28,Middle East & Africa,Cameras,Carol Davis,16,561.68,8986.9,0.315,4.1
+2024-11-11,Middle East & Africa,Smart TVs,Carol Davis,18,728.47,13112.48,0.337,4.0
+2021-01-24,Asia Pacific,Smart TVs,Bob Smith,23,676.95,15569.78,0.173,4.4
+2024-02-23,Latin America,Tablets,Alice Johnson,22,321.76,7078.77,0.338,3.6
+2023-09-02,Middle East & Africa,Laptops,Grace Lee,16,753.57,12057.08,0.233,4.5
+2021-02-01,Middle East & Africa,Smart TVs,Grace Lee,19,603.91,11474.24,0.315,3.6
+2021-03-04,Europe,Headphones,Henry Taylor,26,133.88,3480.95,0.25,4.6
+2020-07-19,Middle East & Africa,Smartphones,Henry Taylor,12,571.11,6853.3,0.213,3.9
+2022-03-08,Europe,Cameras,Bob Smith,19,578.72,10995.66,0.282,3.5
+2024-07-15,Middle East & Africa,Cameras,David Wilson,21,450.23,9454.91,0.319,4.2
+2021-08-30,North America,Smart Watches,Bob Smith,21,203.93,4282.47,0.204,3.5
+2023-11-25,Latin America,Gaming Consoles,David Wilson,24,457.15,10971.62,0.314,4.2
+2023-05-01,Latin America,Cameras,Henry Taylor,22,556.04,12232.83,0.35,3.8
+2023-07-17,North America,Smartphones,Alice Johnson,20,495.77,9915.32,0.327,4.1
+2022-06-02,North America,Headphones,Bob Smith,18,165.44,2977.87,0.33,3.6
+2023-08-30,North America,Laptops,Frank Miller,15,664.58,9968.68,0.197,4.7
+2023-05-22,Middle East & Africa,Gaming Consoles,Grace Lee,17,364.44,6195.4,0.157,4.9
+2022-10-15,Asia Pacific,Smart TVs,Alice Johnson,24,629.4,15105.71,0.29,4.0
+2022-09-25,Europe,Smartphones,Carol Davis,20,660.35,13206.97,0.176,4.3
+2021-07-28,Latin America,Headphones,Eva Brown,19,169.04,3211.73,0.336,3.6
+2022-03-06,Middle East & Africa,Gaming Consoles,David Wilson,17,373.12,6343.04,0.283,4.8
+2023-11-05,Middle East & Africa,Smart Watches,Carol Davis,30,255.28,7658.29,0.193,3.8
+2020-06-13,Asia Pacific,Gaming Consoles,David Wilson,25,375.45,9386.24,0.232,3.7
+2023-03-15,Middle East & Africa,Cameras,David Wilson,21,560.57,11771.98,0.199,5.0
+2021-06-17,Latin America,Headphones,Grace Lee,20,144.68,2893.56,0.198,4.5
+2021-03-16,Latin America,Laptops,Henry Taylor,25,690.02,17250.54,0.298,4.0
+2022-09-15,Latin America,Smartphones,Eva Brown,24,618.67,14848.17,0.323,3.9
+2023-04-19,Europe,Tablets,David Wilson,19,319.84,6077.03,0.25,4.5
+2021-02-26,Middle East & Africa,Gaming Consoles,Carol Davis,17,335.93,5710.77,0.271,4.3
+2022-06-26,North America,Laptops,Carol Davis,19,720.97,13698.4,0.323,3.7
+2021-02-13,Asia Pacific,Smart TVs,Bob Smith,22,650.81,14317.87,0.285,4.4
+2022-08-19,North America,Smart TVs,Bob Smith,21,637.26,13382.43,0.304,3.8
+2021-03-19,Europe,Smart TVs,Alice Johnson,22,621.24,13667.28,0.162,3.7
+2024-04-06,North America,Headphones,Bob Smith,18,175.73,3163.17,0.216,4.2
+2020-07-19,Europe,Smart TVs,Alice Johnson,20,736.79,14735.7,0.235,4.3
+2023-12-02,Asia Pacific,Smartphones,Grace Lee,36,673.43,24243.66,0.268,3.7
+2022-05-20,Middle East & Africa,Smartphones,Frank Miller,13,561.83,7303.79,0.333,4.1
+2024-01-17,Latin America,Smart Watches,David Wilson,23,299.44,6887.16,0.271,4.0
+2022-07-29,Latin America,Headphones,Bob Smith,25,165.38,4134.5,0.166,4.9
+2021-10-22,Asia Pacific,Cameras,Grace Lee,18,511.32,9203.68,0.219,3.7
+2024-04-28,North America,Laptops,Frank Miller,28,673.1,18846.77,0.23,4.6
+2020-07-24,Asia Pacific,Laptops,Eva Brown,27,721.43,19478.72,0.153,4.3
+2022-07-24,Middle East & Africa,Tablets,David Wilson,25,250.21,6255.17,0.26,4.1
+2022-04-16,Latin America,Tablets,Alice Johnson,18,256.56,4618.11,0.166,4.7
+2021-07-19,Asia Pacific,Smart Watches,Frank Miller,25,232.69,5817.35,0.211,4.1
+2022-05-01,Middle East & Africa,Smart TVs,Carol Davis,18,746.65,13439.75,0.174,4.4
+2020-10-02,North America,Gaming Consoles,David Wilson,13,427.79,5561.3,0.303,4.0
+2020-04-20,Middle East & Africa,Smart Watches,Frank Miller,16,255.11,4081.68,0.255,3.9
+2020-10-25,Middle East & Africa,Headphones,Alice Johnson,13,126.33,1642.28,0.267,4.3
+2024-12-07,Europe,Smartphones,Carol Davis,42,545.23,22899.61,0.23,4.4
+2023-10-24,Europe,Headphones,Alice Johnson,24,176.49,4235.87,0.256,4.6
+2021-12-20,North America,Smart Watches,Alice Johnson,37,296.65,10976.23,0.276,4.9
+2020-01-07,Europe,Tablets,David Wilson,29,254.45,7379.16,0.267,5.0
+2021-06-21,North America,Cameras,Eva Brown,21,432.38,9080.08,0.282,5.0
+2021-12-20,Latin America,Smart Watches,Eva Brown,21,241.48,5071.13,0.227,4.5
+2021-07-29,Latin America,Smartphones,Frank Miller,22,655.32,14417.0,0.177,3.8
+2020-11-25,Europe,Laptops,Grace Lee,30,917.81,27534.43,0.209,3.7
+2023-04-26,Europe,Headphones,Alice Johnson,22,132.89,2923.69,0.158,4.0
+2020-07-07,Asia Pacific,Smart TVs,Eva Brown,19,708.39,13459.44,0.286,4.4
+2021-01-11,Europe,Headphones,David Wilson,26,172.2,4477.1,0.224,4.4
+2024-04-23,Europe,Smart TVs,Grace Lee,20,648.2,12964.06,0.308,4.9
+2024-04-02,Europe,Smart Watches,Grace Lee,29,287.51,8337.89,0.344,3.8
+2021-08-04,Latin America,Smart TVs,Henry Taylor,19,722.58,13729.03,0.337,4.5
+2020-02-02,Europe,Smart Watches,David Wilson,30,298.25,8947.56,0.167,4.7
+2023-03-30,Asia Pacific,Cameras,Eva Brown,19,476.19,9047.62,0.161,4.4
+2024-09-02,Europe,Headphones,Frank Miller,16,122.9,1966.43,0.314,4.7
+2021-12-22,Latin America,Laptops,Bob Smith,36,904.3,32554.74,0.276,4.7
+2023-04-23,Middle East & Africa,Gaming Consoles,Carol Davis,31,416.81,12921.24,0.194,4.4
+2020-09-21,Europe,Smart Watches,Frank Miller,11,276.37,3040.06,0.255,3.8
+2022-06-08,Middle East & Africa,Tablets,Grace Lee,16,269.3,4308.79,0.27,4.1
+2023-08-10,Middle East & Africa,Smart Watches,Carol Davis,26,219.42,5704.82,0.245,3.5
+2021-03-26,Middle East & Africa,Smart TVs,Grace Lee,16,591.79,9468.66,0.334,4.7
+2020-08-13,North America,Cameras,Henry Taylor,20,466.08,9321.57,0.268,4.2
+2023-10-24,North America,Smartphones,David Wilson,24,519.86,12476.59,0.162,4.5
+2022-08-22,Asia Pacific,Laptops,Bob Smith,28,731.49,20481.67,0.284,3.8
+2023-01-20,Asia Pacific,Smart TVs,Carol Davis,24,742.83,17827.98,0.266,3.5
+2023-06-26,Europe,Smart TVs,Carol Davis,38,697.31,26497.95,0.184,3.6
+2022-04-29,Europe,Smartphones,Bob Smith,21,701.38,14729.07,0.165,3.9
+2024-11-19,Asia Pacific,Tablets,Carol Davis,27,355.39,9595.64,0.296,4.2
+2021-12-05,Asia Pacific,Tablets,Grace Lee,31,263.37,8164.56,0.312,3.9
+2021-11-29,North America,Tablets,David Wilson,21,305.83,6422.44,0.231,4.3
+2020-11-05,Latin America,Smart TVs,Carol Davis,28,604.45,16924.5,0.34,4.8
+2024-11-02,Middle East & Africa,Laptops,Alice Johnson,24,854.15,20499.6,0.247,4.1
+2023-03-27,Middle East & Africa,Tablets,Bob Smith,21,296.61,6228.78,0.261,4.4
+2024-01-29,Asia Pacific,Gaming Consoles,Henry Taylor,16,326.93,5230.89,0.29,4.0
+2020-09-01,Middle East & Africa,Laptops,Grace Lee,15,681.76,10226.42,0.238,4.0
+2024-11-16,Middle East & Africa,Headphones,Alice Johnson,34,139.14,4730.85,0.233,4.9
+2022-10-17,Middle East & Africa,Tablets,Frank Miller,13,308.86,4015.21,0.162,3.5
+2023-06-18,Latin America,Smart Watches,Henry Taylor,24,219.63,5271.11,0.155,4.8
+2021-05-05,Europe,Laptops,Henry Taylor,21,777.5,16327.41,0.3,4.9
+2024-07-22,Europe,Tablets,Alice Johnson,20,269.62,5392.46,0.211,4.3
+2024-07-27,Middle East & Africa,Smartphones,Frank Miller,25,501.07,12526.73,0.184,4.3
+2022-01-25,Europe,Headphones,Henry Taylor,19,120.83,2295.8,0.28,4.5
+2023-03-06,Europe,Headphones,Alice Johnson,26,153.88,4000.76,0.283,4.5
+2021-06-08,Latin America,Smartphones,Eva Brown,27,691.14,18660.8,0.16,3.8
+2021-06-04,Middle East & Africa,Tablets,Carol Davis,32,265.13,8484.31,0.233,4.0
+2024-03-11,North America,Headphones,Grace Lee,17,132.58,2253.88,0.345,4.5
+2023-03-20,Middle East & Africa,Cameras,Bob Smith,24,538.33,12919.95,0.343,4.1
+2020-07-27,Middle East & Africa,Smartphones,Alice Johnson,27,529.64,14300.18,0.251,4.0
+2021-08-16,Asia Pacific,Cameras,David Wilson,23,481.07,11064.5,0.204,3.8
+2020-05-23,North America,Headphones,Grace Lee,25,177.38,4434.44,0.225,4.0
+2023-03-13,Asia Pacific,Smart TVs,Bob Smith,17,805.14,13687.33,0.21,4.8
+2023-03-24,Europe,Smartphones,David Wilson,14,706.81,9895.28,0.287,4.0
+2021-11-16,Asia Pacific,Smartphones,Grace Lee,21,672.58,14124.08,0.322,3.7
+2024-06-13,Middle East & Africa,Cameras,Henry Taylor,31,556.64,17255.94,0.311,5.0
+2021-10-30,Latin America,Tablets,Carol Davis,22,343.16,7549.55,0.342,3.8
+2022-08-24,Latin America,Gaming Consoles,Alice Johnson,25,421.77,10544.19,0.23,4.4
+2024-09-18,North America,Tablets,Henry Taylor,23,340.66,7835.24,0.284,4.5
+2021-02-18,North America,Headphones,Henry Taylor,14,138.38,1937.29,0.215,3.6
+2022-11-16,Europe,Headphones,Grace Lee,25,176.52,4413.09,0.21,4.7
+2020-12-17,Middle East & Africa,Smart TVs,Henry Taylor,27,705.75,19055.31,0.238,4.8
+2024-09-23,Middle East & Africa,Laptops,Frank Miller,11,791.68,8708.5,0.24,4.8
+2023-01-22,Middle East & Africa,Headphones,Eva Brown,19,173.7,3300.36,0.321,4.5
+2022-07-27,North America,Smart TVs,Bob Smith,26,647.24,16828.24,0.319,3.9
+2021-03-23,Asia Pacific,Laptops,Eva Brown,16,710.28,11364.53,0.15,4.9
+2022-04-11,Europe,Gaming Consoles,Eva Brown,14,435.84,6101.83,0.336,4.1
+2020-08-03,Latin America,Headphones,Eva Brown,18,157.28,2831.04,0.294,3.7
+2020-08-15,Latin America,Cameras,Frank Miller,16,437.98,7007.6,0.158,4.1
+2022-11-07,Middle East & Africa,Laptops,Eva Brown,39,854.91,33341.42,0.156,4.3
+2024-09-27,Asia Pacific,Gaming Consoles,Henry Taylor,17,364.71,6200.09,0.307,4.8
+2020-02-21,Europe,Tablets,Eva Brown,23,240.84,5539.27,0.231,3.9
+2021-11-21,Latin America,Smart TVs,Carol Davis,24,579.09,13898.21,0.187,4.3
+2022-08-08,Latin America,Tablets,Frank Miller,18,348.64,6275.45,0.249,4.0
+2021-09-01,North America,Gaming Consoles,Frank Miller,11,367.69,4044.6,0.214,3.7
+2023-02-07,Asia Pacific,Smart TVs,Grace Lee,14,814.64,11404.96,0.188,4.7
+2024-02-09,Middle East & Africa,Laptops,Carol Davis,20,684.48,13689.61,0.238,4.2
+2021-06-21,Latin America,Laptops,David Wilson,19,732.47,13916.93,0.225,4.1
+2021-08-12,Asia Pacific,Smartphones,Bob Smith,15,679.16,10187.36,0.281,4.1
+2020-05-08,Middle East & Africa,Smartphones,Frank Miller,24,524.63,12591.14,0.34,3.8
+2022-12-03,Asia Pacific,Smartphones,Alice Johnson,13,574.13,7463.72,0.34,3.7
+2024-05-09,Europe,Laptops,Henry Taylor,24,840.85,20180.5,0.188,3.7
+2020-06-17,North America,Gaming Consoles,Grace Lee,31,449.32,13929.01,0.164,4.0
+2020-09-26,Latin America,Smart TVs,Frank Miller,18,727.01,13086.19,0.313,4.1
+2023-05-17,North America,Smartphones,Carol Davis,16,634.27,10148.33,0.27,4.5
+2024-03-30,Asia Pacific,Headphones,Alice Johnson,15,148.35,2225.26,0.226,4.3
+2020-01-13,North America,Gaming Consoles,David Wilson,17,417.57,7098.69,0.198,4.1
+2021-03-04,North America,Laptops,Henry Taylor,27,794.84,21460.55,0.175,4.0
+2023-09-22,North America,Smart Watches,Bob Smith,32,274.16,8773.01,0.259,4.8
+2020-05-31,Europe,Smart Watches,Alice Johnson,15,291.65,4374.73,0.216,4.1
+2023-12-27,Middle East & Africa,Gaming Consoles,David Wilson,45,415.59,18701.49,0.326,3.6
+2023-01-07,Asia Pacific,Gaming Consoles,David Wilson,16,467.07,7473.17,0.235,4.0
+2020-04-01,North America,Smartphones,Henry Taylor,20,698.29,13965.83,0.264,4.6
+2020-06-25,Asia Pacific,Tablets,Alice Johnson,30,335.27,10058.17,0.338,4.4
+2020-10-28,Latin America,Smart TVs,Henry Taylor,25,574.35,14358.84,0.23,4.5
+2021-03-17,Middle East & Africa,Gaming Consoles,David Wilson,22,425.87,9369.2,0.194,3.7
+2023-09-19,North America,Smartphones,Alice Johnson,20,712.15,14242.9,0.293,4.9
+2021-02-01,Latin America,Cameras,Alice Johnson,27,541.46,14619.31,0.2,4.2
+2020-10-08,Middle East & Africa,Headphones,Henry Taylor,22,153.04,3366.87,0.181,4.6
+2022-06-17,Latin America,Smart TVs,Bob Smith,30,646.64,19399.07,0.337,4.3
+2023-04-30,Latin America,Cameras,Bob Smith,18,519.46,9350.32,0.229,4.2
+2024-05-02,Asia Pacific,Cameras,David Wilson,26,555.36,14439.35,0.32,3.8
+2020-07-10,Asia Pacific,Smartphones,Eva Brown,27,632.48,17076.9,0.189,3.8
+2021-02-08,Middle East & Africa,Laptops,Carol Davis,23,724.83,16671.0,0.289,3.8
+2020-04-28,Europe,Laptops,Bob Smith,23,736.89,16948.42,0.256,4.3
+2021-05-30,Europe,Smart Watches,Bob Smith,18,296.98,5345.67,0.296,4.9
+2023-01-09,Europe,Smartphones,Frank Miller,15,629.61,9444.17,0.27,4.2
+2021-06-03,Europe,Tablets,David Wilson,24,336.62,8078.9,0.187,3.6
+2021-04-04,Middle East & Africa,Cameras,Henry Taylor,19,511.63,9721.05,0.219,4.9
+2020-08-03,North America,Laptops,Bob Smith,23,791.93,18214.3,0.217,4.9
+2021-01-12,North America,Tablets,Bob Smith,11,320.73,3528.04,0.217,3.8
+2020-02-26,North America,Tablets,Bob Smith,12,340.5,4085.96,0.198,3.8
+2020-04-19,North America,Headphones,Bob Smith,11,127.15,1398.68,0.157,3.6
+2020-12-08,Middle East & Africa,Gaming Consoles,Henry Taylor,24,382.92,9190.12,0.273,4.8
+2022-10-17,Europe,Cameras,Frank Miller,17,473.36,8047.11,0.17,4.6
+2020-05-18,Europe,Smartphones,Bob Smith,26,648.21,16853.4,0.207,4.4
+2022-01-10,Asia Pacific,Smartphones,Grace Lee,17,502.95,8550.21,0.234,3.7
+2024-04-02,North America,Smart TVs,Eva Brown,15,648.87,9733.03,0.194,4.3
+2021-11-28,Europe,Gaming Consoles,David Wilson,40,405.25,16210.09,0.322,4.5
+2021-09-30,Middle East & Africa,Gaming Consoles,Bob Smith,25,325.63,8140.86,0.299,4.7
+2022-02-21,Middle East & Africa,Smart Watches,Eva Brown,15,227.16,3407.33,0.213,4.8
+2022-01-29,Latin America,Smart TVs,Carol Davis,17,771.81,13120.71,0.245,3.8
+2020-01-26,Middle East & Africa,Smart Watches,Grace Lee,18,214.8,3866.33,0.347,3.8
+2021-10-24,Asia Pacific,Smart TVs,Frank Miller,24,718.32,17239.6,0.154,3.6
+2024-06-13,Middle East & Africa,Smart TVs,Henry Taylor,22,733.93,16146.51,0.174,5.0
+2023-06-03,Middle East & Africa,Gaming Consoles,Bob Smith,24,335.88,8061.04,0.236,4.4
+2020-03-11,North America,Smart TVs,Eva Brown,28,783.44,21936.3,0.298,3.6
+2024-06-06,Asia Pacific,Smartphones,David Wilson,12,577.24,6926.83,0.198,4.4
+2024-03-24,Middle East & Africa,Smart Watches,Bob Smith,23,265.36,6103.25,0.205,4.4
+2023-12-19,Middle East & Africa,Smartphones,Grace Lee,24,568.64,13647.48,0.283,3.7
+2020-09-07,Asia Pacific,Smart TVs,Carol Davis,21,564.66,11857.96,0.218,4.7
+2023-03-01,North America,Tablets,Alice Johnson,21,352.08,7393.62,0.176,4.7
+2023-06-16,Asia Pacific,Tablets,Bob Smith,31,283.17,8778.16,0.257,4.6
+2024-04-11,Latin America,Smart TVs,Henry Taylor,17,771.94,13122.98,0.288,4.8
+2022-01-23,Latin America,Laptops,David Wilson,21,920.88,19338.48,0.191,4.7
+2023-01-12,Latin America,Smart TVs,Eva Brown,19,795.05,15105.89,0.28,4.4
+2020-07-24,Latin America,Headphones,David Wilson,28,133.65,3742.17,0.183,4.0
+2021-06-29,Europe,Smart Watches,Grace Lee,22,298.37,6564.17,0.16,3.6
+2021-08-26,North America,Gaming Consoles,Frank Miller,15,323.5,4852.43,0.305,3.7
+2021-04-23,Latin America,Smart Watches,Henry Taylor,19,278.35,5288.65,0.152,4.6
+2021-08-31,Middle East & Africa,Tablets,Alice Johnson,20,334.22,6684.46,0.247,4.9
+2020-03-20,Latin America,Headphones,Frank Miller,14,136.95,1917.34,0.206,4.1
+2023-05-01,Middle East & Africa,Tablets,Bob Smith,21,258.54,5429.39,0.238,4.3
+2020-02-24,Latin America,Headphones,David Wilson,13,177.99,2313.92,0.339,4.0
+2022-08-30,North America,Gaming Consoles,Alice Johnson,30,345.83,10374.95,0.342,4.3
+2022-11-06,Asia Pacific,Gaming Consoles,Bob Smith,28,437.31,12244.56,0.349,3.9
+2022-02-01,North America,Gaming Consoles,David Wilson,13,340.68,4428.79,0.162,4.8
+2020-10-11,North America,Headphones,Carol Davis,13,125.43,1630.64,0.284,3.7
+2022-03-08,Asia Pacific,Tablets,Grace Lee,18,291.82,5252.7,0.306,4.2
+2021-02-22,Asia Pacific,Tablets,Eva Brown,25,266.93,6673.15,0.251,3.9
+2023-01-24,Latin America,Cameras,Bob Smith,25,541.39,13534.78,0.281,4.8
+2023-01-10,Latin America,Smart TVs,Frank Miller,28,668.86,18727.94,0.176,3.9
+2021-01-27,Asia Pacific,Laptops,Frank Miller,14,816.11,11425.57,0.253,4.5
+2020-06-15,Latin America,Smart TVs,Alice Johnson,31,608.45,18861.85,0.203,3.7
+2022-06-11,Latin America,Gaming Consoles,Henry Taylor,16,327.67,5242.66,0.34,4.6
+2022-03-20,Latin America,Headphones,Grace Lee,19,154.59,2937.26,0.347,3.9
+2020-11-13,North America,Gaming Consoles,Carol Davis,31,428.3,13277.29,0.163,4.4
+2020-11-09,Asia Pacific,Cameras,Bob Smith,37,568.76,21044.22,0.242,3.8
+2020-08-01,Europe,Tablets,Carol Davis,12,266.41,3196.93,0.201,4.8
+2023-03-07,North America,Headphones,Frank Miller,24,120.44,2890.64,0.252,3.7
+2024-02-18,Latin America,Smart TVs,Carol Davis,19,644.92,12253.47,0.293,4.0
+2022-12-15,Latin America,Laptops,Henry Taylor,19,644.03,12236.59,0.279,3.8
+2023-06-18,Asia Pacific,Laptops,Alice Johnson,19,917.19,17426.7,0.239,3.7
+2022-04-14,Asia Pacific,Headphones,Bob Smith,25,126.26,3156.62,0.264,4.3
+2022-08-27,North America,Laptops,Henry Taylor,19,640.66,12172.63,0.202,4.3
+2022-04-18,Middle East & Africa,Smart TVs,Bob Smith,22,574.33,12635.18,0.197,4.2
+2022-12-25,North America,Gaming Consoles,Henry Taylor,33,391.39,12915.78,0.261,3.9
+2024-04-29,Asia Pacific,Cameras,Eva Brown,17,460.36,7826.12,0.33,4.4
+2023-09-20,Latin America,Laptops,Eva Brown,20,724.98,14499.57,0.311,3.9
+2022-02-24,Middle East & Africa,Smart Watches,Frank Miller,20,226.51,4530.23,0.236,5.0
+2020-03-27,North America,Smart TVs,Frank Miller,21,706.77,14842.27,0.283,3.9
+2023-10-30,Latin America,Smart Watches,Grace Lee,25,207.53,5188.2,0.172,3.6
+2020-05-07,Europe,Gaming Consoles,Eva Brown,14,451.38,6319.36,0.344,4.2
+2021-07-13,Asia Pacific,Laptops,Henry Taylor,20,749.11,14982.16,0.35,3.9
+2020-03-04,Middle East & Africa,Headphones,Carol Davis,22,127.7,2809.42,0.28,5.0
+2020-10-07,Asia Pacific,Cameras,David Wilson,9,565.28,5087.5,0.29,4.2
+2021-08-03,North America,Smartphones,Bob Smith,20,633.86,12677.21,0.212,4.3
+2020-02-18,North America,Tablets,Bob Smith,22,329.95,7258.8,0.29,4.0
+2022-11-15,Middle East & Africa,Cameras,Grace Lee,33,519.54,17144.7,0.324,4.8
+2022-06-06,Asia Pacific,Smart Watches,Bob Smith,26,224.47,5836.1,0.234,4.8
+2021-03-31,North America,Smart Watches,Grace Lee,15,291.11,4366.68,0.314,4.6
+2022-02-26,Europe,Cameras,Grace Lee,22,516.51,11363.15,0.287,4.6
+2021-05-16,Latin America,Headphones,Eva Brown,15,155.27,2329.02,0.318,3.5
+2021-02-15,Middle East & Africa,Laptops,Alice Johnson,18,727.75,13099.47,0.155,4.6
+2022-09-14,Latin America,Smart TVs,Grace Lee,23,754.28,17348.48,0.211,4.6
+2022-07-11,North America,Gaming Consoles,Bob Smith,24,372.57,8941.71,0.27,4.0
+2021-07-18,Europe,Smartphones,Bob Smith,26,641.48,16678.47,0.249,4.9
+2023-05-20,North America,Laptops,Alice Johnson,19,945.26,17959.94,0.192,4.7
+2022-04-02,Asia Pacific,Smart TVs,Frank Miller,22,695.4,15298.82,0.153,4.9
+2024-04-08,Latin America,Headphones,Henry Taylor,16,135.2,2163.24,0.329,4.4
+2024-12-07,North America,Gaming Consoles,Bob Smith,25,384.88,9621.89,0.347,3.9
+2023-01-31,North America,Smartphones,Bob Smith,21,699.67,14693.06,0.203,4.8
+2020-06-24,Europe,Laptops,Grace Lee,22,856.58,18844.81,0.21,3.8
+2023-02-09,Latin America,Laptops,Grace Lee,13,894.59,11629.61,0.178,3.7
+2021-09-10,Middle East & Africa,Headphones,Eva Brown,13,175.42,2280.51,0.314,4.0
+2024-08-31,Europe,Cameras,Bob Smith,22,525.75,11566.43,0.203,3.6
+2024-06-08,North America,Smart TVs,David Wilson,25,837.65,20941.37,0.183,4.5
+2020-08-25,Asia Pacific,Laptops,Carol Davis,16,923.85,14781.66,0.205,3.8
+2023-02-20,Middle East & Africa,Smartphones,Henry Taylor,19,532.26,10112.93,0.166,4.4
+2021-05-20,Europe,Smart TVs,Bob Smith,16,692.74,11083.86,0.325,3.9
+2022-11-18,Middle East & Africa,Smartphones,Frank Miller,27,669.93,18088.03,0.286,3.9
+2022-01-23,North America,Laptops,David Wilson,15,825.47,12382.06,0.333,3.8
+2020-04-21,North America,Laptops,Frank Miller,12,857.24,10286.93,0.197,3.6
+2023-01-26,Latin America,Smart Watches,Frank Miller,20,278.17,5563.46,0.191,3.9
+2022-06-23,Europe,Smartphones,Frank Miller,22,650.15,14303.33,0.331,3.7
+2021-04-15,North America,Smartphones,Eva Brown,14,654.59,9164.32,0.307,3.9
+2024-07-03,Middle East & Africa,Smartphones,Bob Smith,27,521.75,14087.28,0.222,4.5
+2022-12-30,Asia Pacific,Smart Watches,Carol Davis,30,243.21,7296.2,0.309,4.4
+2022-03-20,Latin America,Laptops,David Wilson,21,773.56,16244.81,0.179,3.6
+2024-04-30,Latin America,Cameras,Eva Brown,16,547.21,8755.31,0.214,4.3
+2022-04-04,North America,Tablets,David Wilson,23,281.21,6467.72,0.154,4.5
+2022-07-11,Europe,Tablets,Frank Miller,24,330.07,7921.57,0.299,3.7
+2020-08-16,Asia Pacific,Laptops,Grace Lee,15,780.86,11712.87,0.164,4.4
+2020-05-12,Middle East & Africa,Headphones,Alice Johnson,20,162.07,3241.37,0.161,4.9
+2024-10-06,North America,Smartphones,Henry Taylor,20,700.02,14000.43,0.31,4.2
+2023-05-24,Europe,Tablets,Alice Johnson,20,295.67,5913.45,0.199,4.9
+2020-05-29,Europe,Gaming Consoles,David Wilson,22,340.7,7495.42,0.225,3.6
+2021-10-14,Middle East & Africa,Laptops,Bob Smith,24,692.66,16623.87,0.231,4.9
+2022-12-10,Europe,Smartphones,Carol Davis,30,716.3,21488.95,0.283,3.9
+2021-05-11,Asia Pacific,Tablets,Bob Smith,32,317.76,10168.44,0.199,4.6
+2022-08-22,North America,Tablets,David Wilson,21,249.44,5238.14,0.216,3.9
+2022-08-01,Asia Pacific,Cameras,David Wilson,25,408.31,10207.8,0.191,4.9
+2024-10-09,Europe,Laptops,Henry Taylor,23,726.03,16698.79,0.35,4.8
+2023-06-09,Europe,Smart Watches,Carol Davis,26,203.15,5281.93,0.174,4.4
+2023-11-17,Middle East & Africa,Laptops,Alice Johnson,28,770.07,21561.91,0.304,4.2
+2023-12-23,North America,Gaming Consoles,Carol Davis,19,452.09,8589.63,0.308,3.8
+2021-12-26,Middle East & Africa,Laptops,Eva Brown,45,687.97,30958.69,0.258,4.4
+2024-06-17,Middle East & Africa,Tablets,David Wilson,24,270.93,6502.4,0.29,3.5
+2022-10-22,Middle East & Africa,Smart Watches,Bob Smith,19,207.22,3937.21,0.287,4.3
+2022-07-16,Europe,Cameras,Alice Johnson,16,434.48,6951.64,0.324,4.4
+2022-07-09,North America,Tablets,Carol Davis,24,315.22,7565.28,0.201,4.7
+2021-01-21,Latin America,Smart Watches,David Wilson,20,275.35,5506.95,0.176,4.3
+2021-05-22,Europe,Headphones,David Wilson,17,177.79,3022.36,0.334,4.6
+2022-05-29,Latin America,Laptops,Henry Taylor,23,839.4,19306.29,0.221,4.7
+2022-03-14,North America,Gaming Consoles,Eva Brown,16,459.79,7356.62,0.175,4.8
+2023-01-18,Middle East & Africa,Headphones,Grace Lee,19,162.02,3078.4,0.302,3.7
+2021-03-08,North America,Laptops,Eva Brown,29,944.09,27378.59,0.257,4.1
+2024-12-15,Middle East & Africa,Gaming Consoles,Henry Taylor,30,455.49,13664.57,0.316,4.1
+2022-07-17,Middle East & Africa,Cameras,Alice Johnson,25,511.49,12787.2,0.346,4.7
+2024-03-26,Asia Pacific,Smart TVs,Bob Smith,15,618.93,9283.93,0.288,4.8
+2020-01-16,Latin America,Tablets,Alice Johnson,22,273.37,6014.22,0.187,4.2
+2023-07-30,Latin America,Laptops,Bob Smith,14,716.02,10024.27,0.248,3.9
+2024-05-09,North America,Smart Watches,Frank Miller,28,246.26,6895.31,0.314,4.5
+2024-09-30,Europe,Gaming Consoles,Henry Taylor,15,362.8,5442.06,0.254,3.9
+2024-01-05,Middle East & Africa,Gaming Consoles,Frank Miller,23,325.54,7487.51,0.175,4.9
+2020-05-16,Latin America,Tablets,Henry Taylor,20,253.21,5064.18,0.227,4.8
+2021-03-08,Latin America,Cameras,Grace Lee,14,533.39,7467.5,0.19,4.8
+2024-06-30,Europe,Headphones,Bob Smith,26,161.96,4211.04,0.172,4.8
+2022-06-01,Asia Pacific,Headphones,Henry Taylor,16,125.71,2011.44,0.155,4.1
+2022-06-23,Asia Pacific,Tablets,Grace Lee,26,326.97,8501.34,0.251,4.5
+2024-12-21,Middle East & Africa,Smartphones,Carol Davis,30,483.8,14514.13,0.296,4.8
+2022-04-25,North America,Laptops,Carol Davis,21,736.84,15473.63,0.242,3.9
+2022-04-28,Asia Pacific,Gaming Consoles,Bob Smith,26,461.19,11990.82,0.264,4.0
+2023-11-23,Middle East & Africa,Laptops,Henry Taylor,36,683.4,24602.42,0.179,4.5
+2020-10-06,Europe,Smart TVs,Grace Lee,21,810.32,17016.76,0.254,3.9
+2020-04-25,Middle East & Africa,Smartphones,David Wilson,20,669.35,13386.94,0.286,4.8
+2020-11-04,Latin America,Tablets,David Wilson,22,284.8,6265.65,0.18,4.7
+2021-09-30,Latin America,Gaming Consoles,Frank Miller,18,348.23,6268.15,0.341,3.6
+2023-10-19,North America,Gaming Consoles,Frank Miller,27,347.92,9393.83,0.226,4.8
+2023-06-17,Latin America,Tablets,Henry Taylor,33,305.3,10074.74,0.298,4.6
+2020-07-28,North America,Smart TVs,Eva Brown,28,584.12,16355.3,0.243,3.8
+2023-09-21,Asia Pacific,Smart TVs,Bob Smith,19,733.48,13936.18,0.283,4.8
+2022-07-17,Europe,Tablets,Frank Miller,24,295.44,7090.67,0.331,3.6
+2024-12-02,Asia Pacific,Tablets,Henry Taylor,33,294.33,9712.91,0.317,4.9
+2021-12-12,Middle East & Africa,Cameras,David Wilson,31,508.24,15755.46,0.311,4.3
+2020-09-13,Asia Pacific,Headphones,Alice Johnson,19,126.15,2396.85,0.257,3.6
+2020-05-16,Asia Pacific,Smartphones,Grace Lee,23,641.29,14749.73,0.29,4.1
+2023-07-25,Asia Pacific,Smart TVs,Henry Taylor,18,701.1,12619.72,0.153,4.0
+2023-01-07,Latin America,Gaming Consoles,Alice Johnson,26,436.55,11350.24,0.213,4.0
+2023-02-10,Middle East & Africa,Smart Watches,Eva Brown,17,268.5,4564.51,0.292,4.0
+2023-07-23,North America,Gaming Consoles,Frank Miller,22,370.47,8150.27,0.287,4.8
+2021-11-19,North America,Laptops,Carol Davis,27,774.88,20921.86,0.169,3.7
+2021-01-19,Latin America,Smart Watches,Frank Miller,22,267.2,5878.44,0.277,4.7
+2023-01-08,Middle East & Africa,Tablets,Henry Taylor,21,240.88,5058.54,0.254,3.6
+2021-07-20,Europe,Cameras,Henry Taylor,22,583.93,12846.39,0.212,3.8
+2020-12-10,Latin America,Laptops,Bob Smith,30,826.29,24788.59,0.221,3.7
+2021-04-07,North America,Headphones,Bob Smith,22,176.13,3874.89,0.332,3.8
+2023-09-18,Middle East & Africa,Smart Watches,Grace Lee,30,210.62,6318.74,0.185,4.5
+2023-10-26,Asia Pacific,Gaming Consoles,Grace Lee,23,478.69,11009.94,0.203,4.7
+2021-08-20,North America,Headphones,Carol Davis,22,146.58,3224.7,0.262,4.8
+2023-03-05,Latin America,Smartphones,Eva Brown,22,528.84,11634.54,0.325,3.6
+2024-04-03,Middle East & Africa,Smart Watches,Alice Johnson,23,220.52,5072.01,0.188,3.7
+2021-11-18,Latin America,Smart TVs,Alice Johnson,34,635.44,21604.86,0.327,3.7
+2020-08-13,North America,Cameras,Eva Brown,17,544.29,9252.93,0.338,4.8
+2022-04-23,Middle East & Africa,Headphones,Frank Miller,21,126.88,2664.57,0.175,4.3
+2022-12-05,Asia Pacific,Headphones,Carol Davis,22,179.97,3959.3,0.274,4.1
+2024-07-16,Latin America,Smartphones,Bob Smith,18,577.37,10392.69,0.158,4.0
+2022-12-03,Latin America,Cameras,Alice Johnson,45,540.46,24320.92,0.32,4.0
+2020-11-10,North America,Headphones,Grace Lee,33,158.85,5242.09,0.344,4.6
+2023-08-06,Latin America,Smart Watches,Alice Johnson,14,212.69,2977.62,0.268,4.2
+2021-05-13,Asia Pacific,Gaming Consoles,Frank Miller,13,398.78,5184.2,0.317,3.7
+2021-01-30,Middle East & Africa,Smartphones,Grace Lee,19,711.85,13525.06,0.176,4.1
+2021-06-20,Europe,Laptops,Eva Brown,19,791.83,15044.68,0.152,3.6
+2021-03-22,Latin America,Headphones,David Wilson,27,160.99,4346.74,0.16,4.7
+2023-11-20,Europe,Gaming Consoles,Carol Davis,30,455.25,13657.58,0.295,5.0
+2020-03-15,Europe,Gaming Consoles,David Wilson,16,349.91,5598.48,0.163,5.0
+2022-07-28,Latin America,Tablets,Grace Lee,21,306.55,6437.64,0.33,4.9
+2021-07-26,Europe,Gaming Consoles,Alice Johnson,19,462.12,8780.35,0.242,4.4
+2024-09-17,North America,Laptops,Eva Brown,18,953.36,17160.56,0.289,4.5
+2024-12-02,Europe,Smartphones,David Wilson,34,596.09,20267.1,0.209,3.9
+2021-12-18,Asia Pacific,Laptops,Grace Lee,39,834.52,32546.13,0.231,4.5
+2024-11-30,Latin America,Cameras,David Wilson,21,468.23,9832.83,0.3,4.3
+2020-06-09,Latin America,Laptops,Eva Brown,13,936.19,12170.43,0.251,4.5
+2022-12-25,Latin America,Smartphones,Bob Smith,28,652.56,18271.81,0.207,3.9
+2021-01-11,Asia Pacific,Gaming Consoles,Carol Davis,25,363.57,9089.26,0.174,3.9
+2021-04-21,Asia Pacific,Laptops,Henry Taylor,20,757.13,15142.58,0.311,4.3
+2020-07-20,Europe,Tablets,David Wilson,24,277.0,6648.05,0.324,4.6
+2022-01-18,Middle East & Africa,Cameras,Alice Johnson,13,439.93,5719.14,0.224,4.3
+2020-02-20,Middle East & Africa,Cameras,Frank Miller,24,594.54,14268.91,0.207,3.6
+2020-09-24,Europe,Smartphones,Grace Lee,19,611.84,11624.93,0.336,4.9
+2020-07-02,North America,Smart TVs,Grace Lee,25,685.95,17148.63,0.301,4.7
+2021-02-18,Asia Pacific,Smart TVs,Grace Lee,20,762.83,15256.56,0.188,4.8
+2022-10-06,Europe,Smartphones,David Wilson,19,620.53,11790.16,0.254,3.7
+2021-08-28,Europe,Smart Watches,Carol Davis,21,280.84,5897.55,0.228,4.7
+2020-05-28,Latin America,Gaming Consoles,David Wilson,23,340.85,7839.57,0.219,4.7
+2024-01-16,Asia Pacific,Smart TVs,David Wilson,22,715.48,15740.62,0.256,4.5
+2024-02-29,Asia Pacific,Tablets,Carol Davis,17,241.93,4112.89,0.225,4.0
+2022-07-27,Asia Pacific,Headphones,Bob Smith,28,160.62,4497.42,0.311,4.3
+2023-12-10,Europe,Tablets,Alice Johnson,27,275.36,7434.83,0.264,4.6
+2020-11-03,Asia Pacific,Laptops,Frank Miller,28,937.57,26252.1,0.259,4.5
+2020-06-16,Middle East & Africa,Headphones,Alice Johnson,19,169.42,3219.07,0.321,4.1
+2021-12-23,Middle East & Africa,Smart TVs,Alice Johnson,34,721.02,24514.67,0.307,3.5
+2021-01-15,North America,Smartphones,Frank Miller,20,482.64,9652.86,0.233,3.7
+2020-02-06,Latin America,Smart Watches,Alice Johnson,19,276.43,5252.08,0.308,4.5
+2024-07-18,Europe,Laptops,Bob Smith,26,957.71,24900.36,0.232,3.9
+2022-07-06,North America,Gaming Consoles,Grace Lee,18,466.43,8395.68,0.243,3.6
+2020-08-12,Asia Pacific,Headphones,Frank Miller,21,151.21,3175.35,0.272,3.9
+2024-04-20,Middle East & Africa,Headphones,David Wilson,22,145.79,3207.38,0.207,4.6
+2024-04-13,Europe,Smartphones,Bob Smith,14,612.56,8575.8,0.27,3.9
+2023-03-07,North America,Smartphones,David Wilson,26,578.47,15040.23,0.217,3.7
+2020-11-28,North America,Smart Watches,Henry Taylor,25,299.82,7495.49,0.188,3.7
+2022-06-27,Asia Pacific,Headphones,Bob Smith,21,167.3,3513.38,0.314,4.9
+2021-06-03,Middle East & Africa,Smart Watches,Carol Davis,18,205.45,3698.12,0.283,4.7
+2023-02-27,Middle East & Africa,Laptops,David Wilson,20,831.24,16624.72,0.312,4.7
+2022-03-12,Asia Pacific,Smartphones,Frank Miller,23,494.38,11370.79,0.254,3.7
+2020-01-01,Middle East & Africa,Smart TVs,Henry Taylor,25,650.49,16262.36,0.337,4.0
+2020-05-26,Asia Pacific,Tablets,Eva Brown,17,310.96,5286.36,0.294,4.6
+2023-05-09,Asia Pacific,Gaming Consoles,Bob Smith,17,384.2,6531.41,0.321,4.1
+2023-10-14,North America,Tablets,Eva Brown,21,300.98,6320.59,0.297,5.0
+2023-01-03,Europe,Smart TVs,Frank Miller,16,760.24,12163.81,0.213,4.0
+2024-05-27,Latin America,Smart Watches,Carol Davis,19,233.63,4438.99,0.216,3.9
+2023-02-09,Europe,Cameras,Henry Taylor,20,405.96,8119.16,0.152,3.6
+2023-03-01,Asia Pacific,Cameras,Bob Smith,20,502.14,10042.73,0.245,4.8
+2023-07-17,Europe,Laptops,Frank Miller,15,896.49,13447.39,0.256,4.2
+2020-09-09,Asia Pacific,Smart TVs,David Wilson,22,774.28,17034.07,0.221,3.9
+2024-08-04,Asia Pacific,Laptops,Frank Miller,27,658.63,17783.0,0.335,4.5
+2023-02-07,Asia Pacific,Headphones,Henry Taylor,22,125.93,2770.51,0.312,4.8
+2020-07-31,Latin America,Headphones,David Wilson,25,144.18,3604.56,0.28,4.5
+2022-02-06,Europe,Cameras,Bob Smith,13,425.75,5534.76,0.34,4.2
+2024-01-05,Latin America,Smart Watches,Bob Smith,20,281.2,5623.94,0.323,4.5
+2023-01-12,North America,Laptops,Henry Taylor,14,922.4,12913.58,0.154,4.6
+2023-06-01,Asia Pacific,Smart TVs,David Wilson,21,749.64,15742.53,0.291,4.9
+2023-08-23,North America,Cameras,Carol Davis,28,484.37,13562.25,0.288,4.9
+2022-04-09,Latin America,Smartphones,Frank Miller,21,683.96,14363.21,0.209,3.8
+2024-09-21,North America,Headphones,Frank Miller,14,150.52,2107.3,0.294,4.0
+2020-03-13,Europe,Laptops,Grace Lee,26,897.55,23336.21,0.224,4.8
+2023-09-02,North America,Cameras,Carol Davis,21,582.32,12228.62,0.219,4.4
+2021-12-31,North America,Tablets,Carol Davis,27,304.03,8208.72,0.15,3.9
+2024-04-04,Middle East & Africa,Tablets,Alice Johnson,24,262.98,6311.58,0.251,4.8
+2020-01-09,Middle East & Africa,Headphones,Carol Davis,18,153.04,2754.75,0.313,4.9
+2023-11-17,Middle East & Africa,Smart TVs,Grace Lee,30,835.61,25068.3,0.227,3.7
+2024-07-21,North America,Smartphones,David Wilson,25,586.98,14674.38,0.317,3.9
+2024-02-24,Middle East & Africa,Gaming Consoles,David Wilson,17,400.92,6815.7,0.154,4.9
+2024-03-14,North America,Tablets,David Wilson,14,339.53,4753.44,0.211,4.2
+2021-06-04,Europe,Smart TVs,Alice Johnson,22,673.11,14808.49,0.242,3.5
+2022-07-31,Latin America,Smart TVs,Frank Miller,26,654.59,17019.31,0.228,3.9
+2020-03-14,Asia Pacific,Gaming Consoles,Alice Johnson,34,448.9,15262.51,0.162,4.9
+2022-01-06,North America,Smartphones,Alice Johnson,19,551.44,10477.42,0.157,4.4
+2020-01-11,Asia Pacific,Cameras,Grace Lee,20,490.46,9809.26,0.159,4.0
+2023-06-06,Middle East & Africa,Smartphones,Grace Lee,37,542.8,20083.64,0.163,3.5
+2023-07-13,Europe,Smart TVs,Eva Brown,22,817.12,17976.64,0.232,3.8
+2020-04-10,Latin America,Headphones,Grace Lee,21,127.35,2674.33,0.257,4.8
+2021-03-17,Europe,Cameras,Alice Johnson,12,464.9,5578.82,0.339,3.9
+2024-06-13,Europe,Tablets,Alice Johnson,27,318.74,8606.1,0.244,4.4
+2024-12-30,North America,Tablets,Grace Lee,36,293.16,10553.93,0.274,4.7
+2023-06-02,Latin America,Gaming Consoles,Eva Brown,31,451.64,14000.89,0.254,4.2
+2020-08-31,North America,Smart Watches,David Wilson,23,262.92,6047.2,0.29,4.6
+2024-07-16,Middle East & Africa,Smart TVs,Carol Davis,22,627.69,13809.27,0.247,4.8
+2022-02-25,Middle East & Africa,Tablets,Bob Smith,13,359.0,4667.03,0.304,3.8
+2022-07-13,North America,Headphones,David Wilson,16,149.13,2386.08,0.246,4.2
+2022-02-08,North America,Laptops,Alice Johnson,14,882.42,12353.82,0.312,4.8
+2024-09-27,North America,Smart Watches,Carol Davis,19,273.43,5195.19,0.277,4.8
+2024-06-25,North America,Laptops,Carol Davis,18,770.12,13862.23,0.227,4.7
+2024-02-04,Europe,Laptops,Grace Lee,17,687.19,11682.15,0.272,4.3
+2022-04-04,North America,Headphones,Grace Lee,16,138.14,2210.19,0.329,5.0
+2020-03-13,Europe,Headphones,Alice Johnson,30,120.56,3616.76,0.238,3.6
+2023-09-14,Asia Pacific,Gaming Consoles,David Wilson,20,459.01,9180.16,0.282,4.2
+2024-04-08,Latin America,Smartphones,Henry Taylor,17,640.45,10887.67,0.323,3.7
+2021-05-30,Middle East & Africa,Laptops,Alice Johnson,22,721.29,15868.38,0.346,5.0
+2021-06-16,Middle East & Africa,Laptops,Carol Davis,21,770.81,16187.09,0.215,4.6
+2022-03-15,Asia Pacific,Smartphones,David Wilson,20,556.97,11139.42,0.343,4.5
+2022-08-24,Europe,Smart TVs,Bob Smith,26,586.48,15248.37,0.302,4.4
+2020-02-07,North America,Smartphones,Eva Brown,14,529.88,7418.29,0.251,4.3
+2023-09-13,North America,Gaming Consoles,Henry Taylor,25,332.48,8311.98,0.171,4.2
+2021-11-02,Europe,Smartphones,Carol Davis,22,567.39,12482.56,0.278,3.7
+2023-10-21,Latin America,Smart Watches,Alice Johnson,22,225.67,4964.7,0.293,4.2
+2022-09-03,Europe,Smart Watches,Frank Miller,19,226.4,4301.62,0.151,4.5
+2024-09-23,Europe,Laptops,Henry Taylor,30,810.27,24308.03,0.246,4.6
+2024-06-17,Asia Pacific,Tablets,Frank Miller,19,262.7,4991.24,0.265,3.8
+2022-09-27,Asia Pacific,Smart Watches,Carol Davis,20,223.41,4468.12,0.16,3.9
+2024-11-17,North America,Gaming Consoles,Carol Davis,43,431.02,18533.78,0.248,4.3
+2022-07-14,Asia Pacific,Laptops,Frank Miller,24,941.0,22584.12,0.216,3.6
+2021-10-05,Middle East & Africa,Smartphones,Alice Johnson,29,690.09,20012.53,0.291,4.2
+2022-05-17,Asia Pacific,Smart Watches,Bob Smith,20,249.32,4986.49,0.266,3.8
+2022-06-30,Asia Pacific,Smartphones,Bob Smith,26,625.0,16250.05,0.174,3.6
+2020-07-13,Latin America,Smart Watches,Carol Davis,26,250.18,6504.78,0.306,4.8
+2022-02-08,Europe,Smartphones,Carol Davis,17,485.81,8258.76,0.22,4.6
+2024-12-27,Middle East & Africa,Smart TVs,Frank Miller,31,766.9,23773.9,0.313,3.7
+2024-02-06,Asia Pacific,Laptops,Alice Johnson,21,756.36,15883.47,0.193,4.5
+2022-04-05,North America,Laptops,Grace Lee,19,721.33,13705.22,0.315,4.2
+2023-09-23,Asia Pacific,Headphones,Carol Davis,15,162.85,2442.71,0.189,4.5
+2024-03-09,Latin America,Smart Watches,David Wilson,20,210.06,4201.24,0.212,4.5
+2020-07-02,Europe,Laptops,Carol Davis,18,901.62,16229.18,0.319,4.3
+2021-04-11,Middle East & Africa,Laptops,Alice Johnson,24,881.16,21147.73,0.341,4.7
+2024-02-03,Middle East & Africa,Laptops,Grace Lee,15,702.43,10536.52,0.329,4.2
+2020-10-20,Asia Pacific,Laptops,Eva Brown,19,722.27,13723.14,0.246,4.1
+2022-06-09,Latin America,Smart TVs,Alice Johnson,21,742.22,15586.64,0.273,4.0
+2022-03-07,Middle East & Africa,Cameras,Grace Lee,26,479.65,12470.9,0.249,4.5
+2020-03-14,North America,Gaming Consoles,Eva Brown,19,342.12,6500.27,0.238,4.2
+2022-09-18,Middle East & Africa,Laptops,Bob Smith,19,831.77,15803.61,0.311,3.7
+2021-04-14,Middle East & Africa,Smart Watches,Grace Lee,21,207.83,4364.51,0.165,4.8
+2024-07-18,Latin America,Headphones,Bob Smith,40,167.54,6701.74,0.195,4.5
+2022-11-28,Europe,Laptops,Alice Johnson,22,798.03,17556.7,0.342,4.7
+2023-01-10,Latin America,Smartphones,David Wilson,23,557.91,12831.84,0.294,4.5
+2021-06-11,Europe,Cameras,Eva Brown,25,509.52,12738.08,0.278,3.9
+2021-09-30,Middle East & Africa,Tablets,Alice Johnson,16,340.85,5453.65,0.29,4.7
+2021-04-12,Europe,Smart Watches,Alice Johnson,17,277.18,4712.03,0.234,4.6
+2024-10-22,North America,Headphones,Alice Johnson,19,147.89,2809.93,0.276,4.2
+2022-09-19,Asia Pacific,Smart Watches,David Wilson,20,273.55,5471.04,0.283,3.7
+2024-12-29,Middle East & Africa,Headphones,Carol Davis,42,169.24,7108.02,0.158,4.1
+2022-09-06,North America,Smartphones,Henry Taylor,21,699.99,14699.88,0.291,4.5
+2021-10-22,North America,Laptops,Alice Johnson,23,762.54,17538.42,0.194,4.7
+2022-11-22,North America,Headphones,Frank Miller,43,171.01,7353.44,0.35,4.8
+2024-01-01,Middle East & Africa,Smart TVs,Carol Davis,16,645.28,10324.5,0.185,4.7
+2023-01-23,North America,Gaming Consoles,Bob Smith,24,367.33,8815.96,0.328,4.8
+2024-08-12,Asia Pacific,Smart TVs,David Wilson,22,819.36,18025.88,0.342,3.8
+2021-11-26,Middle East & Africa,Headphones,Alice Johnson,34,160.86,5469.34,0.225,3.7
+2021-12-22,Europe,Smart Watches,Grace Lee,31,252.73,7834.69,0.327,4.8
+2022-04-14,Europe,Smart Watches,Eva Brown,11,245.0,2695.03,0.217,4.2
+2024-07-21,Middle East & Africa,Smart Watches,Frank Miller,27,220.02,5940.42,0.214,4.4
+2023-04-16,Middle East & Africa,Tablets,Frank Miller,21,336.95,7076.0,0.188,3.7
+2020-04-04,Middle East & Africa,Laptops,Carol Davis,25,909.38,22734.6,0.21,4.0
+2023-07-09,North America,Tablets,Henry Taylor,22,260.95,5740.97,0.214,5.0
+2020-07-28,Latin America,Smartphones,Bob Smith,14,705.01,9870.17,0.256,4.4
+2023-06-09,Asia Pacific,Smart Watches,Frank Miller,28,231.17,6472.77,0.211,4.8
+2020-11-25,Latin America,Laptops,Grace Lee,24,939.52,22548.44,0.286,4.1
+2020-03-30,Latin America,Laptops,David Wilson,23,650.73,14966.9,0.262,4.5
+2024-02-19,Latin America,Tablets,Grace Lee,18,273.54,4923.65,0.266,3.6
+2023-07-26,Asia Pacific,Cameras,Bob Smith,16,410.94,6574.99,0.231,3.8
+2022-11-11,Middle East & Africa,Smartphones,Henry Taylor,15,649.81,9747.13,0.243,4.7
+2023-01-14,Latin America,Tablets,Henry Taylor,18,344.95,6209.15,0.263,4.3
+2021-02-06,Latin America,Smart TVs,Frank Miller,15,597.37,8960.57,0.311,5.0
+2021-03-09,North America,Smartphones,Alice Johnson,10,701.14,7011.41,0.176,4.2
+2023-04-02,North America,Gaming Consoles,David Wilson,20,427.15,8542.99,0.342,4.4
+2023-09-23,Latin America,Smart TVs,Grace Lee,12,822.15,9865.77,0.323,5.0
+2021-03-09,Asia Pacific,Laptops,Eva Brown,23,866.81,19936.52,0.2,4.0
+2022-01-31,Asia Pacific,Gaming Consoles,Bob Smith,18,463.57,8344.22,0.254,4.2
+2020-08-15,North America,Headphones,David Wilson,17,143.98,2447.59,0.32,4.3
+2021-06-16,North America,Tablets,Carol Davis,20,312.43,6248.59,0.337,3.8
+2022-03-06,North America,Headphones,Grace Lee,17,127.38,2165.51,0.347,4.0
+2020-11-20,Middle East & Africa,Gaming Consoles,David Wilson,24,455.1,10922.5,0.198,4.1
+2023-11-26,North America,Laptops,Henry Taylor,27,839.8,22674.58,0.281,3.6
+2023-04-29,Europe,Laptops,Bob Smith,19,784.52,14905.97,0.321,4.9
+2020-11-12,Latin America,Laptops,David Wilson,19,772.31,14673.87,0.191,4.8
+2021-12-03,North America,Tablets,Eva Brown,30,268.39,8051.64,0.296,3.7
+2024-07-04,Middle East & Africa,Smart TVs,Henry Taylor,30,593.17,17795.08,0.153,4.0
+2020-08-20,Latin America,Smart TVs,Carol Davis,20,674.95,13498.93,0.196,3.7
+2024-06-30,Europe,Gaming Consoles,Henry Taylor,22,349.27,7683.93,0.236,5.0
+2024-01-20,Europe,Smart TVs,Henry Taylor,27,712.21,19229.58,0.281,4.1
+2022-10-24,North America,Headphones,Frank Miller,21,126.28,2651.87,0.315,3.8
+2021-09-10,Europe,Gaming Consoles,Eva Brown,19,400.57,7610.85,0.31,4.2
+2021-05-16,Asia Pacific,Headphones,Grace Lee,23,135.46,3115.62,0.327,4.4
+2020-11-02,Asia Pacific,Gaming Consoles,Grace Lee,36,478.73,17234.45,0.176,4.7
+2024-10-16,Latin America,Gaming Consoles,Henry Taylor,26,406.0,10555.97,0.16,3.5
+2023-01-24,North America,Smart Watches,Bob Smith,14,241.1,3375.34,0.28,4.6
+2021-02-19,Latin America,Gaming Consoles,Carol Davis,17,336.93,5727.78,0.276,3.6
+2021-04-12,Latin America,Smart Watches,Grace Lee,21,226.25,4751.27,0.174,4.3
+2020-01-29,Middle East & Africa,Cameras,Grace Lee,20,528.2,10564.02,0.33,3.7
+2021-05-11,Latin America,Smart Watches,Frank Miller,22,217.14,4777.08,0.166,4.5
+2021-07-03,Asia Pacific,Cameras,Grace Lee,32,599.95,19198.34,0.199,4.6
+2024-02-16,Middle East & Africa,Smart TVs,David Wilson,14,752.73,10538.26,0.271,4.9
+2023-08-09,Asia Pacific,Cameras,Carol Davis,17,407.18,6922.04,0.333,4.0
+2024-03-04,North America,Smartphones,Eva Brown,23,530.64,12204.76,0.288,3.8
+2021-04-12,Europe,Smart Watches,Grace Lee,25,265.98,6649.41,0.177,4.5
+2021-10-22,Latin America,Tablets,Bob Smith,22,275.09,6051.91,0.291,4.6
+2024-01-29,Europe,Tablets,Eva Brown,19,338.53,6432.06,0.168,4.5
+2021-10-03,North America,Cameras,David Wilson,25,504.43,12610.63,0.23,4.0
+2022-06-20,Europe,Headphones,Eva Brown,19,140.19,2663.57,0.268,4.2
+2020-06-10,Middle East & Africa,Headphones,Eva Brown,13,142.69,1855.0,0.309,4.8
+2021-06-16,Asia Pacific,Smartphones,Henry Taylor,30,713.53,21405.93,0.346,3.9
+2023-02-11,Europe,Gaming Consoles,Carol Davis,19,433.2,8230.87,0.156,4.8
+2022-06-09,North America,Tablets,Alice Johnson,26,283.0,7358.09,0.187,4.5
+2020-03-26,Latin America,Gaming Consoles,Grace Lee,14,383.48,5368.67,0.338,3.7
+2021-07-31,Asia Pacific,Gaming Consoles,Alice Johnson,30,358.54,10756.21,0.176,4.6
+2024-05-20,Middle East & Africa,Gaming Consoles,Grace Lee,17,436.87,7426.73,0.257,4.9
+2024-09-16,Asia Pacific,Laptops,David Wilson,16,858.58,13737.32,0.282,4.9
+2023-01-23,Europe,Smart TVs,David Wilson,16,624.5,9991.94,0.262,3.7
+2020-12-09,Middle East & Africa,Tablets,David Wilson,28,253.62,7101.23,0.2,4.7
+2020-11-27,North America,Smart TVs,Carol Davis,36,615.59,22161.31,0.249,4.6
+2023-06-22,Europe,Cameras,Bob Smith,26,456.09,11858.41,0.296,3.9
+2021-02-12,Europe,Gaming Consoles,Eva Brown,13,454.22,5904.89,0.156,4.3
+2020-07-22,Europe,Cameras,Eva Brown,24,426.71,10241.01,0.212,4.4
+2020-04-02,Asia Pacific,Smartphones,Henry Taylor,14,634.77,8886.72,0.225,4.9
+2023-11-02,Asia Pacific,Smart TVs,Carol Davis,25,709.58,17739.54,0.315,3.7
+2024-05-02,Asia Pacific,Headphones,Carol Davis,23,144.14,3315.17,0.307,4.9
+2023-06-03,North America,Gaming Consoles,Alice Johnson,24,378.11,9074.65,0.16,4.5
+2020-12-14,Asia Pacific,Laptops,David Wilson,33,716.9,23657.7,0.282,4.9
+2021-10-02,North America,Tablets,Carol Davis,9,240.81,2167.33,0.181,3.6
+2023-11-18,Latin America,Laptops,Henry Taylor,30,919.49,27584.56,0.229,4.0
+2024-10-19,North America,Cameras,Henry Taylor,24,537.8,12907.2,0.263,4.5
+2022-06-09,Asia Pacific,Laptops,Bob Smith,15,886.73,13300.98,0.237,4.9
+2020-08-04,Europe,Gaming Consoles,Bob Smith,23,336.98,7750.54,0.288,5.0
+2020-10-24,Middle East & Africa,Smartphones,Eva Brown,15,695.47,10432.06,0.22,4.3
+2023-06-11,Asia Pacific,Tablets,Grace Lee,25,264.36,6608.98,0.24,4.7
+2021-08-27,Middle East & Africa,Tablets,Frank Miller,24,258.32,6199.66,0.292,4.5
+2024-12-20,Europe,Smart Watches,Frank Miller,27,221.61,5983.57,0.268,4.9
+2024-09-11,Latin America,Headphones,David Wilson,23,134.83,3101.14,0.349,3.7
+2020-09-29,North America,Smart TVs,Henry Taylor,16,693.29,11092.57,0.33,3.6
+2020-07-29,Europe,Gaming Consoles,David Wilson,21,431.37,9058.67,0.218,3.7
+2022-11-18,Europe,Smart Watches,Alice Johnson,33,203.36,6711.04,0.178,4.4
+2022-07-18,Middle East & Africa,Smart TVs,Alice Johnson,22,779.67,17152.74,0.169,4.3
+2024-11-22,Latin America,Smartphones,Carol Davis,24,595.06,14281.44,0.253,3.9
+2022-10-25,Latin America,Laptops,David Wilson,22,942.65,20738.32,0.336,4.1
+2021-08-23,Asia Pacific,Smartphones,David Wilson,11,524.32,5767.48,0.218,4.3
+2022-07-21,Middle East & Africa,Tablets,Eva Brown,31,329.32,10209.05,0.274,4.7
+2020-06-18,Europe,Smart Watches,Grace Lee,20,233.53,4670.68,0.272,4.4
+2022-03-26,Latin America,Smart Watches,Carol Davis,5,287.98,1439.91,0.159,4.6
+2021-08-06,Europe,Headphones,Eva Brown,25,171.15,4278.66,0.26,3.8
+2022-04-17,Asia Pacific,Tablets,Alice Johnson,20,259.02,5180.49,0.313,3.7
+2022-08-05,Middle East & Africa,Smart Watches,David Wilson,24,278.99,6695.68,0.274,3.7
+2024-05-19,Middle East & Africa,Headphones,Grace Lee,19,154.84,2942.04,0.228,3.8
+2024-12-23,Asia Pacific,Gaming Consoles,Henry Taylor,27,413.94,11176.41,0.163,4.7
+2020-04-01,Latin America,Headphones,Henry Taylor,17,177.37,3015.37,0.303,5.0
+2024-06-06,Latin America,Tablets,Alice Johnson,13,282.94,3678.19,0.205,4.7
+2023-09-10,Middle East & Africa,Cameras,Bob Smith,18,570.16,10262.8,0.235,3.6
+2021-05-06,Asia Pacific,Laptops,David Wilson,19,655.35,12451.58,0.305,4.4
+2023-05-16,North America,Tablets,Henry Taylor,21,267.37,5614.72,0.152,3.7
+2021-04-28,Asia Pacific,Tablets,Eva Brown,10,299.66,2996.64,0.234,3.8
+2023-06-05,Asia Pacific,Headphones,Grace Lee,14,123.18,1724.56,0.259,3.9
+2022-12-03,North America,Cameras,Frank Miller,39,557.13,21728.2,0.285,3.7
+2023-11-07,Asia Pacific,Gaming Consoles,Eva Brown,43,422.85,18182.69,0.226,4.9
+2022-10-28,Middle East & Africa,Gaming Consoles,Eva Brown,27,448.57,12111.3,0.349,3.9
+2020-08-18,Asia Pacific,Gaming Consoles,Henry Taylor,32,323.61,10355.45,0.161,3.6
+2024-09-23,Asia Pacific,Smart Watches,Frank Miller,23,209.15,4810.41,0.253,3.8
+2024-05-30,Latin America,Headphones,Eva Brown,14,176.31,2468.41,0.187,5.0
+2020-03-08,Middle East & Africa,Laptops,Grace Lee,21,936.64,19669.36,0.283,4.5
+2024-12-02,Middle East & Africa,Laptops,Eva Brown,28,655.49,18353.63,0.18,4.1
+2023-07-24,Europe,Tablets,David Wilson,21,298.7,6272.62,0.309,4.5
+2024-01-18,Europe,Smartphones,Henry Taylor,23,574.0,13202.05,0.274,5.0
+2021-10-16,Middle East & Africa,Tablets,Alice Johnson,19,258.26,4906.96,0.185,3.9
+2024-05-07,Latin America,Smartphones,David Wilson,22,510.62,11233.6,0.322,4.4
+2021-07-03,Latin America,Gaming Consoles,Frank Miller,30,475.1,14252.93,0.342,4.0
+2024-05-03,Middle East & Africa,Gaming Consoles,Frank Miller,18,361.12,6500.14,0.283,4.1
+2020-06-29,North America,Smart TVs,David Wilson,24,817.33,19615.94,0.33,4.2
+2022-01-01,North America,Cameras,Frank Miller,17,572.21,9727.61,0.164,4.5
+2021-09-11,Middle East & Africa,Laptops,David Wilson,16,740.06,11840.94,0.171,3.5
+2020-03-03,Europe,Laptops,Alice Johnson,20,911.15,18223.07,0.152,4.1
+2024-08-21,Middle East & Africa,Tablets,Eva Brown,21,281.73,5916.38,0.254,4.5
+2024-12-22,Middle East & Africa,Gaming Consoles,Bob Smith,39,392.25,15297.65,0.232,4.5
+2020-04-14,North America,Smartphones,David Wilson,18,581.65,10469.7,0.264,4.9
+2021-04-06,Latin America,Smartphones,Carol Davis,20,504.53,10090.68,0.319,4.4
+2022-02-09,Asia Pacific,Smartphones,David Wilson,18,583.32,10499.73,0.243,3.9
+2024-02-09,North America,Cameras,Henry Taylor,20,471.63,9432.58,0.226,4.1
+2020-05-11,Middle East & Africa,Laptops,Alice Johnson,20,936.71,18734.12,0.268,4.1
+2020-05-28,Asia Pacific,Headphones,Carol Davis,31,126.73,3928.5,0.238,4.2
+2021-04-18,Europe,Smart Watches,Bob Smith,19,203.56,3867.66,0.25,4.3
+2021-06-05,Asia Pacific,Cameras,Eva Brown,18,562.15,10118.63,0.339,3.7
+2024-03-19,Europe,Tablets,Grace Lee,15,311.27,4669.09,0.18,4.1
+2021-08-21,Latin America,Smart Watches,Eva Brown,19,241.66,4591.53,0.28,4.0
+2021-07-04,Europe,Laptops,David Wilson,22,751.95,16542.95,0.276,4.7
+2021-04-25,Latin America,Smart Watches,Eva Brown,23,206.78,4755.93,0.295,4.7
+2020-02-29,Europe,Smartphones,Henry Taylor,19,682.85,12974.23,0.255,4.5
+2023-04-03,North America,Headphones,Alice Johnson,22,163.6,3599.21,0.339,4.7
+2022-03-29,North America,Laptops,David Wilson,16,775.9,12414.36,0.181,4.7
+2024-01-19,Latin America,Smart TVs,Alice Johnson,12,725.41,8704.93,0.27,4.1
+2024-11-24,Europe,Smart Watches,Carol Davis,36,293.16,10553.63,0.292,4.6
+2022-08-17,North America,Cameras,David Wilson,16,441.98,7071.66,0.248,3.5
+2024-04-05,Latin America,Gaming Consoles,Alice Johnson,16,331.22,5299.5,0.155,3.9
+2022-06-23,North America,Gaming Consoles,Eva Brown,30,325.93,9777.85,0.257,4.6
+2023-03-13,Europe,Smart Watches,Alice Johnson,17,235.12,3997.11,0.312,4.0
+2024-05-07,Middle East & Africa,Smart Watches,Carol Davis,19,211.7,4022.39,0.187,3.7
+2020-07-04,Middle East & Africa,Smart TVs,Alice Johnson,24,659.79,15834.92,0.215,3.5
+2024-01-31,Europe,Laptops,Bob Smith,20,722.64,14452.89,0.246,5.0
+2021-09-13,Latin America,Cameras,Frank Miller,24,424.58,10189.97,0.191,4.1
+2023-03-24,Latin America,Laptops,Alice Johnson,23,754.32,17349.3,0.265,4.0
+2021-06-19,Europe,Smart TVs,Carol Davis,21,795.74,16710.55,0.267,3.6
+2021-11-26,Asia Pacific,Cameras,Frank Miller,36,461.76,16623.26,0.208,4.7
+2020-09-01,North America,Laptops,David Wilson,17,642.68,10925.51,0.167,3.7
+2024-03-20,Asia Pacific,Smartphones,Bob Smith,11,599.19,6591.14,0.179,4.9
+2024-01-25,Middle East & Africa,Tablets,Grace Lee,21,300.69,6314.47,0.313,4.8
+2024-03-11,Asia Pacific,Cameras,Eva Brown,19,529.82,10066.51,0.22,4.9
+2023-09-18,Latin America,Gaming Consoles,Bob Smith,13,373.28,4852.66,0.225,3.8
+2020-04-22,Middle East & Africa,Smartphones,Alice Johnson,23,554.63,12756.57,0.17,3.9
+2021-02-21,Asia Pacific,Gaming Consoles,Henry Taylor,20,342.41,6848.14,0.214,4.4
+2024-06-10,Middle East & Africa,Gaming Consoles,David Wilson,21,444.88,9342.55,0.301,4.4
+2020-03-18,Middle East & Africa,Smart TVs,David Wilson,23,804.29,18498.66,0.193,3.6
+2020-04-04,North America,Laptops,Eva Brown,25,822.67,20566.82,0.255,3.6
+2020-10-19,North America,Smart TVs,Alice Johnson,15,726.21,10893.16,0.183,3.7
+2021-05-05,Latin America,Smart Watches,David Wilson,23,220.6,5073.91,0.18,4.7
+2022-02-14,Middle East & Africa,Smart TVs,Henry Taylor,18,830.03,14940.49,0.173,4.0
+2020-12-08,Middle East & Africa,Gaming Consoles,Carol Davis,24,363.93,8734.25,0.315,3.5
+2023-07-10,Middle East & Africa,Smart Watches,David Wilson,19,278.5,5291.42,0.188,4.5
+2024-06-30,Europe,Smart Watches,Alice Johnson,24,242.56,5821.35,0.26,4.5
+2022-02-21,North America,Cameras,Frank Miller,17,538.77,9159.07,0.279,4.5
+2023-11-16,Latin America,Smart Watches,Carol Davis,28,237.35,6645.86,0.29,4.8
+2024-06-19,Europe,Smart Watches,Alice Johnson,22,267.98,5895.58,0.262,4.4
+2020-11-14,Latin America,Smart Watches,Eva Brown,36,256.28,9226.13,0.159,3.6
+2021-04-04,Middle East & Africa,Laptops,Alice Johnson,25,810.28,20257.06,0.23,3.7
+2022-12-28,North America,Cameras,Henry Taylor,27,410.46,11082.29,0.201,3.6
+2021-11-29,North America,Cameras,Frank Miller,25,558.96,13973.99,0.173,4.3
+2022-09-05,Europe,Tablets,Alice Johnson,20,284.17,5683.41,0.175,3.6
+2022-08-05,Europe,Smartphones,Frank Miller,21,604.94,12703.68,0.228,4.4
+2021-10-23,Middle East & Africa,Headphones,Bob Smith,19,145.02,2755.44,0.283,4.2
+2024-02-01,Latin America,Headphones,Bob Smith,20,152.83,3056.55,0.158,4.0
+2024-07-12,North America,Smart Watches,Bob Smith,34,229.56,7805.17,0.266,4.9
+2022-09-10,Latin America,Smart TVs,Henry Taylor,17,662.1,11255.69,0.322,3.9
+2021-02-16,Middle East & Africa,Tablets,Frank Miller,22,326.21,7176.7,0.255,3.6
+2023-10-08,North America,Smart Watches,Grace Lee,23,274.77,6319.81,0.238,4.6
+2021-01-11,Middle East & Africa,Cameras,Eva Brown,24,475.78,11418.66,0.157,3.7
+2023-11-18,Middle East & Africa,Laptops,David Wilson,25,939.7,23492.52,0.226,4.4
+2023-10-06,Asia Pacific,Gaming Consoles,Bob Smith,15,468.88,7033.27,0.31,4.1
+2024-07-14,Middle East & Africa,Headphones,Grace Lee,27,134.33,3627.03,0.158,4.4
+2022-05-05,Latin America,Tablets,Carol Davis,26,318.89,8291.23,0.329,4.1
+2020-07-23,Asia Pacific,Smartphones,Henry Taylor,25,708.14,17703.55,0.199,4.6
+2022-07-07,Latin America,Smartphones,Frank Miller,25,594.02,14850.47,0.309,4.0
+2023-10-15,Latin America,Smartphones,Bob Smith,21,520.86,10938.16,0.277,4.1
+2024-01-09,North America,Smart Watches,Eva Brown,15,281.83,4227.47,0.278,4.0
+2024-07-18,Europe,Gaming Consoles,Eva Brown,20,409.11,8182.16,0.172,4.9
+2020-07-24,North America,Headphones,Carol Davis,18,137.14,2468.48,0.204,4.8
+2021-06-23,Asia Pacific,Laptops,Eva Brown,25,828.9,20722.51,0.337,3.5
+2021-05-29,North America,Laptops,Grace Lee,15,855.02,12825.33,0.242,5.0
+2021-06-08,Middle East & Africa,Laptops,Eva Brown,24,909.82,21835.61,0.246,3.8
+2020-09-04,Latin America,Cameras,David Wilson,15,482.64,7239.61,0.325,3.7
+2024-07-05,Asia Pacific,Laptops,Eva Brown,18,936.58,16858.41,0.225,3.9
+2021-06-05,North America,Laptops,Eva Brown,25,784.46,19611.38,0.199,4.7
+2021-03-03,Europe,Tablets,David Wilson,20,347.93,6958.69,0.335,4.1
+2024-05-24,Latin America,Tablets,Alice Johnson,14,330.9,4632.54,0.195,3.6
+2021-04-16,Asia Pacific,Smart TVs,Frank Miller,22,595.41,13099.12,0.233,3.5
+2020-12-07,Asia Pacific,Gaming Consoles,Frank Miller,21,391.68,8225.2,0.188,3.9
+2024-03-29,North America,Tablets,Henry Taylor,19,345.2,6558.84,0.193,4.7
+2023-01-18,Latin America,Cameras,Carol Davis,16,486.93,7790.9,0.216,3.8
+2022-07-01,Asia Pacific,Tablets,Henry Taylor,20,274.7,5494.03,0.212,4.3
+2021-01-17,Middle East & Africa,Smart TVs,Alice Johnson,27,791.09,21359.43,0.313,4.9
+2020-08-20,Latin America,Smart Watches,Frank Miller,21,262.65,5515.62,0.309,5.0
+2023-07-02,Europe,Laptops,Eva Brown,22,841.57,18514.64,0.154,4.3
+2022-08-29,Latin America,Laptops,David Wilson,24,749.01,17976.23,0.163,3.8
+2023-11-08,Europe,Smartphones,David Wilson,39,544.49,21235.04,0.22,4.6
+2021-05-27,North America,Smartphones,David Wilson,21,668.58,14040.19,0.34,4.0
+2022-03-30,Europe,Tablets,Frank Miller,19,357.28,6788.4,0.319,3.8
+2023-12-16,North America,Tablets,Carol Davis,34,265.35,9021.95,0.277,5.0
+2022-06-16,Asia Pacific,Headphones,Henry Taylor,24,165.7,3976.91,0.162,5.0
+2021-09-03,North America,Laptops,Eva Brown,19,819.46,15569.74,0.196,4.7
+2023-03-25,Middle East & Africa,Smartphones,Alice Johnson,25,685.04,17126.08,0.287,4.3
+2024-10-12,North America,Cameras,Eva Brown,15,501.03,7515.49,0.256,4.7
+2020-04-15,Latin America,Smart TVs,Grace Lee,15,804.62,12069.26,0.165,3.9
+2022-12-02,Asia Pacific,Cameras,Carol Davis,39,402.37,15692.6,0.21,4.4
+2024-09-30,Europe,Gaming Consoles,David Wilson,22,331.28,7288.18,0.266,4.6
+2021-11-27,Asia Pacific,Smart TVs,Frank Miller,25,711.09,17777.31,0.176,4.3
+2021-12-23,Europe,Tablets,Carol Davis,37,277.46,10265.85,0.153,3.6
+2023-08-25,Latin America,Laptops,Frank Miller,22,675.33,14857.18,0.244,3.6
+2022-10-23,Europe,Smart TVs,Frank Miller,20,818.82,16376.38,0.26,4.4
+2023-08-21,Middle East & Africa,Cameras,Alice Johnson,24,568.84,13652.21,0.236,4.7
+2021-12-22,Latin America,Gaming Consoles,Carol Davis,34,367.6,12498.36,0.209,4.6
+2020-10-30,Latin America,Cameras,Frank Miller,23,420.9,9680.62,0.198,4.1
+2020-01-13,Latin America,Laptops,Henry Taylor,23,741.98,17065.61,0.24,4.4
+2023-03-19,Asia Pacific,Smart TVs,David Wilson,12,791.05,9492.65,0.211,5.0
+2021-05-12,Europe,Smartphones,Eva Brown,19,589.83,11206.86,0.202,4.6
+2023-08-17,Latin America,Smart Watches,Eva Brown,25,272.51,6812.73,0.174,3.8
+2022-08-13,Asia Pacific,Smart TVs,Eva Brown,17,591.43,10054.27,0.208,4.4
+2023-04-01,North America,Cameras,Grace Lee,19,527.53,10023.12,0.209,4.6
+2023-08-17,Latin America,Tablets,Frank Miller,19,291.32,5535.14,0.341,3.8
+2022-09-23,Asia Pacific,Smartphones,Frank Miller,18,501.25,9022.42,0.272,3.9
+2022-05-18,Latin America,Gaming Consoles,Carol Davis,20,431.71,8634.29,0.275,3.8
+2021-06-05,Middle East & Africa,Smart TVs,Bob Smith,24,650.25,15606.11,0.272,4.9
+2020-03-31,Middle East & Africa,Smartphones,David Wilson,15,655.06,9825.93,0.343,3.7
+2021-10-30,Asia Pacific,Tablets,Henry Taylor,22,248.56,5468.29,0.164,3.8
+2024-01-18,Latin America,Headphones,Frank Miller,18,128.74,2317.28,0.157,4.2
+2021-06-14,North America,Tablets,Carol Davis,27,317.43,8570.7,0.315,3.7
+2023-01-22,Europe,Smart Watches,Bob Smith,21,207.23,4351.77,0.288,4.3
+2024-06-14,Latin America,Smartphones,Alice Johnson,22,597.5,13145.02,0.212,4.8
+2022-12-14,Europe,Laptops,Grace Lee,34,868.17,29517.62,0.182,3.9
+2022-01-08,Europe,Cameras,Eva Brown,19,402.84,7653.97,0.181,4.1
+2024-05-14,Asia Pacific,Cameras,David Wilson,18,502.04,9036.77,0.176,4.6
+2022-04-28,Middle East & Africa,Gaming Consoles,Frank Miller,27,328.81,8877.76,0.187,4.9
+2020-07-14,Middle East & Africa,Cameras,Bob Smith,24,565.57,13573.58,0.155,3.9
+2021-11-09,Europe,Smart TVs,Alice Johnson,28,685.86,19203.94,0.344,4.8
+2023-10-12,Europe,Laptops,Henry Taylor,15,662.88,9943.21,0.228,4.6
+2022-06-17,Asia Pacific,Tablets,Frank Miller,22,359.34,7905.55,0.341,4.8
+2023-09-07,Europe,Tablets,Eva Brown,17,352.36,5990.16,0.154,4.2
+2020-06-26,Asia Pacific,Smart TVs,Henry Taylor,24,597.01,14328.13,0.225,4.5
+2020-02-04,North America,Smart Watches,Grace Lee,17,251.13,4269.21,0.341,4.2
+2020-04-26,Europe,Gaming Consoles,Bob Smith,28,384.06,10753.59,0.324,4.0
+2024-10-17,North America,Cameras,Bob Smith,10,541.25,5412.46,0.307,4.2
+2021-08-17,Middle East & Africa,Tablets,Bob Smith,19,256.89,4880.97,0.253,4.4
+2023-11-28,Europe,Gaming Consoles,Grace Lee,34,466.31,15854.56,0.154,4.9
+2022-09-04,Asia Pacific,Laptops,Bob Smith,17,851.14,14469.43,0.214,4.7
+2023-12-04,Asia Pacific,Tablets,Henry Taylor,30,288.1,8643.04,0.191,3.8
+2021-09-19,Latin America,Smart TVs,Carol Davis,27,830.43,22421.74,0.338,4.8
+2021-10-25,Middle East & Africa,Cameras,Bob Smith,16,484.35,7749.62,0.179,4.2
+2022-10-26,Middle East & Africa,Tablets,David Wilson,12,335.16,4021.93,0.177,4.3
+2022-02-11,Middle East & Africa,Smartphones,David Wilson,25,524.68,13116.99,0.175,3.7
+2020-01-03,Latin America,Smart TVs,Frank Miller,25,763.44,19086.1,0.252,4.4
+2023-11-11,Latin America,Headphones,David Wilson,30,159.56,4786.88,0.22,4.5
+2021-01-17,Middle East & Africa,Laptops,Grace Lee,25,749.28,18732.06,0.306,4.4
+2023-05-12,Asia Pacific,Smartphones,Frank Miller,16,662.61,10601.82,0.347,3.8
+2024-03-01,North America,Tablets,Bob Smith,15,335.26,5028.9,0.243,4.3
+2023-01-31,Latin America,Smart Watches,David Wilson,21,239.28,5024.85,0.289,4.9
+2020-12-13,Europe,Headphones,Alice Johnson,19,150.13,2852.43,0.154,3.9
+2020-10-27,Europe,Smart TVs,Eva Brown,20,803.31,16066.13,0.337,4.0
+2021-04-27,Latin America,Laptops,Frank Miller,19,777.34,14769.48,0.211,3.9
+2023-03-10,Latin America,Smartphones,Carol Davis,17,487.7,8290.82,0.167,3.9
+2020-06-13,Latin America,Laptops,Carol Davis,24,847.57,20341.6,0.294,4.8
+2020-09-02,Asia Pacific,Smart Watches,David Wilson,26,239.8,6234.82,0.223,3.5
+2024-06-02,Latin America,Laptops,Eva Brown,19,899.52,17090.97,0.322,5.0
+2024-06-29,Middle East & Africa,Gaming Consoles,David Wilson,14,321.09,4495.2,0.159,4.9
+2021-10-27,Middle East & Africa,Headphones,Grace Lee,26,140.16,3644.11,0.181,4.1
+2024-03-08,North America,Smart TVs,Alice Johnson,23,653.83,15038.0,0.157,3.9
+2020-04-16,Latin America,Smartphones,Bob Smith,23,521.25,11988.65,0.202,4.2
+2022-01-01,Europe,Tablets,Alice Johnson,23,338.67,7789.48,0.263,4.9
+2021-11-21,Middle East & Africa,Smartphones,Grace Lee,36,551.02,19836.8,0.293,3.6
+2022-02-24,Asia Pacific,Headphones,Bob Smith,23,163.07,3750.51,0.286,4.7
+2020-03-17,Middle East & Africa,Headphones,Alice Johnson,18,153.5,2763.06,0.333,4.1
+2022-01-31,North America,Cameras,David Wilson,15,465.63,6984.44,0.332,3.6
+2022-09-05,North America,Smartphones,Bob Smith,17,568.11,9657.9,0.332,4.0
+2020-07-23,Middle East & Africa,Laptops,Henry Taylor,24,714.98,17159.46,0.266,4.5
+2022-10-21,North America,Smart TVs,Grace Lee,17,834.84,14192.32,0.33,4.9
+2024-02-03,Europe,Cameras,Alice Johnson,22,549.84,12096.56,0.338,3.6
+2023-07-27,Latin America,Smart Watches,Henry Taylor,15,213.48,3202.2,0.333,4.2
+2020-09-05,Europe,Tablets,Grace Lee,18,293.14,5276.56,0.214,4.6
+2020-10-23,Latin America,Tablets,Eva Brown,24,342.9,8229.56,0.15,4.0
+2024-07-10,Middle East & Africa,Smartphones,Grace Lee,18,560.83,10094.94,0.264,4.7
+2020-01-15,North America,Smart Watches,Grace Lee,15,283.02,4245.27,0.34,4.5
+2022-03-02,Latin America,Gaming Consoles,David Wilson,19,417.31,7928.97,0.194,4.2
+2024-05-01,North America,Tablets,Frank Miller,30,348.73,10461.99,0.317,3.7
+2022-03-28,North America,Smart Watches,Eva Brown,16,233.29,3732.66,0.185,4.4
+2021-09-26,Asia Pacific,Gaming Consoles,Frank Miller,26,468.45,12179.69,0.217,4.3
+2021-01-29,Middle East & Africa,Smart Watches,Frank Miller,17,202.85,3448.48,0.332,3.5
+2020-10-16,Asia Pacific,Gaming Consoles,Henry Taylor,27,424.62,11464.85,0.284,3.5
+2022-01-22,Asia Pacific,Smart TVs,Bob Smith,27,656.54,17726.59,0.329,3.9
+2023-08-02,Middle East & Africa,Smart TVs,Frank Miller,28,622.97,17443.19,0.262,4.6
+2024-09-18,Middle East & Africa,Tablets,Grace Lee,25,348.45,8711.3,0.232,4.3
+2023-08-06,Europe,Smart Watches,Frank Miller,24,231.67,5560.12,0.202,3.6
+2023-08-22,Asia Pacific,Gaming Consoles,Eva Brown,22,440.34,9687.59,0.251,4.8
+2020-05-26,Middle East & Africa,Smart Watches,Bob Smith,22,298.29,6562.48,0.205,3.8
+2022-03-05,Asia Pacific,Gaming Consoles,Alice Johnson,27,375.68,10143.42,0.294,4.7
+2024-09-13,North America,Smartphones,David Wilson,24,533.11,12794.55,0.182,4.1
+2023-07-30,Latin America,Laptops,Grace Lee,25,717.19,17929.65,0.184,5.0
+2023-01-26,Middle East & Africa,Gaming Consoles,Alice Johnson,16,374.58,5993.22,0.258,4.5
+2024-12-30,North America,Cameras,Alice Johnson,31,404.85,12550.29,0.275,3.9
+2023-06-18,Europe,Smart TVs,Frank Miller,26,564.26,14670.75,0.322,3.7
+2023-05-02,North America,Headphones,Henry Taylor,22,122.37,2692.08,0.153,3.7
+2020-03-24,Europe,Smart Watches,Frank Miller,27,237.01,6399.4,0.164,4.8
+2021-11-20,Asia Pacific,Smart TVs,Alice Johnson,37,609.68,22558.19,0.245,4.2
+2021-12-28,Latin America,Smart Watches,Henry Taylor,24,290.14,6963.36,0.317,4.3
+2024-01-29,Latin America,Tablets,Henry Taylor,20,320.93,6418.64,0.231,4.2
+2022-10-28,North America,Smartphones,Henry Taylor,14,538.18,7534.53,0.187,3.6
+2021-11-20,Europe,Tablets,Henry Taylor,28,289.31,8100.7,0.258,3.9
+2021-01-08,Latin America,Tablets,Carol Davis,13,290.74,3779.66,0.188,3.5
+2020-03-05,Latin America,Smartphones,Henry Taylor,12,658.47,7901.65,0.347,4.5
+2024-04-07,Asia Pacific,Smartphones,Carol Davis,21,684.27,14369.6,0.235,4.9
+2021-08-06,Asia Pacific,Smart TVs,Grace Lee,23,701.46,16133.66,0.32,4.5
+2023-07-10,Europe,Cameras,Eva Brown,24,541.08,12985.83,0.208,3.9
+2023-10-12,Middle East & Africa,Smart Watches,Henry Taylor,23,219.37,5045.6,0.202,4.3
+2020-10-19,Asia Pacific,Gaming Consoles,Carol Davis,12,387.05,4644.62,0.153,4.0
+2021-09-09,Middle East & Africa,Gaming Consoles,David Wilson,18,401.59,7228.61,0.176,4.6
+2020-06-03,Middle East & Africa,Laptops,Henry Taylor,33,936.37,30900.07,0.309,4.9
+2024-03-24,Europe,Gaming Consoles,Henry Taylor,27,354.09,9560.42,0.204,4.0
+2020-01-16,North America,Smart Watches,Alice Johnson,28,295.44,8272.23,0.334,3.6
+2021-01-30,Latin America,Tablets,Bob Smith,24,299.61,7190.7,0.158,4.4
+2023-08-21,Europe,Smart Watches,Alice Johnson,24,299.7,7192.85,0.241,4.6
+2023-12-03,Middle East & Africa,Laptops,Alice Johnson,34,945.77,32156.03,0.284,3.6
+2023-12-09,Asia Pacific,Smart Watches,Grace Lee,33,297.83,9828.29,0.325,4.0
+2021-02-09,Asia Pacific,Smart TVs,Grace Lee,17,814.25,13842.25,0.197,4.9
+2021-05-06,Latin America,Smartphones,Alice Johnson,27,573.45,15483.1,0.338,4.1
+2023-02-05,Middle East & Africa,Gaming Consoles,Alice Johnson,15,360.52,5407.79,0.341,3.5
+2023-02-19,Latin America,Gaming Consoles,Bob Smith,19,398.62,7573.7,0.324,4.6
+2022-06-08,Middle East & Africa,Smart TVs,Frank Miller,27,780.18,21064.94,0.2,4.1
+2021-08-18,Europe,Cameras,Alice Johnson,14,581.02,8134.22,0.237,4.2
+2023-10-01,Europe,Smart TVs,David Wilson,16,774.24,12387.89,0.244,4.0
+2022-04-16,Europe,Smart TVs,Frank Miller,15,727.84,10917.6,0.162,4.7
+2023-03-30,North America,Cameras,Frank Miller,19,467.66,8885.49,0.312,3.7
+2024-11-25,North America,Cameras,Alice Johnson,22,518.3,11402.64,0.277,3.6
+2024-08-16,Asia Pacific,Headphones,Bob Smith,24,135.25,3246.07,0.322,4.8
+2023-12-13,Middle East & Africa,Smart Watches,Eva Brown,39,264.64,10320.97,0.259,3.6
+2021-08-08,Asia Pacific,Laptops,Alice Johnson,22,797.38,17542.35,0.184,3.9
+2021-05-18,Asia Pacific,Tablets,Alice Johnson,34,272.31,9258.62,0.268,4.4
+2020-10-29,North America,Gaming Consoles,Grace Lee,24,366.19,8788.48,0.338,4.7
+2022-06-16,Latin America,Smartphones,Grace Lee,22,524.98,11549.53,0.24,4.4
+2023-10-05,Middle East & Africa,Laptops,Frank Miller,25,908.37,22709.26,0.171,4.8
+2024-10-29,Asia Pacific,Smart Watches,Henry Taylor,22,290.79,6397.36,0.223,3.9
+2021-02-26,Europe,Tablets,David Wilson,18,331.15,5960.65,0.321,5.0
+2023-03-05,Asia Pacific,Gaming Consoles,Carol Davis,10,416.03,4160.29,0.207,4.8
+2023-07-13,Europe,Smartphones,Frank Miller,19,484.86,9212.28,0.255,4.3
+2020-05-21,Middle East & Africa,Laptops,Henry Taylor,27,758.04,20467.14,0.235,4.0
+2022-04-18,Asia Pacific,Smartphones,Frank Miller,21,673.42,14141.88,0.176,4.6
+2024-03-10,Europe,Laptops,Frank Miller,10,753.74,7537.4,0.2,4.5
+2024-08-19,Asia Pacific,Smart Watches,Frank Miller,21,283.59,5955.41,0.313,4.3
+2023-07-21,Europe,Tablets,David Wilson,28,325.31,9108.72,0.211,4.3
+2024-06-21,Middle East & Africa,Cameras,Henry Taylor,25,443.04,11076.1,0.163,4.3
+2021-01-01,Latin America,Laptops,Henry Taylor,22,721.01,15862.19,0.312,3.8
+2023-12-23,North America,Gaming Consoles,Grace Lee,27,409.25,11049.71,0.322,3.8
+2022-11-17,Asia Pacific,Cameras,David Wilson,28,552.85,15479.78,0.267,3.6
+2022-10-09,Middle East & Africa,Cameras,Eva Brown,21,479.63,10072.25,0.21,4.7
+2022-11-10,North America,Laptops,Carol Davis,46,902.25,41503.3,0.315,3.6
+2024-07-06,Latin America,Laptops,Alice Johnson,20,839.4,16788.05,0.249,3.8
+2022-04-02,Latin America,Tablets,Frank Miller,14,248.77,3482.73,0.226,4.6
+2022-03-11,Latin America,Gaming Consoles,Henry Taylor,18,350.46,6308.3,0.338,4.3
+2020-02-10,North America,Headphones,Alice Johnson,21,138.6,2910.65,0.2,4.0
+2023-06-28,Europe,Smart TVs,David Wilson,16,674.75,10796.08,0.348,4.2
+2022-07-01,Latin America,Smart Watches,Eva Brown,20,289.57,5791.3,0.311,3.7
+2020-09-18,Latin America,Tablets,Eva Brown,19,343.17,6520.18,0.29,4.3
+2024-11-14,Latin America,Smartphones,Bob Smith,30,530.01,15900.36,0.282,4.9
+2020-02-01,Europe,Tablets,Eva Brown,32,276.76,8856.36,0.283,4.8
+2022-11-08,Asia Pacific,Laptops,Eva Brown,31,767.11,23780.3,0.192,4.9
+2024-04-02,North America,Tablets,David Wilson,21,287.63,6040.22,0.211,4.6
+2021-07-29,Latin America,Smartphones,Henry Taylor,25,532.77,13319.3,0.224,4.0
+2023-10-03,North America,Laptops,Frank Miller,17,926.18,15745.01,0.245,4.9
+2022-11-17,Europe,Cameras,Alice Johnson,30,596.73,17901.86,0.228,4.0
+2024-05-28,North America,Gaming Consoles,David Wilson,18,389.14,7004.5,0.258,4.2
+2024-10-19,Europe,Smartphones,Bob Smith,23,650.91,14970.89,0.235,4.5
+2023-05-10,North America,Cameras,Grace Lee,19,545.54,10365.3,0.165,3.8
+2022-02-13,Latin America,Tablets,Grace Lee,21,274.23,5758.9,0.245,4.9
+2022-05-20,North America,Laptops,Henry Taylor,17,662.79,11267.36,0.31,3.9
+2022-10-10,Latin America,Smartphones,Bob Smith,30,691.86,20755.74,0.312,5.0
+2022-01-01,Latin America,Cameras,Alice Johnson,14,409.96,5739.46,0.203,3.6
+2022-12-21,Middle East & Africa,Tablets,Grace Lee,27,251.27,6784.27,0.282,4.0
+2024-02-21,Europe,Smartphones,Alice Johnson,34,548.43,18646.69,0.189,3.5
+2024-12-28,Europe,Cameras,Bob Smith,24,577.56,13861.53,0.289,4.1
+2022-07-11,North America,Gaming Consoles,Alice Johnson,26,456.38,11865.84,0.301,4.4
+2022-05-06,North America,Tablets,Eva Brown,24,266.97,6407.28,0.189,3.7
+2020-12-05,North America,Smartphones,Henry Taylor,30,619.11,18573.2,0.325,4.8
+2020-06-17,Middle East & Africa,Laptops,Henry Taylor,22,818.48,18006.66,0.28,3.7
+2022-03-08,Europe,Smart Watches,Eva Brown,23,270.99,6232.76,0.16,4.1
+2023-02-01,Middle East & Africa,Laptops,Carol Davis,17,677.63,11519.74,0.34,3.8
+2024-10-25,North America,Smart TVs,Frank Miller,24,808.85,19412.38,0.204,4.5
+2023-04-27,Latin America,Smart Watches,David Wilson,20,270.68,5413.53,0.294,3.6
+2024-09-05,North America,Headphones,Carol Davis,23,167.2,3845.58,0.218,4.7
+2020-07-21,North America,Smart Watches,Bob Smith,21,234.87,4932.28,0.303,3.6
+2022-09-12,Middle East & Africa,Cameras,Henry Taylor,17,555.28,9439.73,0.269,4.5
+2021-05-20,North America,Tablets,Carol Davis,25,309.28,7732.03,0.328,4.6
+2022-08-25,Latin America,Smartphones,Bob Smith,14,505.62,7078.7,0.313,4.5
+2024-04-09,Latin America,Laptops,Carol Davis,15,950.16,14252.35,0.19,3.6
+2022-03-15,Middle East & Africa,Smartphones,Frank Miller,24,616.07,14785.61,0.23,4.7
+2022-04-19,Europe,Smart TVs,Alice Johnson,24,714.01,17136.26,0.169,3.7
+2020-05-14,Europe,Smartphones,Bob Smith,20,505.07,10101.47,0.24,3.9
+2022-02-11,North America,Cameras,Henry Taylor,20,482.25,9645.02,0.242,3.7
+2020-01-17,Europe,Headphones,Grace Lee,33,165.21,5451.94,0.255,4.1
+2020-02-27,Europe,Smart TVs,Grace Lee,21,814.86,17112.1,0.211,4.2
+2022-12-03,Asia Pacific,Cameras,Frank Miller,42,416.16,17478.55,0.227,4.4
+2024-02-04,Asia Pacific,Headphones,Carol Davis,11,169.15,1860.69,0.166,4.8
+2020-06-06,Europe,Cameras,Carol Davis,21,430.58,9042.13,0.163,3.8
+2024-12-15,North America,Tablets,Henry Taylor,33,335.06,11056.99,0.249,3.9
+2020-10-23,Latin America,Gaming Consoles,Henry Taylor,28,348.8,9766.48,0.237,4.7
+2023-07-28,Europe,Tablets,David Wilson,24,249.78,5994.69,0.279,4.2
+2024-03-17,Europe,Gaming Consoles,David Wilson,20,337.07,6741.48,0.335,4.7
+2020-08-14,Asia Pacific,Headphones,Eva Brown,21,178.16,3741.26,0.161,4.4
+2022-01-21,Europe,Headphones,Henry Taylor,18,174.71,3144.72,0.34,4.7
+2024-03-10,Asia Pacific,Smartphones,Grace Lee,17,524.92,8923.58,0.157,4.9
+2024-07-22,Asia Pacific,Smart Watches,Bob Smith,22,266.1,5854.2,0.229,4.6
+2024-01-13,Asia Pacific,Cameras,Frank Miller,15,515.38,7730.73,0.281,3.8
+2024-11-17,North America,Cameras,Carol Davis,24,548.03,13152.72,0.24,4.9
+2020-11-03,Latin America,Headphones,Frank Miller,31,155.53,4821.47,0.326,4.0
+2023-01-23,Latin America,Gaming Consoles,Carol Davis,21,448.22,9412.61,0.164,4.5
+2022-02-21,Latin America,Laptops,Alice Johnson,25,880.94,22023.54,0.254,4.8
+2020-07-29,North America,Headphones,Alice Johnson,25,123.14,3078.52,0.34,4.5
+2021-08-01,Asia Pacific,Smartphones,Alice Johnson,13,690.52,8976.73,0.229,4.2
+2024-08-11,Latin America,Smart Watches,Henry Taylor,27,289.54,7817.57,0.16,4.5
+2023-02-10,Latin America,Tablets,Eva Brown,19,324.82,6171.55,0.248,3.8
+2021-12-23,Middle East & Africa,Smartphones,David Wilson,18,544.16,9794.86,0.276,4.3
+2024-11-06,Asia Pacific,Cameras,Carol Davis,39,424.47,16554.24,0.338,4.2
+2022-06-07,Latin America,Smart Watches,Alice Johnson,28,276.75,7748.99,0.3,4.3
+2024-12-01,Europe,Smart TVs,Grace Lee,31,678.24,21025.5,0.201,4.1
+2023-03-14,North America,Headphones,Frank Miller,23,159.07,3658.65,0.194,3.6
+2021-05-17,Europe,Tablets,Alice Johnson,17,284.19,4831.26,0.159,4.0
+2021-02-07,Europe,Headphones,Carol Davis,17,169.15,2875.55,0.349,4.0
+2021-11-16,North America,Smart Watches,Grace Lee,28,276.94,7754.42,0.171,4.7
+2020-08-28,Middle East & Africa,Gaming Consoles,Alice Johnson,23,353.82,8137.95,0.257,4.9
+2024-07-03,Middle East & Africa,Cameras,Carol Davis,21,420.82,8837.12,0.308,4.3
+2023-10-25,North America,Smart TVs,Henry Taylor,19,826.86,15710.37,0.235,3.8
+2021-10-25,Latin America,Laptops,Henry Taylor,18,651.12,11720.16,0.328,4.5
+2023-01-01,North America,Headphones,Bob Smith,20,171.97,3439.35,0.298,4.9
+2022-10-26,Latin America,Smart Watches,Bob Smith,16,236.45,3783.27,0.307,3.7
+2022-09-14,North America,Cameras,Henry Taylor,12,429.47,5153.65,0.182,3.5
+2023-08-03,North America,Smart Watches,Henry Taylor,21,241.57,5072.89,0.316,4.0
+2023-11-19,Middle East & Africa,Smartphones,Eva Brown,46,619.07,28477.11,0.33,3.5
+2023-05-10,North America,Smart Watches,Carol Davis,20,284.33,5686.66,0.294,4.9
+2022-10-30,Europe,Smartphones,David Wilson,18,545.69,9822.39,0.185,4.0
+2023-12-09,North America,Headphones,Eva Brown,31,139.55,4326.04,0.198,4.3
+2024-05-12,North America,Smartphones,Bob Smith,25,495.09,12377.25,0.275,3.8
+2020-02-16,Latin America,Smart Watches,Carol Davis,24,251.24,6029.84,0.274,4.7
+2024-03-16,Europe,Cameras,Eva Brown,27,445.67,12032.99,0.155,4.1
+2022-08-06,Latin America,Headphones,Bob Smith,22,170.2,3744.3,0.2,4.1
+2023-03-18,Europe,Smart TVs,Frank Miller,19,672.4,12775.68,0.303,4.9
+2021-12-12,Europe,Smart Watches,Henry Taylor,43,244.01,10492.62,0.309,4.4
+2022-01-12,Middle East & Africa,Tablets,Eva Brown,15,303.49,4552.39,0.325,4.2
+2021-04-27,Asia Pacific,Cameras,Eva Brown,21,533.67,11207.13,0.196,4.0
+2021-09-20,Middle East & Africa,Tablets,Frank Miller,18,356.52,6417.31,0.347,4.4
+2023-08-11,Middle East & Africa,Laptops,Alice Johnson,18,727.88,13101.91,0.205,4.0
+2021-05-06,Asia Pacific,Gaming Consoles,Frank Miller,22,469.23,10323.04,0.203,3.7
+2020-05-01,Latin America,Gaming Consoles,Henry Taylor,19,359.14,6823.62,0.303,3.6
+2023-02-11,Asia Pacific,Cameras,David Wilson,27,444.46,12000.37,0.161,4.4
+2020-02-19,Latin America,Cameras,Carol Davis,21,510.77,10726.09,0.296,3.6
+2023-09-05,North America,Laptops,Alice Johnson,17,751.25,12771.3,0.173,3.6
+2024-03-01,Asia Pacific,Smart TVs,Frank Miller,14,579.02,8106.27,0.172,4.3
+2020-01-16,Europe,Tablets,Henry Taylor,25,319.72,7993.0,0.176,4.5
+2024-06-27,Europe,Laptops,Bob Smith,26,885.16,23014.13,0.164,4.7
+2022-06-15,Middle East & Africa,Headphones,Eva Brown,21,147.79,3103.53,0.182,4.4
+2023-03-24,Europe,Smartphones,Henry Taylor,20,672.19,13443.76,0.249,3.7
+2022-02-18,North America,Smart Watches,Eva Brown,26,200.44,5211.37,0.205,4.4
+2021-03-31,Latin America,Headphones,Grace Lee,24,166.15,3987.63,0.236,4.6
+2022-02-28,Asia Pacific,Gaming Consoles,Carol Davis,23,477.02,10971.47,0.22,4.9
+2021-07-15,Europe,Smartphones,Eva Brown,22,588.03,12936.66,0.299,4.2
+2024-07-09,Europe,Headphones,Bob Smith,22,156.3,3438.69,0.288,3.9
+2020-08-03,Middle East & Africa,Headphones,Alice Johnson,19,130.19,2473.56,0.281,4.4
+2020-05-29,Latin America,Gaming Consoles,Grace Lee,23,391.78,9010.9,0.327,5.0
+2021-03-31,Europe,Laptops,Frank Miller,22,924.79,20345.34,0.319,3.9
+2022-07-10,Latin America,Cameras,Henry Taylor,30,417.57,12527.2,0.287,4.4
+2023-11-02,Latin America,Smart Watches,Carol Davis,34,294.19,10002.48,0.256,4.7
+2021-09-22,North America,Smart Watches,David Wilson,22,244.9,5387.76,0.216,4.7
+2023-06-14,Europe,Laptops,Alice Johnson,22,928.23,20421.11,0.17,3.7
+2023-11-13,Europe,Gaming Consoles,Carol Davis,33,432.86,14284.28,0.233,4.6
+2023-01-07,Middle East & Africa,Smartphones,Eva Brown,17,605.37,10291.32,0.236,4.5
+2020-07-10,Latin America,Headphones,Frank Miller,24,128.56,3085.34,0.261,4.0
+2021-06-27,North America,Headphones,Bob Smith,33,135.75,4479.67,0.279,4.8
+2023-05-11,Europe,Headphones,Carol Davis,15,152.42,2286.26,0.195,4.1
+2022-09-03,Latin America,Cameras,Eva Brown,25,477.82,11945.62,0.262,4.4
+2023-10-06,Latin America,Tablets,Bob Smith,18,331.33,5964.0,0.247,4.9
+2020-05-30,North America,Smartphones,Eva Brown,24,611.29,14670.88,0.161,4.1
+2024-06-01,Middle East & Africa,Laptops,Alice Johnson,31,749.09,23221.89,0.259,4.8
+2023-04-12,North America,Smartphones,Alice Johnson,20,480.85,9616.98,0.336,4.0
+2022-07-13,Latin America,Cameras,David Wilson,21,560.0,11759.97,0.337,4.1
+2024-02-03,Middle East & Africa,Smart TVs,Henry Taylor,24,663.01,15912.31,0.217,3.9
+2021-05-18,North America,Laptops,David Wilson,13,890.59,11577.69,0.22,3.8
+2024-02-22,Latin America,Headphones,Bob Smith,21,140.34,2947.23,0.24,3.7
+2020-07-04,Latin America,Laptops,David Wilson,22,942.42,20733.16,0.26,4.9
+2024-07-13,North America,Smart Watches,David Wilson,26,256.48,6668.51,0.322,4.7
+2020-03-12,Middle East & Africa,Laptops,Alice Johnson,19,724.29,13761.49,0.151,4.2
+2024-12-11,Middle East & Africa,Cameras,Bob Smith,30,473.27,14197.97,0.157,4.9
+2022-01-31,North America,Smart Watches,Bob Smith,21,249.55,5240.6,0.25,3.5
+2021-11-09,Middle East & Africa,Tablets,Bob Smith,33,245.35,8096.44,0.307,4.5
+2024-08-19,Middle East & Africa,Smart Watches,Frank Miller,18,287.28,5171.03,0.309,4.3
+2023-06-18,Middle East & Africa,Smart TVs,Grace Lee,28,780.83,21863.3,0.22,3.8
+2023-07-06,Middle East & Africa,Tablets,Frank Miller,30,335.88,10076.27,0.222,3.8
+2021-02-26,Europe,Smart TVs,Grace Lee,17,579.61,9853.36,0.308,4.4
+2024-04-30,Middle East & Africa,Smartphones,Grace Lee,17,588.01,9996.12,0.267,3.9
+2024-01-27,Asia Pacific,Cameras,Alice Johnson,23,567.2,13045.53,0.175,4.7
+2023-04-22,Asia Pacific,Cameras,Henry Taylor,20,457.24,9144.74,0.2,4.1
+2023-04-11,Europe,Smart Watches,David Wilson,19,216.85,4120.19,0.241,4.7
+2022-04-07,Latin America,Gaming Consoles,Eva Brown,16,368.87,5901.85,0.289,4.9
+2024-07-24,Middle East & Africa,Cameras,Alice Johnson,31,598.45,18551.94,0.229,4.1
+2020-09-02,Asia Pacific,Laptops,Carol Davis,20,692.56,13851.14,0.197,4.3
+2020-03-24,Middle East & Africa,Smart Watches,Carol Davis,19,272.93,5185.61,0.216,4.5
+2021-07-02,Middle East & Africa,Headphones,Henry Taylor,33,140.09,4623.02,0.243,4.9
+2021-05-05,Asia Pacific,Cameras,Eva Brown,14,421.32,5898.53,0.219,3.7
+2021-09-01,Middle East & Africa,Headphones,David Wilson,21,127.05,2668.0,0.288,4.1
+2024-09-16,Middle East & Africa,Laptops,Alice Johnson,12,720.88,8650.53,0.212,3.7
+2023-04-27,Latin America,Tablets,David Wilson,21,289.26,6074.44,0.189,4.6
+2021-09-09,North America,Cameras,Carol Davis,23,461.35,10611.15,0.245,4.2
+2020-09-16,Middle East & Africa,Smartphones,David Wilson,22,550.23,12105.0,0.214,4.2
+2022-07-22,Asia Pacific,Headphones,Alice Johnson,9,173.55,1561.97,0.162,4.8
+2020-10-31,Latin America,Headphones,Eva Brown,19,154.99,2944.73,0.337,4.8
+2023-08-26,Europe,Laptops,David Wilson,23,820.89,18880.53,0.2,4.1
+2021-08-14,Asia Pacific,Laptops,Bob Smith,10,647.09,6470.91,0.152,3.7
+2021-05-08,Europe,Smart TVs,Carol Davis,14,800.23,11203.19,0.286,3.9
+2022-06-23,North America,Headphones,Henry Taylor,27,172.25,4650.71,0.324,4.4
+2020-11-15,Latin America,Laptops,Eva Brown,37,874.49,32355.98,0.267,4.2
+2022-07-16,Asia Pacific,Smartphones,Bob Smith,16,522.51,8360.2,0.223,4.1
+2020-08-03,Middle East & Africa,Headphones,Frank Miller,14,123.1,1723.47,0.156,3.7
+2021-01-13,Latin America,Smart TVs,David Wilson,16,719.52,11512.28,0.194,4.6
+2020-04-09,Middle East & Africa,Smart TVs,David Wilson,22,781.18,17185.86,0.314,3.9
+2020-03-30,Europe,Cameras,Bob Smith,25,574.15,14353.63,0.277,4.8
+2023-11-21,North America,Smart TVs,Henry Taylor,31,679.4,21061.51,0.255,4.0
+2023-01-12,Asia Pacific,Cameras,Frank Miller,18,590.83,10634.87,0.33,4.7
+2021-06-19,Latin America,Tablets,Frank Miller,20,339.35,6787.04,0.291,4.2
+2023-03-30,Asia Pacific,Headphones,Henry Taylor,19,157.47,2991.84,0.315,4.9
+2022-06-15,North America,Gaming Consoles,Henry Taylor,26,398.5,10360.94,0.193,3.8
+2024-07-28,Asia Pacific,Laptops,Grace Lee,22,831.91,18301.92,0.22,4.2
+2023-03-22,North America,Laptops,Eva Brown,17,926.63,15752.71,0.288,3.7
+2021-06-19,Asia Pacific,Smartphones,Eva Brown,26,648.42,16858.8,0.301,4.7
+2021-12-26,Middle East & Africa,Smart TVs,Frank Miller,28,762.12,21339.42,0.327,4.4
+2022-02-24,Latin America,Tablets,Carol Davis,16,322.35,5157.6,0.214,3.8
+2020-08-09,Middle East & Africa,Smartphones,Grace Lee,19,645.56,12265.68,0.263,3.6
+2021-06-02,Middle East & Africa,Cameras,Carol Davis,18,483.21,8697.85,0.169,4.2
+2022-09-08,Latin America,Smart TVs,Carol Davis,18,713.76,12847.74,0.294,5.0
+2024-06-16,Asia Pacific,Smart TVs,Frank Miller,30,827.12,24813.73,0.252,4.9
+2020-12-12,Middle East & Africa,Smart Watches,Carol Davis,25,254.81,6370.3,0.241,4.8
+2023-06-17,North America,Smart Watches,Bob Smith,19,287.32,5459.16,0.225,4.8
+2023-03-14,Latin America,Smartphones,Frank Miller,24,516.33,12391.84,0.171,4.4
+2023-06-23,Middle East & Africa,Smart Watches,David Wilson,22,203.41,4475.01,0.287,4.8
+2021-06-08,Europe,Cameras,Frank Miller,20,416.01,8320.13,0.198,4.7
+2023-05-03,North America,Laptops,Grace Lee,27,893.3,24119.21,0.173,4.9
+2024-05-16,Europe,Smartphones,Henry Taylor,16,497.44,7959.1,0.317,3.8
+2021-02-01,Europe,Smart TVs,Grace Lee,24,702.84,16868.13,0.284,3.5
+2022-05-12,Asia Pacific,Cameras,Carol Davis,16,458.49,7335.92,0.307,4.6
+2020-08-02,Europe,Gaming Consoles,Bob Smith,22,446.77,9828.86,0.155,4.4
+2021-07-08,Latin America,Laptops,Henry Taylor,26,674.62,17540.11,0.278,4.3
+2021-12-02,Europe,Headphones,Alice Johnson,30,144.26,4327.87,0.195,3.5
+2024-12-18,Europe,Cameras,Eva Brown,24,437.92,10510.06,0.156,4.5
+2024-03-18,Europe,Smart TVs,Frank Miller,12,628.85,7546.22,0.245,4.9
+2020-04-25,Europe,Smart TVs,Alice Johnson,22,724.15,15931.23,0.261,4.0
+2024-04-08,Europe,Tablets,Eva Brown,10,292.86,2928.63,0.201,4.6
+2022-02-12,Asia Pacific,Smart Watches,Bob Smith,25,218.65,5466.28,0.185,4.8
+2022-11-25,Europe,Gaming Consoles,Henry Taylor,28,476.71,13347.94,0.309,4.0
+2021-03-19,Europe,Headphones,Frank Miller,17,131.16,2229.67,0.172,4.6
+2020-02-08,North America,Smartphones,Eva Brown,18,581.89,10474.1,0.317,4.8
+2021-08-09,Middle East & Africa,Cameras,Alice Johnson,28,597.81,16738.82,0.284,4.2
+2022-11-11,Latin America,Laptops,Bob Smith,37,651.39,24101.57,0.311,4.4
+2021-10-06,Europe,Smartphones,David Wilson,22,593.71,13061.58,0.28,3.5
+2020-06-25,North America,Laptops,Henry Taylor,27,935.45,25257.16,0.165,4.7
+2024-03-23,North America,Headphones,Grace Lee,20,170.31,3406.24,0.267,4.1
+2022-06-21,Asia Pacific,Cameras,David Wilson,28,475.38,13310.61,0.15,4.2
+2022-09-24,Europe,Cameras,Grace Lee,26,597.6,15537.51,0.283,4.5
+2021-05-13,Europe,Gaming Consoles,Grace Lee,20,364.47,7289.35,0.328,4.3
+2022-04-05,Middle East & Africa,Laptops,Carol Davis,23,836.49,19239.36,0.252,4.2
+2023-09-12,North America,Smartphones,Frank Miller,29,554.69,16085.9,0.24,4.7
+2022-07-15,Middle East & Africa,Smart TVs,Eva Brown,26,781.9,20329.41,0.176,4.6
+2023-01-09,Middle East & Africa,Laptops,Bob Smith,23,838.83,19293.06,0.254,4.8
+2020-01-10,Middle East & Africa,Cameras,Bob Smith,21,433.79,9109.68,0.243,3.7
+2023-04-22,Asia Pacific,Laptops,Grace Lee,19,722.24,13722.59,0.32,4.0
+2022-09-15,North America,Tablets,David Wilson,17,243.95,4147.13,0.271,4.4
+2024-04-01,Europe,Smart TVs,David Wilson,13,799.57,10394.39,0.335,3.6
+2023-02-24,North America,Gaming Consoles,Grace Lee,22,444.18,9772.01,0.257,4.7
+2020-10-04,Latin America,Gaming Consoles,Grace Lee,19,335.96,6383.28,0.305,4.1
+2020-11-16,Europe,Smartphones,Grace Lee,31,701.77,21754.82,0.166,4.9
+2024-11-14,Asia Pacific,Cameras,Henry Taylor,39,523.59,20419.89,0.339,4.5
+2023-03-12,Asia Pacific,Headphones,David Wilson,19,165.91,3152.23,0.303,3.9
+2024-11-16,Asia Pacific,Laptops,Carol Davis,28,924.56,25887.57,0.192,5.0
+2021-06-10,North America,Tablets,Bob Smith,22,264.69,5823.11,0.212,4.0
+2021-03-06,Asia Pacific,Cameras,Grace Lee,18,533.9,9610.13,0.153,4.7
+2021-06-02,Middle East & Africa,Smart TVs,Grace Lee,22,810.32,17826.96,0.343,4.8
+2020-10-04,Latin America,Smart TVs,Frank Miller,21,743.3,15609.24,0.16,3.7
+2020-06-23,Europe,Cameras,David Wilson,18,566.17,10191.01,0.232,4.5
+2022-11-08,Middle East & Africa,Laptops,Henry Taylor,27,851.81,22998.97,0.243,4.7
+2024-08-22,Asia Pacific,Headphones,Eva Brown,11,159.37,1753.06,0.321,3.9
+2022-12-01,Europe,Gaming Consoles,Grace Lee,24,443.78,10650.76,0.179,4.2
+2023-05-30,Asia Pacific,Laptops,David Wilson,22,834.78,18365.17,0.181,4.7
+2023-02-02,North America,Smart Watches,Grace Lee,25,239.66,5991.52,0.224,3.9
+2022-04-27,North America,Gaming Consoles,Bob Smith,20,370.07,7401.43,0.265,4.3
+2023-07-09,Europe,Smart TVs,Henry Taylor,19,686.37,13041.11,0.342,3.9
+2023-05-26,Asia Pacific,Tablets,Alice Johnson,22,339.3,7464.55,0.222,4.4
+2024-06-04,Middle East & Africa,Gaming Consoles,Frank Miller,19,404.49,7685.3,0.232,3.9
+2022-11-25,Latin America,Tablets,Carol Davis,31,254.45,7887.89,0.175,4.3
+2024-10-05,Latin America,Cameras,Grace Lee,19,400.26,7605.0,0.321,4.6
+2021-10-19,Middle East & Africa,Smart Watches,Alice Johnson,22,257.06,5655.23,0.238,4.3
+2024-10-16,Europe,Cameras,Carol Davis,22,412.6,9077.27,0.235,3.5
+2024-11-10,Latin America,Smart TVs,Henry Taylor,22,793.2,17450.35,0.273,4.9
+2020-07-27,North America,Smartphones,David Wilson,27,690.45,18642.04,0.306,3.5
+2023-04-27,Europe,Smart TVs,Carol Davis,14,691.2,9676.83,0.235,3.9
+2024-06-14,Middle East & Africa,Tablets,Henry Taylor,26,291.85,7588.1,0.269,4.0
+2024-12-03,Latin America,Headphones,David Wilson,28,132.12,3699.26,0.322,4.5
+2023-06-23,Latin America,Laptops,Alice Johnson,22,785.57,17282.57,0.309,4.1
+2021-02-05,Europe,Headphones,David Wilson,23,143.61,3302.94,0.163,3.8
+2023-05-05,Europe,Tablets,Henry Taylor,16,256.11,4097.74,0.165,5.0
+2020-12-05,North America,Smart Watches,Frank Miller,36,218.68,7872.51,0.281,4.1
+2022-08-08,Asia Pacific,Smart Watches,Frank Miller,16,232.14,3714.16,0.348,3.7
+2020-06-29,Asia Pacific,Cameras,Grace Lee,22,410.91,9039.97,0.318,4.5
+2023-03-02,Latin America,Gaming Consoles,Eva Brown,21,320.19,6724.04,0.273,3.8
+2021-12-08,Middle East & Africa,Laptops,Eva Brown,15,687.82,10317.27,0.266,4.5
+2022-10-19,Middle East & Africa,Gaming Consoles,David Wilson,13,388.18,5046.4,0.339,3.8
+2020-12-15,Europe,Smart Watches,Eva Brown,31,264.29,8193.09,0.322,4.2
+2024-10-02,Middle East & Africa,Tablets,Grace Lee,22,303.72,6681.85,0.287,4.5
+2021-06-06,Asia Pacific,Cameras,Carol Davis,28,535.64,14997.82,0.33,4.1
+2020-10-12,Europe,Cameras,Eva Brown,27,531.91,14361.46,0.26,4.2
+2024-05-26,Asia Pacific,Smart TVs,Grace Lee,15,587.63,8814.46,0.264,3.6
+2020-06-27,Middle East & Africa,Smart TVs,Alice Johnson,21,813.93,17092.55,0.164,4.5
+2021-06-09,Asia Pacific,Smart TVs,Eva Brown,26,679.21,17659.54,0.165,3.5
+2020-04-21,Latin America,Laptops,Henry Taylor,20,763.2,15264.1,0.175,4.1
+2022-03-29,North America,Laptops,Alice Johnson,15,672.16,10082.37,0.298,4.6
+2023-12-07,North America,Headphones,Eva Brown,22,164.12,3610.75,0.322,4.9
+2020-08-14,Latin America,Smartphones,David Wilson,16,699.52,11192.31,0.265,4.6
+2022-12-31,Europe,Tablets,Henry Taylor,16,326.25,5220.07,0.193,4.6
+2022-01-02,Middle East & Africa,Laptops,Alice Johnson,19,884.48,16805.1,0.348,4.0
+2023-07-24,Europe,Smartphones,Eva Brown,22,548.42,12065.33,0.241,3.9
+2024-08-25,Latin America,Tablets,Alice Johnson,24,312.39,7497.48,0.284,4.5
+2022-07-13,Latin America,Cameras,Eva Brown,31,496.77,15399.94,0.194,4.4
+2022-02-05,North America,Smart Watches,David Wilson,18,229.43,4129.83,0.303,4.6
+2024-11-20,Middle East & Africa,Tablets,Henry Taylor,28,270.29,7568.22,0.225,4.8
+2023-02-20,Asia Pacific,Cameras,Grace Lee,19,546.81,10389.44,0.253,4.7
+2020-02-03,Latin America,Laptops,Grace Lee,15,939.49,14092.35,0.177,4.2
+2020-03-15,Europe,Smart TVs,Alice Johnson,23,805.57,18528.06,0.186,4.7
+2021-07-24,Latin America,Cameras,Henry Taylor,18,532.38,9582.81,0.26,3.7
+2023-01-09,Asia Pacific,Tablets,Eva Brown,23,247.01,5681.27,0.262,3.6
+2021-05-30,Latin America,Smart TVs,Alice Johnson,21,620.98,13040.66,0.215,4.4
+2020-04-14,Asia Pacific,Smartphones,David Wilson,21,708.21,14872.4,0.167,3.5
+2023-07-10,Middle East & Africa,Laptops,Bob Smith,21,805.24,16909.98,0.169,4.0
+2022-08-21,North America,Gaming Consoles,Grace Lee,24,446.93,10726.32,0.284,4.5
+2020-10-11,Europe,Smart TVs,Alice Johnson,15,677.56,10163.45,0.273,4.6
+2020-12-09,Asia Pacific,Headphones,David Wilson,43,141.55,6086.64,0.294,4.4
+2023-08-01,Asia Pacific,Smart Watches,Bob Smith,15,261.41,3921.17,0.191,3.7
+2023-06-23,Middle East & Africa,Headphones,Grace Lee,19,167.94,3190.87,0.157,5.0
+2021-08-17,Europe,Headphones,Bob Smith,17,167.49,2847.41,0.341,4.1
+2024-07-22,Middle East & Africa,Tablets,Carol Davis,26,307.05,7983.22,0.162,4.5
+2021-09-04,Europe,Smart TVs,Frank Miller,25,650.63,16265.64,0.246,4.4
+2021-09-07,Middle East & Africa,Smartphones,Grace Lee,17,480.61,8170.31,0.17,4.7
+2023-05-15,Latin America,Laptops,Frank Miller,20,816.33,16326.6,0.179,4.4
+2021-07-06,Latin America,Cameras,Bob Smith,25,589.35,14733.86,0.166,4.4
+2024-11-26,Latin America,Headphones,Carol Davis,24,177.58,4262.0,0.242,4.3
+2022-12-08,Asia Pacific,Laptops,David Wilson,21,729.12,15311.47,0.339,4.8
+2022-02-24,Latin America,Smart TVs,Frank Miller,16,805.52,12888.28,0.256,4.0
+2022-09-17,Asia Pacific,Cameras,Carol Davis,22,586.32,12899.08,0.345,4.7
+2021-04-19,Latin America,Smart TVs,Eva Brown,23,792.01,18216.22,0.235,3.6
+2023-01-25,North America,Smartphones,David Wilson,31,629.58,19517.04,0.283,4.3
+2021-05-12,Latin America,Smart TVs,Bob Smith,32,635.13,20324.2,0.166,4.6
+2023-09-03,Asia Pacific,Laptops,Carol Davis,21,868.83,18245.48,0.247,4.1
+2020-08-31,Europe,Laptops,David Wilson,19,748.33,14218.29,0.189,4.8
+2020-07-20,North America,Headphones,Grace Lee,25,168.79,4219.68,0.307,4.8
+2022-05-06,Latin America,Laptops,Bob Smith,19,718.06,13643.11,0.318,4.1
+2021-09-10,Middle East & Africa,Gaming Consoles,Eva Brown,16,470.32,7525.07,0.236,4.0
+2021-10-20,Latin America,Gaming Consoles,Carol Davis,18,461.04,8298.65,0.308,4.3
+2022-10-15,Latin America,Cameras,Henry Taylor,21,433.98,9113.51,0.207,3.9
+2024-05-01,Latin America,Laptops,Alice Johnson,24,739.21,17740.97,0.256,3.8
+2024-05-31,Asia Pacific,Smart Watches,David Wilson,17,212.06,3604.96,0.174,4.6
+2021-02-10,Latin America,Cameras,Alice Johnson,10,529.5,5295.02,0.177,4.4
+2023-04-29,Asia Pacific,Cameras,Eva Brown,14,425.82,5961.45,0.277,4.6
+2021-05-16,North America,Smart Watches,Alice Johnson,10,292.12,2921.16,0.184,3.6
+2023-06-28,North America,Gaming Consoles,Frank Miller,21,338.9,7117.0,0.212,4.7
+2020-01-14,Asia Pacific,Cameras,Frank Miller,29,406.78,11796.48,0.348,4.2
+2020-05-16,Europe,Tablets,David Wilson,25,268.4,6709.91,0.325,4.7
+2024-02-05,Europe,Smart TVs,Henry Taylor,23,797.06,18332.39,0.233,3.6
+2021-07-06,North America,Cameras,Carol Davis,37,449.3,16624.22,0.263,4.7
+2024-08-08,Asia Pacific,Gaming Consoles,Frank Miller,22,389.21,8562.66,0.201,4.8
+2021-07-20,Europe,Smart Watches,Alice Johnson,24,232.32,5575.79,0.202,4.6
+2024-02-17,Latin America,Smartphones,Henry Taylor,19,610.39,11597.39,0.345,4.1
+2020-08-19,Middle East & Africa,Headphones,Grace Lee,15,129.01,1935.19,0.282,3.7
+2021-07-26,Asia Pacific,Tablets,Frank Miller,16,324.6,5193.64,0.227,3.9
+2022-02-27,North America,Cameras,Henry Taylor,15,541.49,8122.39,0.345,3.8
+2020-09-27,Asia Pacific,Gaming Consoles,David Wilson,20,404.73,8094.65,0.327,4.9
+2021-03-09,Latin America,Smart Watches,Grace Lee,23,235.64,5419.64,0.188,4.8
+2023-07-01,Middle East & Africa,Tablets,Frank Miller,27,263.11,7103.95,0.221,3.8
+2022-08-13,Asia Pacific,Smart Watches,Eva Brown,10,246.17,2461.66,0.191,4.0
+2022-08-07,Middle East & Africa,Gaming Consoles,Alice Johnson,23,381.95,8784.96,0.332,5.0
+2020-03-17,North America,Laptops,Frank Miller,20,779.66,15593.27,0.266,4.3
+2023-05-09,Latin America,Smartphones,Henry Taylor,14,698.74,9782.4,0.25,4.0
+2023-08-24,Europe,Gaming Consoles,Bob Smith,19,455.64,8657.19,0.225,4.4
+2020-06-10,Europe,Smart Watches,Grace Lee,27,235.34,6354.1,0.312,3.9
+2022-04-19,Middle East & Africa,Laptops,Frank Miller,18,675.93,12166.69,0.295,4.9
+2022-06-07,North America,Smart TVs,Grace Lee,30,681.51,20445.24,0.167,3.7
+2023-05-27,Europe,Cameras,Henry Taylor,17,540.68,9191.49,0.21,4.6
+2024-05-05,Europe,Laptops,Eva Brown,24,930.55,22333.15,0.162,4.4
+2023-03-15,Asia Pacific,Smart Watches,Carol Davis,23,228.88,5264.28,0.227,4.4
+2024-09-14,Middle East & Africa,Smart Watches,David Wilson,15,257.28,3859.13,0.324,4.9
+2021-05-31,Middle East & Africa,Cameras,Frank Miller,19,597.3,11348.65,0.236,4.0
+2021-03-23,Latin America,Smart Watches,Frank Miller,12,296.63,3559.58,0.181,4.6
+2021-12-21,Middle East & Africa,Laptops,David Wilson,31,801.46,24845.4,0.333,4.4
+2024-08-20,Asia Pacific,Gaming Consoles,Frank Miller,25,347.24,8680.93,0.188,4.9
+2022-10-26,Europe,Smartphones,Carol Davis,17,681.51,11585.69,0.222,4.1
+2024-10-01,Europe,Smartphones,Bob Smith,27,536.18,14476.81,0.232,4.6
+2021-01-30,Europe,Gaming Consoles,David Wilson,10,452.39,4523.91,0.155,4.5
+2023-04-06,North America,Laptops,Eva Brown,18,940.13,16922.37,0.256,3.5
+2022-11-06,Europe,Smart TVs,Eva Brown,33,607.54,20048.74,0.266,4.2
+2021-01-26,Asia Pacific,Gaming Consoles,Bob Smith,16,335.17,5362.77,0.219,3.6
+2021-01-06,North America,Smart TVs,Frank Miller,18,760.73,13693.1,0.266,4.9
+2023-09-24,Asia Pacific,Smart Watches,Bob Smith,15,217.25,3258.68,0.27,4.6
+2024-12-19,Asia Pacific,Smartphones,Bob Smith,34,684.96,23288.77,0.304,3.6
+2020-12-11,Latin America,Smart Watches,David Wilson,39,229.15,8936.9,0.197,4.3
+2022-01-13,Asia Pacific,Smart TVs,Grace Lee,23,586.0,13477.92,0.253,3.8
+2021-08-20,North America,Smart Watches,Henry Taylor,21,254.1,5336.16,0.335,4.9
+2022-09-22,Middle East & Africa,Smart Watches,David Wilson,19,263.63,5009.05,0.25,3.7
+2022-06-16,North America,Gaming Consoles,Alice Johnson,31,429.05,13300.41,0.218,4.4
+2022-10-17,Europe,Headphones,Bob Smith,10,137.76,1377.6,0.215,4.9
+2024-06-02,Middle East & Africa,Gaming Consoles,Carol Davis,24,386.67,9280.01,0.299,4.8
+2022-05-10,North America,Smartphones,Frank Miller,18,490.64,8831.58,0.212,4.5
+2023-10-15,Asia Pacific,Smart Watches,Carol Davis,17,236.41,4018.91,0.283,4.2
+2022-05-08,Asia Pacific,Smart Watches,David Wilson,13,267.62,3479.11,0.196,4.7
+2020-04-05,Europe,Tablets,Bob Smith,18,284.68,5124.25,0.214,4.4
+2024-11-23,Europe,Smart TVs,Henry Taylor,30,629.2,18876.02,0.154,4.4
+2023-07-11,Europe,Gaming Consoles,Alice Johnson,26,333.41,8668.64,0.182,4.6
+2022-02-01,Latin America,Laptops,Carol Davis,23,874.78,20119.95,0.223,4.1
+2023-03-30,Latin America,Smart Watches,David Wilson,15,248.11,3721.6,0.159,3.5
+2023-09-20,Latin America,Headphones,David Wilson,20,140.69,2813.85,0.28,4.8
+2023-08-16,Asia Pacific,Laptops,David Wilson,14,651.9,9126.55,0.178,4.9
+2024-11-28,North America,Smart Watches,Carol Davis,24,269.0,6455.98,0.324,4.7
+2024-08-03,Latin America,Smartphones,Bob Smith,17,505.9,8600.26,0.337,3.9
+2022-07-05,Middle East & Africa,Cameras,Frank Miller,37,555.71,20561.24,0.321,4.2
+2024-04-19,Europe,Smartphones,Eva Brown,27,534.51,14431.78,0.328,4.1
+2023-09-19,Europe,Smartphones,Eva Brown,22,540.89,11899.51,0.249,4.4
+2020-01-18,Asia Pacific,Smart TVs,Henry Taylor,35,661.11,23138.73,0.301,4.5
+2020-01-17,Europe,Smartphones,David Wilson,25,586.19,14654.83,0.181,4.4
+2024-03-11,North America,Gaming Consoles,Bob Smith,20,334.71,6694.2,0.287,4.1
+2022-12-26,Asia Pacific,Smartphones,Frank Miller,19,717.96,13641.28,0.256,4.5
+2024-11-16,Asia Pacific,Laptops,Grace Lee,28,860.35,24089.71,0.324,3.6
+2023-04-15,Latin America,Cameras,Bob Smith,23,501.13,11526.06,0.156,4.5
+2021-09-13,Middle East & Africa,Smartphones,Bob Smith,28,556.91,15593.42,0.19,4.8
+2020-03-31,Middle East & Africa,Headphones,Eva Brown,16,127.45,2039.22,0.338,4.9
+2022-11-17,Latin America,Gaming Consoles,Henry Taylor,24,457.19,10972.47,0.262,4.8
+2024-10-29,Asia Pacific,Smart TVs,David Wilson,19,831.4,15796.65,0.347,3.8
+2020-03-21,Europe,Tablets,Grace Lee,18,245.37,4416.57,0.204,3.6
+2023-10-26,North America,Laptops,Frank Miller,26,682.01,17732.31,0.338,4.8
+2022-06-16,Middle East & Africa,Laptops,David Wilson,30,896.94,26908.13,0.23,3.8
+2024-08-18,Latin America,Smart TVs,Bob Smith,11,728.3,8011.32,0.261,4.1
+2024-09-30,North America,Smartphones,Grace Lee,25,487.15,12178.68,0.337,4.3
+2023-09-28,Latin America,Tablets,David Wilson,17,356.24,6056.07,0.284,3.7
+2024-02-27,Europe,Headphones,Bob Smith,19,129.58,2461.99,0.156,4.9
+2022-04-14,Latin America,Cameras,Grace Lee,26,482.18,12536.68,0.261,3.9
+2024-11-21,Europe,Tablets,Eva Brown,22,296.7,6527.3,0.248,3.5
+2023-03-12,Middle East & Africa,Gaming Consoles,Eva Brown,22,387.68,8529.01,0.261,4.8
+2022-04-06,Europe,Smart Watches,David Wilson,20,210.99,4219.72,0.235,3.5
+2024-01-01,North America,Laptops,Carol Davis,25,919.59,22989.67,0.308,4.5
+2021-08-22,Latin America,Gaming Consoles,Henry Taylor,15,342.97,5144.59,0.282,4.5
+2024-10-13,Middle East & Africa,Gaming Consoles,Henry Taylor,19,430.13,8172.39,0.253,4.2
+2022-03-26,Asia Pacific,Headphones,Bob Smith,15,140.25,2103.8,0.25,4.5
+2021-04-16,Latin America,Smart TVs,Henry Taylor,26,725.58,18865.19,0.259,4.3
+2021-10-30,Europe,Smart TVs,Grace Lee,12,629.91,7558.93,0.272,4.5
+2021-04-02,Asia Pacific,Headphones,Bob Smith,16,164.68,2634.86,0.302,5.0
+2024-07-30,Asia Pacific,Cameras,Alice Johnson,28,425.71,11919.86,0.274,3.6
+2024-07-08,Europe,Smartphones,Carol Davis,27,608.22,16421.93,0.21,3.9
+2023-11-02,Middle East & Africa,Smart TVs,Grace Lee,30,685.59,20567.62,0.223,5.0
+2020-11-29,Europe,Smartphones,Carol Davis,30,561.76,16852.87,0.228,4.6
+2021-12-09,Latin America,Laptops,Carol Davis,30,675.21,20256.2,0.262,3.9
+2021-08-07,Asia Pacific,Cameras,Grace Lee,24,437.87,10508.8,0.192,4.3
+2022-06-09,Latin America,Smartphones,Carol Davis,14,659.55,9233.65,0.194,3.8
+2020-04-09,Middle East & Africa,Cameras,Henry Taylor,15,468.05,7020.68,0.214,4.9
+2020-06-11,North America,Cameras,Bob Smith,30,574.23,17227.02,0.204,3.6
+2021-02-24,Middle East & Africa,Laptops,Grace Lee,13,957.7,12450.11,0.286,4.6
+2020-04-16,Europe,Smartphones,Henry Taylor,22,556.37,12240.13,0.179,4.9
+2020-07-06,North America,Tablets,Henry Taylor,24,332.94,7990.57,0.338,3.7
+2020-12-10,Europe,Cameras,Grace Lee,19,551.75,10483.3,0.188,4.4
+2020-01-04,Europe,Smartphones,Carol Davis,29,616.5,17878.63,0.308,4.5
+2021-04-27,Europe,Smart TVs,Frank Miller,17,679.73,11555.41,0.314,4.7
+2023-12-05,North America,Smart Watches,Carol Davis,21,219.95,4618.86,0.203,4.6
+2024-07-07,Europe,Smartphones,Carol Davis,30,488.79,14663.75,0.269,4.1
+2022-03-09,Middle East & Africa,Smart Watches,Henry Taylor,17,280.58,4769.8,0.152,4.0
+2022-05-11,North America,Smart TVs,Grace Lee,16,696.73,11147.75,0.281,3.7
+2021-02-17,Latin America,Laptops,David Wilson,21,796.95,16735.89,0.165,3.6
+2022-08-08,Latin America,Cameras,Grace Lee,14,598.58,8380.13,0.229,4.4
+2023-07-30,North America,Smart TVs,Carol Davis,19,834.29,15851.55,0.346,4.1
+2022-02-13,Asia Pacific,Gaming Consoles,Henry Taylor,25,341.67,8541.83,0.314,4.9
+2020-06-13,Asia Pacific,Smartphones,Alice Johnson,15,688.67,10330.05,0.164,4.8
+2022-04-09,Latin America,Tablets,Carol Davis,17,276.7,4703.84,0.327,4.6
+2023-05-29,Middle East & Africa,Smartphones,Bob Smith,27,557.39,15049.42,0.264,4.3
+2024-11-16,Asia Pacific,Smart Watches,Eva Brown,24,226.4,5433.52,0.206,4.1
+2022-01-24,Latin America,Cameras,David Wilson,22,542.29,11930.4,0.18,4.2
+2020-09-21,Europe,Headphones,Frank Miller,19,161.0,3059.03,0.295,4.8
+2024-10-09,North America,Tablets,Grace Lee,18,286.34,5154.05,0.182,3.6
+2024-05-04,Middle East & Africa,Smart TVs,Eva Brown,23,706.24,16243.48,0.253,4.5
+2022-02-08,Asia Pacific,Laptops,Frank Miller,21,655.7,13769.68,0.172,4.3
+2023-11-12,North America,Cameras,Eva Brown,42,434.63,18254.25,0.16,3.9
+2021-05-23,Europe,Cameras,Henry Taylor,16,461.96,7391.29,0.325,4.0
+2022-04-11,North America,Headphones,Henry Taylor,18,164.57,2962.28,0.155,4.9
+2024-05-04,Latin America,Laptops,Henry Taylor,12,846.91,10162.93,0.22,3.9
+2020-02-02,Latin America,Laptops,Bob Smith,28,806.53,22582.86,0.191,4.3
+2022-07-18,Latin America,Smartphones,Alice Johnson,26,626.01,16276.32,0.158,4.6
+2023-01-23,Europe,Tablets,Henry Taylor,21,321.91,6760.11,0.318,3.7
+2021-01-19,Middle East & Africa,Smart Watches,Carol Davis,17,235.47,4003.02,0.155,4.3
+2023-09-30,Europe,Smart TVs,David Wilson,27,635.32,17153.75,0.27,3.8
+2020-04-06,Middle East & Africa,Laptops,David Wilson,27,887.21,23954.63,0.203,3.8
+2023-09-19,Asia Pacific,Gaming Consoles,Grace Lee,32,451.11,14435.52,0.205,4.0
+2024-11-13,Latin America,Smartphones,Eva Brown,30,591.23,17737.04,0.271,4.2
+2021-03-28,North America,Tablets,Bob Smith,15,290.32,4354.82,0.269,4.8
+2023-08-18,Europe,Smartphones,Eva Brown,19,612.46,11636.67,0.317,4.7
+2021-05-30,Middle East & Africa,Cameras,David Wilson,22,535.98,11791.46,0.203,4.0
+2024-06-20,North America,Gaming Consoles,Grace Lee,22,343.47,7556.39,0.318,3.7
+2020-02-29,Middle East & Africa,Tablets,David Wilson,21,275.99,5795.78,0.186,4.2
+2021-03-24,Middle East & Africa,Headphones,Grace Lee,18,128.77,2317.78,0.276,4.4
+2023-10-10,Latin America,Tablets,Bob Smith,21,336.07,7057.57,0.344,3.8
+2024-06-29,Latin America,Headphones,Frank Miller,27,121.19,3272.21,0.258,4.9
+2020-03-28,North America,Smartphones,Grace Lee,23,713.91,16419.84,0.288,4.8
+2024-06-01,Middle East & Africa,Smart TVs,Bob Smith,20,779.24,15584.71,0.209,4.3
+2023-11-11,Europe,Tablets,Carol Davis,31,305.04,9456.37,0.206,4.0
+2024-03-05,Europe,Smart Watches,Carol Davis,22,264.6,5821.22,0.221,4.5
+2023-12-18,Europe,Laptops,Alice Johnson,24,881.93,21166.21,0.254,3.9
+2022-07-01,Europe,Smartphones,Eva Brown,20,494.53,9890.65,0.287,4.4
+2023-03-03,Latin America,Smartphones,Frank Miller,20,602.72,12054.36,0.277,4.5
+2022-08-06,Europe,Smart TVs,Alice Johnson,28,629.32,17620.86,0.171,4.7
+2024-12-06,North America,Tablets,Grace Lee,31,241.85,7497.34,0.171,3.6
+2021-11-04,Asia Pacific,Laptops,Bob Smith,30,739.43,22182.75,0.324,3.8
+2020-03-09,Latin America,Headphones,Grace Lee,22,175.94,3870.59,0.325,4.0
+2024-02-10,Middle East & Africa,Smart TVs,Grace Lee,17,648.25,11020.29,0.325,4.0
+2024-02-10,Latin America,Tablets,Henry Taylor,33,315.28,10404.2,0.234,3.6
+2020-10-08,Latin America,Tablets,Frank Miller,13,258.44,3359.67,0.303,4.6
+2020-10-27,North America,Headphones,Frank Miller,18,135.99,2447.78,0.231,4.6
+2022-04-02,Europe,Tablets,David Wilson,17,286.66,4873.14,0.174,3.6
+2024-10-12,Latin America,Laptops,Carol Davis,20,955.65,19112.95,0.238,4.3
+2024-09-18,North America,Tablets,Carol Davis,23,324.57,7465.21,0.214,4.4
+2023-08-03,Asia Pacific,Smart Watches,Bob Smith,18,258.27,4648.9,0.18,4.8
+2024-02-25,Latin America,Gaming Consoles,David Wilson,25,441.39,11034.7,0.17,3.6
+2021-06-14,Europe,Laptops,David Wilson,24,901.48,21635.54,0.333,3.9
+2023-06-29,Europe,Smartphones,Henry Taylor,14,678.8,9503.17,0.245,4.7
+2020-10-30,Asia Pacific,Gaming Consoles,Carol Davis,30,463.72,13911.74,0.211,4.3
+2020-05-29,Middle East & Africa,Smart Watches,David Wilson,18,220.39,3967.0,0.187,4.2
+2022-01-29,Europe,Laptops,Alice Johnson,27,860.59,23235.9,0.284,4.2
+2021-08-22,Asia Pacific,Cameras,Grace Lee,16,402.53,6440.46,0.193,3.6
+2022-06-28,Asia Pacific,Smart TVs,Bob Smith,24,776.73,18641.42,0.159,4.1
+2021-07-22,Europe,Smart TVs,Bob Smith,24,600.84,14420.24,0.187,3.8
+2024-10-26,Latin America,Laptops,Eva Brown,21,871.71,18305.93,0.154,4.5
+2024-04-03,Latin America,Headphones,Bob Smith,18,171.83,3092.91,0.175,4.8
+2021-10-25,Europe,Tablets,Bob Smith,14,268.86,3764.06,0.211,4.9
+2021-11-25,North America,Headphones,Frank Miller,30,131.43,3942.81,0.347,4.7
+2022-01-09,Europe,Headphones,Bob Smith,19,141.83,2694.82,0.176,4.2
+2024-12-28,Asia Pacific,Tablets,Henry Taylor,36,309.84,11154.11,0.239,3.5
+2021-03-22,North America,Tablets,Alice Johnson,22,249.08,5479.7,0.243,5.0
+2022-09-21,Latin America,Smart Watches,Grace Lee,25,209.55,5238.66,0.307,4.2
+2021-07-02,North America,Cameras,Alice Johnson,26,441.33,11474.7,0.218,4.4
+2023-11-15,Asia Pacific,Laptops,Alice Johnson,25,888.17,22204.15,0.312,4.4
+2024-11-22,Latin America,Laptops,Eva Brown,30,650.12,19503.5,0.305,3.6
+2024-10-10,North America,Cameras,Alice Johnson,21,452.43,9500.95,0.236,3.7
+2024-08-29,Latin America,Cameras,Henry Taylor,19,422.01,8018.22,0.272,4.2
+2022-12-10,North America,Smart Watches,Bob Smith,37,255.7,9460.78,0.177,3.9
+2023-10-17,Europe,Smart Watches,Grace Lee,24,204.01,4896.33,0.259,3.6
+2021-09-15,Europe,Cameras,Grace Lee,28,543.9,15229.21,0.238,4.5
+2021-10-26,Latin America,Smartphones,Carol Davis,19,679.47,12909.99,0.22,4.1
+2022-04-27,Europe,Smart TVs,Henry Taylor,26,692.5,18005.01,0.344,4.1
+2021-08-19,Latin America,Smartphones,Eva Brown,14,664.81,9307.3,0.344,4.7
+2020-11-22,Middle East & Africa,Smartphones,Carol Davis,33,610.55,20148.27,0.253,4.5
+2020-10-27,Europe,Smartphones,Grace Lee,14,691.51,9681.13,0.262,4.1
+2022-05-28,Latin America,Gaming Consoles,Carol Davis,23,358.31,8241.14,0.187,4.0
+2022-05-19,Europe,Tablets,Carol Davis,23,331.93,7634.38,0.239,4.0
+2021-10-17,Europe,Smart TVs,Eva Brown,26,821.09,21348.24,0.276,4.9
+2022-10-31,North America,Cameras,Bob Smith,18,444.16,7994.97,0.181,4.9
+2024-03-15,Latin America,Smart Watches,Frank Miller,23,237.47,5461.82,0.244,4.1
+2021-09-19,Middle East & Africa,Tablets,Eva Brown,19,326.23,6198.41,0.238,3.7
+2021-02-01,North America,Tablets,Eva Brown,21,317.42,6665.75,0.217,4.9
+2022-03-25,Europe,Smart TVs,Carol Davis,20,718.67,14373.34,0.281,4.0
+2020-01-01,Europe,Smart Watches,Alice Johnson,25,240.71,6017.73,0.25,4.3
+2020-09-18,North America,Smart TVs,Eva Brown,25,728.4,18209.99,0.219,3.8
+2020-07-28,Latin America,Tablets,Grace Lee,20,286.41,5728.25,0.303,4.8
+2021-02-16,Latin America,Smart TVs,Frank Miller,14,606.0,8484.03,0.176,3.8
+2020-05-18,Europe,Smart Watches,Frank Miller,26,242.31,6299.95,0.322,3.7
+2024-01-04,Latin America,Tablets,Eva Brown,28,321.24,8994.84,0.282,3.8
+2024-01-06,Middle East & Africa,Laptops,Eva Brown,15,736.74,11051.17,0.322,3.5
+2023-11-25,Asia Pacific,Gaming Consoles,Henry Taylor,30,474.28,14228.26,0.266,4.3
+2021-09-09,Asia Pacific,Smartphones,David Wilson,23,692.45,15926.46,0.2,4.1
+2023-09-13,Middle East & Africa,Smart Watches,Carol Davis,18,288.87,5199.72,0.243,4.3
+2020-07-08,North America,Laptops,Carol Davis,26,921.37,23955.55,0.306,3.8
+2021-10-14,Middle East & Africa,Cameras,David Wilson,15,481.8,7226.96,0.29,4.5
+2022-03-02,Middle East & Africa,Smartphones,Grace Lee,24,668.88,16053.06,0.217,4.8
+2024-03-28,Middle East & Africa,Smart TVs,Henry Taylor,20,755.3,15105.99,0.245,4.8
+2020-09-28,Asia Pacific,Headphones,Grace Lee,18,128.23,2308.07,0.258,3.7
+2022-04-27,Latin America,Cameras,Carol Davis,18,575.13,10352.35,0.172,4.7
+2021-05-04,Europe,Smart TVs,Eva Brown,15,673.44,10101.53,0.325,4.3
+2022-01-31,Europe,Laptops,Carol Davis,15,883.61,13254.1,0.341,4.1
+2021-11-21,Asia Pacific,Cameras,Grace Lee,33,456.81,15074.63,0.175,4.9
+2023-09-13,Europe,Headphones,Bob Smith,21,141.15,2964.17,0.284,4.1
+2024-04-04,North America,Tablets,Bob Smith,22,303.94,6686.66,0.275,5.0
+2024-07-05,North America,Smart TVs,Carol Davis,18,731.78,13172.0,0.169,4.0
+2023-07-19,North America,Smart Watches,Henry Taylor,30,252.03,7561.04,0.336,4.9
+2023-06-22,Europe,Smart TVs,Eva Brown,18,711.6,12808.83,0.154,3.6
+2023-02-16,Europe,Cameras,Frank Miller,19,531.18,10092.49,0.335,3.9
+2023-02-20,Middle East & Africa,Cameras,Grace Lee,21,498.34,10465.09,0.325,4.0
+2020-11-21,Middle East & Africa,Smart TVs,Bob Smith,34,719.78,24472.53,0.327,3.5
+2022-08-05,Middle East & Africa,Tablets,Grace Lee,20,325.48,6509.67,0.247,3.8
+2021-09-04,North America,Smartphones,Grace Lee,20,657.25,13145.09,0.203,3.5
+2020-11-10,Latin America,Headphones,Eva Brown,39,146.68,5720.38,0.305,4.6
+2023-03-07,North America,Cameras,Carol Davis,28,472.67,13234.67,0.276,4.5
+2023-04-09,Latin America,Smart Watches,Carol Davis,27,218.92,5910.86,0.273,4.7
+2022-07-12,Europe,Smart TVs,Eva Brown,16,749.22,11987.52,0.17,3.7
+2022-05-04,Europe,Headphones,Henry Taylor,18,137.62,2477.07,0.301,3.8
+2023-09-09,Latin America,Laptops,David Wilson,25,794.31,19857.73,0.247,4.8
+2021-08-07,Middle East & Africa,Laptops,Alice Johnson,19,726.04,13794.81,0.232,4.6
+2023-12-08,Asia Pacific,Gaming Consoles,Bob Smith,34,461.87,15703.48,0.283,4.5
+2020-09-19,Middle East & Africa,Smartphones,Alice Johnson,24,717.3,17215.26,0.269,4.1
+2024-11-05,North America,Tablets,Henry Taylor,34,296.2,10070.76,0.322,4.3
+2021-08-12,North America,Headphones,Grace Lee,16,139.08,2225.35,0.18,3.9
+2024-10-28,Latin America,Smart TVs,Bob Smith,23,773.73,17795.9,0.154,4.3
+2023-07-29,North America,Headphones,Carol Davis,31,169.34,5249.65,0.233,3.5
+2023-11-20,North America,Smart TVs,Alice Johnson,24,690.66,16575.78,0.234,4.8
+2020-08-07,Latin America,Tablets,David Wilson,28,296.15,8292.12,0.169,4.7
+2023-09-24,Latin America,Smartphones,Bob Smith,15,581.55,8723.21,0.177,3.7
+2021-09-03,North America,Tablets,Grace Lee,23,294.3,6768.99,0.251,3.5
+2024-03-03,Latin America,Smartphones,Grace Lee,18,539.08,9703.53,0.284,4.0
+2020-07-03,Middle East & Africa,Headphones,Henry Taylor,25,123.94,3098.52,0.2,4.4
+2022-10-02,Europe,Cameras,Frank Miller,14,425.41,5955.75,0.251,4.3
+2020-11-17,Middle East & Africa,Tablets,Frank Miller,40,322.51,12900.4,0.221,3.9
+2023-08-27,North America,Smart TVs,Grace Lee,28,736.14,20611.83,0.234,4.1
+2021-08-28,North America,Headphones,Grace Lee,22,172.34,3791.58,0.217,3.7
+2022-10-18,Latin America,Cameras,Bob Smith,20,575.51,11510.18,0.171,4.1
+2022-08-22,Asia Pacific,Smart Watches,Alice Johnson,19,299.98,5699.63,0.249,3.8
+2020-03-04,Europe,Headphones,Bob Smith,22,141.66,3116.48,0.179,4.0
+2023-01-14,Middle East & Africa,Cameras,Grace Lee,20,568.34,11366.82,0.184,4.0
+2020-05-31,North America,Laptops,Alice Johnson,20,703.39,14067.71,0.259,5.0
+2024-06-25,Asia Pacific,Smartphones,David Wilson,28,516.88,14472.7,0.323,3.8
+2020-12-21,Latin America,Cameras,Carol Davis,34,451.33,15345.06,0.284,4.9
+2023-12-27,North America,Tablets,Carol Davis,16,325.28,5204.52,0.316,4.5
+2021-11-03,North America,Cameras,Grace Lee,27,584.93,15793.1,0.171,4.3
+2021-12-05,Europe,Cameras,David Wilson,30,529.09,15872.65,0.34,3.6
+2020-07-14,Europe,Gaming Consoles,Alice Johnson,28,395.49,11073.86,0.324,4.1
+2022-02-08,Asia Pacific,Tablets,Alice Johnson,23,296.22,6813.09,0.283,4.6
+2021-07-20,Latin America,Tablets,David Wilson,24,256.8,6163.31,0.284,3.9
+2022-02-07,Europe,Laptops,Frank Miller,15,716.72,10750.77,0.17,4.5
+2020-06-21,North America,Smartphones,Alice Johnson,33,627.46,20706.22,0.156,4.9
+2024-12-10,Latin America,Smartphones,Henry Taylor,40,691.9,27676.09,0.264,4.8
+2024-01-31,Latin America,Cameras,Bob Smith,21,489.44,10278.33,0.264,4.4
+2022-07-07,Asia Pacific,Cameras,Frank Miller,26,427.38,11111.77,0.337,4.9
+2023-03-02,Asia Pacific,Gaming Consoles,Grace Lee,19,449.94,8548.79,0.195,4.3
+2020-11-15,Latin America,Gaming Consoles,David Wilson,31,331.12,10264.65,0.247,4.2
+2022-09-20,Middle East & Africa,Headphones,Frank Miller,11,154.14,1695.57,0.157,4.3
+2024-02-26,North America,Headphones,Bob Smith,30,162.71,4881.22,0.298,4.2
+2021-02-01,Europe,Smart TVs,Carol Davis,24,567.7,13624.7,0.205,3.9
+2022-02-08,Europe,Smart Watches,David Wilson,12,222.68,2672.11,0.157,3.6
+2023-07-29,Middle East & Africa,Cameras,Alice Johnson,19,536.11,10186.11,0.199,4.4
+2024-10-22,Middle East & Africa,Cameras,Eva Brown,19,489.87,9307.59,0.249,3.9
+2021-02-06,Middle East & Africa,Tablets,David Wilson,26,281.98,7331.5,0.35,4.2
+2021-07-04,Europe,Gaming Consoles,Bob Smith,21,403.79,8479.63,0.166,3.7
+2023-12-23,Latin America,Tablets,Grace Lee,30,320.82,9624.66,0.235,4.3
+2021-09-06,North America,Gaming Consoles,Carol Davis,37,365.43,13520.79,0.199,3.9
+2024-06-12,Asia Pacific,Cameras,Henry Taylor,32,508.59,16274.88,0.277,4.3
+2020-12-24,Asia Pacific,Gaming Consoles,Eva Brown,30,447.29,13418.7,0.303,3.7
+2024-05-30,Middle East & Africa,Tablets,Henry Taylor,17,273.97,4657.48,0.311,3.8
+2020-01-31,Latin America,Smartphones,Bob Smith,25,577.41,14435.28,0.344,4.2
+2020-05-19,Latin America,Headphones,Henry Taylor,27,152.72,4123.39,0.235,4.3
+2022-12-12,Latin America,Tablets,Henry Taylor,19,285.1,5416.81,0.266,4.2
+2020-03-09,Middle East & Africa,Smart Watches,Carol Davis,21,295.46,6204.7,0.181,3.8
+2024-03-03,North America,Smartphones,Henry Taylor,24,487.97,11711.16,0.253,3.8
+2024-10-26,Middle East & Africa,Smart Watches,Frank Miller,28,218.08,6106.17,0.31,4.5
+2021-07-12,Middle East & Africa,Cameras,David Wilson,25,527.33,13183.21,0.21,3.8
+2022-05-03,Asia Pacific,Headphones,Frank Miller,12,156.5,1877.99,0.222,4.6
+2021-10-25,North America,Headphones,Bob Smith,22,177.83,3912.17,0.337,4.8
+2023-02-04,Asia Pacific,Tablets,Alice Johnson,20,323.54,6470.75,0.328,4.6
+2024-01-03,North America,Smart Watches,Frank Miller,18,284.68,5124.16,0.198,4.5
+2023-04-18,Middle East & Africa,Smart Watches,Grace Lee,20,238.19,4763.72,0.281,3.6
+2020-08-27,Europe,Smartphones,Henry Taylor,18,610.21,10983.83,0.188,4.3
+2024-01-28,Latin America,Laptops,David Wilson,24,890.48,21371.41,0.299,3.6
+2020-08-10,Asia Pacific,Smartphones,Alice Johnson,21,520.47,10929.89,0.345,4.2
+2022-09-20,North America,Laptops,Eva Brown,21,808.06,16969.18,0.317,3.5
+2021-04-17,Middle East & Africa,Headphones,Grace Lee,23,136.36,3136.28,0.151,4.6
+2024-11-18,Europe,Tablets,Carol Davis,33,298.64,9855.03,0.279,4.9
+2020-12-17,North America,Headphones,Grace Lee,33,151.99,5015.62,0.246,4.5
+2022-02-05,North America,Smart TVs,Carol Davis,19,672.46,12776.75,0.187,4.4
+2023-08-20,Middle East & Africa,Gaming Consoles,Henry Taylor,22,435.25,9575.54,0.316,3.8
+2020-08-20,North America,Headphones,Henry Taylor,29,133.89,3882.7,0.2,4.2
+2021-04-29,Middle East & Africa,Laptops,Alice Johnson,25,898.75,22468.69,0.334,4.1
+2024-01-09,Europe,Smart TVs,Alice Johnson,20,734.39,14687.84,0.181,4.8
+2020-11-25,Latin America,Laptops,Bob Smith,34,741.69,25217.51,0.212,4.6
+2020-07-20,Middle East & Africa,Gaming Consoles,Frank Miller,21,384.07,8065.5,0.176,4.0
+2020-08-17,Asia Pacific,Laptops,Bob Smith,19,838.13,15924.43,0.183,3.6
+2023-03-01,Latin America,Smartphones,Henry Taylor,19,691.27,13134.16,0.163,4.8
+2024-05-26,North America,Smart TVs,Henry Taylor,27,754.83,20380.42,0.266,4.5
+2024-02-25,North America,Smartphones,Frank Miller,21,694.64,14587.45,0.196,3.8
+2022-01-04,Europe,Smart Watches,David Wilson,23,237.7,5467.18,0.332,4.7
+2024-03-28,Europe,Gaming Consoles,Grace Lee,22,453.83,9984.29,0.161,4.7
+2024-04-22,Latin America,Gaming Consoles,Bob Smith,20,437.75,8755.03,0.259,4.9
+2023-12-19,Latin America,Smartphones,Henry Taylor,24,653.44,15682.46,0.294,4.7
+2023-03-06,Latin America,Smart TVs,Bob Smith,18,699.6,12592.87,0.188,4.3
+2022-09-30,Middle East & Africa,Smart TVs,Grace Lee,19,576.26,10948.9,0.321,4.9
+2020-02-26,Asia Pacific,Tablets,Frank Miller,26,317.73,8260.86,0.196,4.3
+2023-07-14,North America,Cameras,Henry Taylor,15,527.93,7918.93,0.157,4.5
+2021-10-29,Europe,Laptops,Grace Lee,19,642.08,12199.46,0.348,4.0
+2022-04-29,Asia Pacific,Laptops,David Wilson,16,725.96,11615.39,0.347,4.8
+2024-09-30,Latin America,Smart TVs,Alice Johnson,19,618.26,11746.99,0.18,4.3
+2023-07-10,Europe,Cameras,Henry Taylor,20,548.86,10977.12,0.299,4.5
+2024-12-05,Europe,Smart TVs,Henry Taylor,22,774.67,17042.7,0.338,4.1
+2022-08-13,Latin America,Tablets,Eva Brown,17,335.78,5708.33,0.191,4.0
+2021-04-26,Middle East & Africa,Gaming Consoles,Frank Miller,28,339.39,9502.99,0.187,4.9
+2024-01-25,Middle East & Africa,Cameras,Henry Taylor,19,591.94,11246.82,0.17,4.2
+2022-07-12,Latin America,Tablets,Bob Smith,34,264.77,9002.06,0.26,3.7
+2023-12-14,North America,Smart Watches,Bob Smith,28,203.18,5689.16,0.281,4.4
+2022-01-30,Middle East & Africa,Laptops,Bob Smith,19,734.84,13961.92,0.264,4.5
+2023-06-27,Asia Pacific,Smartphones,Carol Davis,25,543.5,13587.55,0.192,4.7
+2024-06-18,Middle East & Africa,Laptops,Carol Davis,25,875.42,21885.58,0.204,4.0
+2024-05-24,Europe,Laptops,David Wilson,21,959.98,20159.49,0.237,4.1
+2022-08-03,Asia Pacific,Smart Watches,Carol Davis,19,260.87,4956.59,0.325,4.8
+2022-12-15,Middle East & Africa,Headphones,David Wilson,33,121.56,4011.59,0.263,3.6
+2022-03-20,North America,Gaming Consoles,Grace Lee,19,463.57,8807.91,0.208,3.9
+2024-05-01,Asia Pacific,Gaming Consoles,Alice Johnson,25,342.93,8573.18,0.155,3.9
+2020-09-20,Asia Pacific,Smartphones,Frank Miller,16,715.96,11455.34,0.199,4.1
+2023-04-11,North America,Tablets,Frank Miller,20,323.39,6467.73,0.314,4.3
+2024-05-20,North America,Smartphones,Grace Lee,11,644.41,7088.48,0.19,4.7
+2020-01-09,Middle East & Africa,Smart TVs,Grace Lee,17,816.15,13874.52,0.214,4.7
+2024-06-06,Asia Pacific,Gaming Consoles,Carol Davis,16,464.6,7433.54,0.185,4.5
+2023-01-04,Europe,Tablets,Henry Taylor,20,324.9,6498.09,0.274,4.2
