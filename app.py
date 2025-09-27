@@ -77,6 +77,19 @@ def dashboard():
             initial_data = data_manager.get_dataset_summary(datasets[0]['id'])
         except Exception as e:
             print(f"Error loading initial data: {e}")
+            # Provide default data if no datasets available
+            initial_data = {
+                'total_rows': 0,
+                'columns': [],
+                'date_range': {'start': None, 'end': None}
+            }
+    else:
+        # Default data when no datasets are available
+        initial_data = {
+            'total_rows': 0,
+            'columns': [],
+            'date_range': {'start': None, 'end': None}
+        }
     
     # Get last commit info for the "Last Updated" display
     commit_info = get_last_commit_info()
@@ -299,5 +312,6 @@ if __name__ == '__main__':
     # Initialize sample data if not exists
     data_manager.initialize_sample_data()
     
-    # Run the application
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    # Get port from environment variable (Render uses PORT=10000)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(debug=False, host='0.0.0.0', port=port)
